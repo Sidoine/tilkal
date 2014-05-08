@@ -1,0 +1,2868 @@
+[08/22] 01:33:10 = [Tilkal] Server shut down.
+[08/22] 01:32:55 = 
+> [08/22] 01:32:50 = 
+> [08/22] 01:32:48 = 
+Guest connected from [127.0.0.1]
+[08/22] 01:32:44 = [Tilkal] Starting main loop.
+[08/22] 01:32:44 = [Tilkal] Starting thread.
+[08/22] 01:32:44 = [Tilkal] Loading text files.
+[08/22] 01:32:44 = [Tilkal] Initializing.
+[08/22] 01:32:44 = [Tilkal] Initiating skills.
+[08/22] 02:05:55 = [Tilkal] Server shut down.
+[08/22] 02:05:05 = 
+[Cardiac] disconnected.
+[08/22] 02:05:05 = Client 1 has lost connection.[08/22] 02:04:47 = 
+> [08/22] 02:04:22 = 
+Guest connected from [127.0.0.1]
+[08/22] 02:04:11 = 
+> [08/22] 02:04:10 = 
+Guest connected from [127.0.0.1]
+[08/22] 02:03:58 = [Tilkal] Starting main loop.
+[08/22] 02:03:58 = [Tilkal] Starting thread.
+[08/22] 02:03:58 = [Tilkal] Loading text files.
+[08/22] 02:03:58 = [Tilkal] Initializing.
+[08/22] 02:03:58 = [Tilkal] Initiating skills.
+[08/22] 02:11:59 = [Tilkal] Server shut down.
+[08/22] 02:11:58 = [Tilkal] Starting main loop.
+[08/22] 02:11:58 = [Tilkal] Starting thread.
+[08/22] 02:11:58 = [Tilkal] Loading text files.
+[08/22] 02:11:58 = [Tilkal] Initializing.
+[08/22] 02:11:58 = [Tilkal] Initiating skills.
+[08/22] 02:17:54 = [Tilkal] Server shut down.
+[08/22] 02:16:43 = 
+[l] disconnected.
+[08/22] 02:16:43 = 
+Client 0 has lost connection.[08/22] 02:16:28 = 
+[Cardiac] disconnected.
+[08/22] 02:16:28 = 
+Client 1 has lost connection.[08/22] 02:16:12 = 
+> [08/22] 02:15:51 = 
+Guest connected from [127.0.0.1]
+[08/22] 02:15:41 = 
+> [08/22] 02:15:40 = 
+Guest connected from [127.0.0.1]
+[08/22] 02:15:22 = 
+[l] disconnected.
+[08/22] 02:15:22 = 
+Client 0 has lost connection.[08/22] 02:15:11 = 
+> [08/22] 02:15:10 = 
+Guest connected from [127.0.0.1]
+[08/22] 02:15:04 = [Tilkal] Starting main loop.
+[08/22] 02:15:04 = [Tilkal] Starting thread.
+[08/22] 02:15:04 = [Tilkal] Loading text files.
+[08/22] 02:15:04 = [Tilkal] Initializing.
+[08/22] 02:15:04 = [Tilkal] Initiating skills.
+[08/22] 02:19:39 = [Tilkal] Server shut down.
+[08/22] 02:19:09 = 
+> [08/22] 02:19:07 = 
+Guest connected from [127.0.0.1]
+[08/22] 02:18:55 = [Tilkal] Starting main loop.
+[08/22] 02:18:55 = [Tilkal] Starting thread.
+[08/22] 02:18:55 = [Tilkal] Loading text files.
+[08/22] 02:18:55 = [Tilkal] Initializing.
+[08/22] 02:18:55 = [Tilkal] Initiating skills.
+[08/22] 02:20:12 = [Tilkal] Server shut down.
+[08/22] 02:20:08 = 
+[l] disconnected.
+[08/22] 02:20:05 = 
+> [08/22] 02:20:03 = 
+Guest connected from [127.0.0.1]
+[08/22] 02:20:01 = [Tilkal] Starting main loop.
+[08/22] 02:20:01 = [Tilkal] Starting thread.
+[08/22] 02:20:01 = [Tilkal] Loading text files.
+[08/22] 02:20:01 = [Tilkal] Initializing.
+[08/22] 02:20:01 = [Tilkal] Initiating skills.
+[08/22] 02:20:53 = [Tilkal] Server shut down.
+[08/22] 02:20:42 = 
+> [08/22] 02:20:40 = 
+Guest connected from [127.0.0.1]
+[08/22] 02:20:37 = [Tilkal] Starting main loop.
+[08/22] 02:20:37 = [Tilkal] Starting thread.
+[08/22] 02:20:37 = [Tilkal] Loading text files.
+[08/22] 02:20:37 = [Tilkal] Initializing.
+[08/22] 02:20:37 = [Tilkal] Initiating skills.
+[08/22] 04:28:55 = [Tilkal] Server shut down.
+[08/22] 04:28:35 = 
+> [08/22] 04:28:28 = 
+> [08/22] 04:28:26 = 
+Guest connected from [127.0.0.1]
+[08/22] 04:28:24 = [Tilkal] Starting main loop.
+[08/22] 04:28:24 = [Tilkal] Starting thread.
+[08/22] 04:28:24 = [Tilkal] Loading text files.
+[08/22] 04:28:24 = [Tilkal] Initializing.
+[08/22] 04:28:24 = [Tilkal] Initiating skills.
+[08/22] 05:01:37 = [Tilkal] Server shut down.
+[08/22] 05:01:30 = 
+> [08/22] 05:01:21 = 
+> [08/22] 05:01:20 = 
+Guest connected from [127.0.0.1]
+[08/22] 05:01:17 = [Tilkal] Starting main loop.
+[08/22] 05:01:17 = [Tilkal] Starting thread.
+[08/22] 05:01:17 = [Tilkal] Loading text files.
+[08/22] 05:01:17 = [Tilkal] Initializing.
+[08/22] 05:01:17 = [Tilkal] Initiating skills.
+[08/22] 16:37:37 = [Tilkal] Server shut down.
+[08/22] 16:37:24 = 
+> [08/22] 16:37:23 = 
+Guest connected from [127.0.0.1]
+[08/22] 16:37:20 = [Tilkal] Starting main loop.
+[08/22] 16:37:20 = [Tilkal] Starting thread.
+[08/22] 16:37:20 = [Tilkal] Loading text files.
+[08/22] 16:37:20 = [Tilkal] Initializing.
+[08/22] 16:37:20 = [Tilkal] Initiating skills.
+[08/22] 16:44:25 = [Tilkal] Server shut down.
+[08/22] 16:43:59 = 
+> [08/22] 16:43:55 = 
+Guest connected from [127.0.0.1]
+[08/22] 16:43:53 = [Tilkal] Starting main loop.
+[08/22] 16:43:53 = [Tilkal] Starting thread.
+[08/22] 16:43:53 = [Tilkal] Loading text files.
+[08/22] 16:43:53 = [Tilkal] Initializing.
+[08/22] 16:43:53 = [Tilkal] Initiating skills.
+[08/22] 16:46:37 = [Tilkal] Server shut down.
+[08/22] 16:46:24 = 
+> [08/22] 16:46:23 = 
+Guest connected from [127.0.0.1]
+[08/22] 16:46:21 = [Tilkal] Starting main loop.
+[08/22] 16:46:21 = [Tilkal] Starting thread.
+[08/22] 16:46:21 = [Tilkal] Loading text files.
+[08/22] 16:46:21 = [Tilkal] Initializing.
+[08/22] 16:46:21 = [Tilkal] Initiating skills.
+[08/22] 17:14:49 = [Tilkal] Server shut down.
+[08/22] 17:14:36 = 
+> [08/22] 17:14:35 = 
+Guest connected from [127.0.0.1]
+[08/22] 17:14:32 = [Tilkal] Starting main loop.
+[08/22] 17:14:32 = [Tilkal] Starting thread.
+[08/22] 17:14:32 = [Tilkal] Loading text files.
+[08/22] 17:14:32 = [Tilkal] Initializing.
+[08/22] 17:14:32 = [Tilkal] Initiating skills.
+[08/22] 17:20:24 = [Tilkal] Server shut down.
+[08/22] 17:20:09 = 
+> [08/22] 17:20:08 = 
+Guest connected from [127.0.0.1]
+[08/22] 17:20:05 = [Tilkal] Starting main loop.
+[08/22] 17:20:05 = [Tilkal] Starting thread.
+[08/22] 17:20:05 = [Tilkal] Loading text files.
+[08/22] 17:20:05 = [Tilkal] Initializing.
+[08/22] 17:20:05 = [Tilkal] Initiating skills.
+[08/22] 17:21:02 = [Tilkal] Server shut down.
+[08/22] 17:20:43 = 
+> [08/22] 17:20:41 = 
+Guest connected from [127.0.0.1]
+[08/22] 17:20:38 = [Tilkal] Starting main loop.
+[08/22] 17:20:38 = [Tilkal] Starting thread.
+[08/22] 17:20:38 = [Tilkal] Loading text files.
+[08/22] 17:20:38 = [Tilkal] Initializing.
+[08/22] 17:20:38 = [Tilkal] Initiating skills.
+[08/22] 17:22:21 = [Tilkal] Server shut down.
+[08/22] 17:22:06 = 
+> [08/22] 17:22:05 = 
+Guest connected from [127.0.0.1]
+[08/22] 17:22:01 = [Tilkal] Starting main loop.
+[08/22] 17:22:01 = [Tilkal] Starting thread.
+[08/22] 17:22:01 = [Tilkal] Loading text files.
+[08/22] 17:22:01 = [Tilkal] Initializing.
+[08/22] 17:22:01 = [Tilkal] Initiating skills.
+[08/22] 17:22:57 = [Tilkal] Server shut down.
+[08/22] 17:22:49 = 
+> [08/22] 17:22:48 = 
+Guest connected from [127.0.0.1]
+[08/22] 17:22:46 = [Tilkal] Starting main loop.
+[08/22] 17:22:46 = [Tilkal] Starting thread.
+[08/22] 17:22:46 = [Tilkal] Loading text files.
+[08/22] 17:22:46 = [Tilkal] Initializing.
+[08/22] 17:22:46 = [Tilkal] Initiating skills.
+[08/22] 17:48:28 = [Tilkal] Server shut down.
+[08/22] 17:48:16 = 
+> [08/22] 17:48:15 = 
+Guest connected from [127.0.0.1]
+[08/22] 17:48:12 = [Tilkal] Starting main loop.
+[08/22] 17:48:12 = [Tilkal] Starting thread.
+[08/22] 17:48:12 = [Tilkal] Loading text files.
+[08/22] 17:48:12 = [Tilkal] Initializing.
+[08/22] 17:48:12 = [Tilkal] Initiating skills.
+[08/22] 19:35:33 = [Tilkal] Server shut down.
+[08/22] 19:35:25 = 
+> [08/22] 19:35:23 = 
+Guest connected from [127.0.0.1]
+[08/22] 19:35:21 = [Tilkal] Starting main loop.
+[08/22] 19:35:21 = [Tilkal] Starting thread.
+[08/22] 19:35:21 = [Tilkal] Loading text files.
+[08/22] 19:35:21 = [Tilkal] Initializing.
+[08/22] 19:35:21 = [Tilkal] Initiating skills.
+[08/22] 19:39:05 = [Tilkal] Server shut down.
+[08/22] 19:38:53 = 
+> [08/22] 19:38:51 = 
+Guest connected from [127.0.0.1]
+[08/22] 19:38:48 = [Tilkal] Starting main loop.
+[08/22] 19:38:48 = [Tilkal] Starting thread.
+[08/22] 19:38:48 = [Tilkal] Loading text files.
+[08/22] 19:38:48 = [Tilkal] Initializing.
+[08/22] 19:38:48 = [Tilkal] Initiating skills.
+[08/22] 19:39:56 = [Tilkal] Server shut down.
+[08/22] 19:39:43 = 
+> [08/22] 19:39:41 = 
+Guest connected from [127.0.0.1]
+[08/22] 19:39:34 = [Tilkal] Starting main loop.
+[08/22] 19:39:34 = [Tilkal] Starting thread.
+[08/22] 19:39:34 = [Tilkal] Loading text files.
+[08/22] 19:39:34 = [Tilkal] Initializing.
+[08/22] 19:39:34 = [Tilkal] Initiating skills.
+[08/23] 00:02:03 = [Tilkal] Server shut down.
+[08/23] 00:01:31 = 
+> [08/23] 00:01:29 = 
+Guest connected from [127.0.0.1]
+[08/23] 00:01:27 = [Tilkal] Starting main loop.
+[08/23] 00:01:27 = [Tilkal] Starting thread.
+[08/23] 00:01:27 = [Tilkal] Loading text files.
+[08/23] 00:01:27 = [Tilkal] Initializing.
+[08/23] 00:01:27 = [Tilkal] Initiating skills.
+[08/23] 00:05:27 = [Tilkal] Server shut down.
+[08/23] 00:05:12 = 
+> [08/23] 00:05:10 = 
+Guest connected from [127.0.0.1]
+[08/23] 00:05:09 = [Tilkal] Starting main loop.
+[08/23] 00:05:09 = [Tilkal] Starting thread.
+[08/23] 00:05:09 = [Tilkal] Loading text files.
+[08/23] 00:05:09 = [Tilkal] Initializing.
+[08/23] 00:05:09 = [Tilkal] Initiating skills.
+[08/23] 00:05:57 = [Tilkal] Server shut down.
+[08/23] 00:05:49 = 
+> [08/23] 00:05:48 = 
+Guest connected from [127.0.0.1]
+[08/23] 00:05:47 = [Tilkal] Starting main loop.
+[08/23] 00:05:47 = [Tilkal] Starting thread.
+[08/23] 00:05:47 = [Tilkal] Loading text files.
+[08/23] 00:05:47 = [Tilkal] Initializing.
+[08/23] 00:05:47 = [Tilkal] Initiating skills.
+[08/23] 00:26:39 = [Tilkal] Server shut down.
+[08/23] 00:25:35 = 
+> [08/23] 00:25:34 = 
+Guest connected from [127.0.0.1]
+[08/23] 00:25:23 = [Tilkal] Starting main loop.
+[08/23] 00:25:23 = [Tilkal] Starting thread.
+[08/23] 00:25:23 = [Tilkal] Loading text files.
+[08/23] 00:25:23 = [Tilkal] Initializing.
+[08/23] 00:25:23 = [Tilkal] Initiating skills.
+[08/23] 00:27:15 = [Tilkal] Server shut down.
+[08/23] 00:27:01 = 
+> [08/23] 00:27:00 = 
+Guest connected from [127.0.0.1]
+[08/23] 00:26:56 = [Tilkal] Starting main loop.
+[08/23] 00:26:56 = [Tilkal] Starting thread.
+[08/23] 00:26:56 = [Tilkal] Loading text files.
+[08/23] 00:26:56 = [Tilkal] Initializing.
+[08/23] 00:26:56 = [Tilkal] Initiating skills.
+[08/23] 00:30:11 = [Tilkal] Server shut down.
+[08/23] 00:29:29 = 
+> [08/23] 00:29:27 = 
+Guest connected from [127.0.0.1]
+[08/23] 00:29:25 = [Tilkal] Starting main loop.
+[08/23] 00:29:25 = [Tilkal] Starting thread.
+[08/23] 00:29:25 = [Tilkal] Loading text files.
+[08/23] 00:29:25 = [Tilkal] Initializing.
+[08/23] 00:29:25 = [Tilkal] Initiating skills.
+[08/23] 00:33:38 = [Tilkal] Server shut down.
+[08/23] 00:33:36 = 
+[Lomion] disconnected.
+[08/23] 00:32:49 = 
+[Cardiac] disconnected.
+[08/23] 00:32:49 = 
+Client 1 has lost connection.[08/23] 00:32:36 = 
+> [08/23] 00:32:23 = 
+Guest connected from [127.0.0.1]
+[08/23] 00:31:56 = 
+> [08/23] 00:30:18 = 
+> [08/23] 00:30:17 = 
+Guest connected from [127.0.0.1]
+[08/23] 00:30:15 = [Tilkal] Starting main loop.
+[08/23] 00:30:15 = [Tilkal] Starting thread.
+[08/23] 00:30:15 = [Tilkal] Loading text files.
+[08/23] 00:30:15 = [Tilkal] Initializing.
+[08/23] 00:30:15 = [Tilkal] Initiating skills.
+[08/23] 00:34:58 = [Tilkal] Server shut down.
+[08/23] 00:33:53 = 
+Lomion has logged in.
+[08/23] 00:33:40 = 
+Guest connected from [127.0.0.1]
+[08/23] 00:33:38 = [Tilkal] Starting main loop.
+[08/23] 00:33:38 = [Tilkal] Starting thread.
+[08/23] 00:33:38 = [Tilkal] Loading text files.
+[08/23] 00:33:38 = [Tilkal] Initializing.
+[08/23] 00:33:38 = [Tilkal] Initiating skills.
+[08/23] 00:35:31 = [Tilkal] Server shut down.
+[08/23] 00:35:24 = 
+Lomion has logged in.
+[08/23] 00:35:10 = 
+Guest connected from [127.0.0.1]
+[08/23] 00:35:09 = 
+[l] disconnected.
+[08/23] 00:35:06 = 
+> [08/23] 00:35:05 = 
+Guest connected from [127.0.0.1]
+[08/23] 00:35:04 = [Tilkal] Starting main loop.
+[08/23] 00:35:04 = [Tilkal] Starting thread.
+[08/23] 00:35:04 = [Tilkal] Loading text files.
+[08/23] 00:35:04 = [Tilkal] Initializing.
+[08/23] 00:35:04 = [Tilkal] Initiating skills.
+[08/23] 03:10:33 = [Tilkal] Server shut down.
+[08/23] 03:10:16 = 
+> [08/23] 03:10:14 = 
+Guest connected from [127.0.0.1]
+[08/23] 03:10:11 = [Tilkal] Starting main loop.
+[08/23] 03:10:11 = [Tilkal] Starting thread.
+[08/23] 03:10:11 = [Tilkal] Loading text files.
+[08/23] 03:10:11 = [Tilkal] Initializing.
+[08/23] 03:10:11 = [Tilkal] Initiating skills.
+[08/23] 03:10:45 = [Tilkal] Server shut down.
+[08/23] 03:10:36 = 
+> [08/23] 03:10:34 = 
+Guest connected from [127.0.0.1]
+[08/23] 03:10:33 = [Tilkal] Starting main loop.
+[08/23] 03:10:33 = [Tilkal] Starting thread.
+[08/23] 03:10:33 = [Tilkal] Loading text files.
+[08/23] 03:10:33 = [Tilkal] Initializing.
+[08/23] 03:10:33 = [Tilkal] Initiating skills.
+[08/23] 03:11:21 = [Tilkal] Server shut down.
+[08/23] 03:10:48 = 
+> [08/23] 03:10:47 = 
+Guest connected from [127.0.0.1]
+[08/23] 03:10:46 = [Tilkal] Starting main loop.
+[08/23] 03:10:46 = [Tilkal] Starting thread.
+[08/23] 03:10:46 = [Tilkal] Loading text files.
+[08/23] 03:10:46 = [Tilkal] Initializing.
+[08/23] 03:10:46 = [Tilkal] Initiating skills.
+[08/23] 03:13:09 = [Tilkal] Server shut down.
+[08/23] 03:13:04 = 
+Guest connected from [127.0.0.1]
+[08/23] 03:13:03 = 
+[Cardiac] disconnected.
+[08/23] 03:12:47 = 
+> [08/23] 03:11:54 = 
+Guest connected from [127.0.0.1]
+[08/23] 03:11:24 = 
+> [08/23] 03:11:23 = 
+Guest connected from [127.0.0.1]
+[08/23] 03:11:22 = [Tilkal] Starting main loop.
+[08/23] 03:11:22 = [Tilkal] Starting thread.
+[08/23] 03:11:22 = [Tilkal] Loading text files.
+[08/23] 03:11:22 = [Tilkal] Initializing.
+[08/23] 03:11:22 = [Tilkal] Initiating skills.
+[08/23] 03:14:45 = [Tilkal] Server shut down.
+[08/23] 03:14:18 = 
+> [08/23] 03:14:16 = 
+Guest connected from [127.0.0.1]
+[08/23] 03:14:13 = [Tilkal] Starting main loop.
+[08/23] 03:14:13 = [Tilkal] Starting thread.
+[08/23] 03:14:13 = [Tilkal] Loading text files.
+[08/23] 03:14:13 = [Tilkal] Initializing.
+[08/23] 03:14:13 = [Tilkal] Initiating skills.
+[08/23] 03:16:27 = [Tilkal] Server shut down.
+[08/23] 03:15:30 = 
+> [08/23] 03:15:22 = 
+> [08/23] 03:15:09 = 
+Guest connected from [127.0.0.1]
+[08/23] 03:14:48 = 
+> [08/23] 03:14:47 = 
+Guest connected from [127.0.0.1]
+[08/23] 03:14:46 = [Tilkal] Starting main loop.
+[08/23] 03:14:46 = [Tilkal] Starting thread.
+[08/23] 03:14:46 = [Tilkal] Loading text files.
+[08/23] 03:14:46 = [Tilkal] Initializing.
+[08/23] 03:14:46 = [Tilkal] Initiating skills.
+[08/23] 13:41:57 = [Tilkal] Server shut down.
+[08/23] 13:40:41 = 
+> [08/23] 13:40:40 = 
+Guest connected from [127.0.0.1]
+[08/23] 13:40:36 = [Tilkal] Starting main loop.
+[08/23] 13:40:36 = [Tilkal] Starting thread.
+[08/23] 13:40:36 = [Tilkal] Loading text files.
+[08/23] 13:40:36 = [Tilkal] Initializing.
+[08/23] 13:40:36 = [Tilkal] Initiating skills.
+[08/23] 13:43:41 = [Tilkal] Server shut down.
+[08/23] 13:42:35 = 
+> [08/23] 13:42:33 = 
+Guest connected from [127.0.0.1]
+[08/23] 13:42:30 = [Tilkal] Starting main loop.
+[08/23] 13:42:30 = [Tilkal] Starting thread.
+[08/23] 13:42:30 = [Tilkal] Loading text files.
+[08/23] 13:42:30 = [Tilkal] Initializing.
+[08/23] 13:42:30 = [Tilkal] Initiating skills.
+[08/23] 13:48:43 = [Tilkal] Server shut down.
+[08/23] 13:48:25 = 
+> [08/23] 13:48:24 = 
+Guest connected from [127.0.0.1]
+[08/23] 13:48:21 = [Tilkal] Starting main loop.
+[08/23] 13:48:21 = [Tilkal] Starting thread.
+[08/23] 13:48:21 = [Tilkal] Loading text files.
+[08/23] 13:48:21 = [Tilkal] Initializing.
+[08/23] 13:48:21 = [Tilkal] Initiating skills.
+[08/23] 13:50:34 = [Tilkal] Server shut down.
+[08/23] 13:49:41 = 
+> [08/23] 13:49:40 = 
+Guest connected from [127.0.0.1]
+[08/23] 13:49:38 = [Tilkal] Starting main loop.
+[08/23] 13:49:38 = [Tilkal] Starting thread.
+[08/23] 13:49:38 = [Tilkal] Loading text files.
+[08/23] 13:49:38 = [Tilkal] Initializing.
+[08/23] 13:49:38 = [Tilkal] Initiating skills.
+[08/23] 13:54:21 = [Tilkal] Server shut down.
+[08/23] 13:54:11 = 
+> [08/23] 13:54:07 = 
+Guest connected from [127.0.0.1]
+[08/23] 13:54:04 = [Tilkal] Starting main loop.
+[08/23] 13:54:04 = [Tilkal] Starting thread.
+[08/23] 13:54:04 = [Tilkal] Loading text files.
+[08/23] 13:54:04 = [Tilkal] Initializing.
+[08/23] 13:54:04 = [Tilkal] Initiating skills.
+[08/23] 22:09:15 = [Tilkal] Server shut down.
+[08/23] 22:07:56 = 
+> [08/23] 22:07:12 = 
+Guest connected from [127.0.0.1]
+[08/23] 22:07:03 = [Tilkal] Starting main loop.
+[08/23] 22:07:03 = [Tilkal] Starting thread.
+[08/23] 22:07:03 = [Tilkal] Loading text files.
+[08/23] 22:07:03 = [Tilkal] Initializing.
+[08/23] 22:07:03 = [Tilkal] Initiating skills.
+[08/23] 22:12:23 = [Tilkal] Server shut down.
+[08/23] 22:12:08 = 
+> [08/23] 22:12:07 = 
+Guest connected from [127.0.0.1]
+[08/23] 22:12:05 = [Tilkal] Starting main loop.
+[08/23] 22:12:05 = [Tilkal] Starting thread.
+[08/23] 22:12:05 = [Tilkal] Loading text files.
+[08/23] 22:12:05 = [Tilkal] Initializing.
+[08/23] 22:12:05 = [Tilkal] Initiating skills.
+[08/23] 22:28:03 = [Tilkal] Server shut down.
+[08/23] 22:27:48 = 
+> [08/23] 22:27:47 = 
+Guest connected from [127.0.0.1]
+[08/23] 22:27:44 = [Tilkal] Starting main loop.
+[08/23] 22:27:44 = [Tilkal] Starting thread.
+[08/23] 22:27:44 = [Tilkal] Loading text files.
+[08/23] 22:27:44 = [Tilkal] Initializing.
+[08/23] 22:27:44 = [Tilkal] Initiating skills.
+[08/23] 22:29:20 = [Tilkal] Server shut down.
+[08/23] 22:28:06 = 
+> [08/23] 22:28:05 = 
+Guest connected from [127.0.0.1]
+[08/23] 22:28:04 = [Tilkal] Starting main loop.
+[08/23] 22:28:04 = [Tilkal] Starting thread.
+[08/23] 22:28:04 = [Tilkal] Loading text files.
+[08/23] 22:28:04 = [Tilkal] Initializing.
+[08/23] 22:28:04 = [Tilkal] Initiating skills.
+[08/24] 00:42:48 = [Tilkal] Server shut down.
+[08/24] 00:42:27 = 
+> [08/24] 00:42:26 = 
+Guest connected from [127.0.0.1]
+[08/24] 00:42:19 = [Tilkal] Starting main loop.
+[08/24] 00:42:19 = [Tilkal] Starting thread.
+[08/24] 00:42:19 = [Tilkal] Loading text files.
+[08/24] 00:42:19 = [Tilkal] Initializing.
+[08/24] 00:42:19 = [Tilkal] Initiating skills.
+[08/24] 00:44:31 = [Tilkal] Server shut down.
+[08/24] 00:44:26 = 
+> [08/24] 00:44:24 = 
+Guest connected from [127.0.0.1]
+[08/24] 00:44:19 = [Tilkal] Starting main loop.
+[08/24] 00:44:19 = [Tilkal] Starting thread.
+[08/24] 00:44:19 = [Tilkal] Loading text files.
+[08/24] 00:44:19 = [Tilkal] Initializing.
+[08/24] 00:44:19 = [Tilkal] Initiating skills.
+[08/24] 00:45:40 = [Tilkal] Server shut down.
+[08/24] 00:45:34 = 
+> [08/24] 00:45:33 = 
+Guest connected from [127.0.0.1]
+[08/24] 00:45:31 = [Tilkal] Starting main loop.
+[08/24] 00:45:31 = [Tilkal] Starting thread.
+[08/24] 00:45:31 = [Tilkal] Loading text files.
+[08/24] 00:45:31 = [Tilkal] Initializing.
+[08/24] 00:45:31 = [Tilkal] Initiating skills.
+[08/24] 00:47:59 = [Tilkal] Server shut down.
+[08/24] 00:47:48 = 
+> [08/24] 00:47:47 = 
+Guest connected from [127.0.0.1]
+[08/24] 00:47:44 = [Tilkal] Starting main loop.
+[08/24] 00:47:44 = [Tilkal] Starting thread.
+[08/24] 00:47:44 = [Tilkal] Loading text files.
+[08/24] 00:47:44 = [Tilkal] Initializing.
+[08/24] 00:47:44 = [Tilkal] Initiating skills.
+[08/24] 00:52:18 = [Tilkal] Server shut down.
+[08/24] 00:51:40 = 
+> [08/24] 00:51:39 = 
+Guest connected from [127.0.0.1]
+[08/24] 00:51:36 = [Tilkal] Starting main loop.
+[08/24] 00:51:36 = [Tilkal] Starting thread.
+[08/24] 00:51:36 = [Tilkal] Loading text files.
+[08/24] 00:51:36 = [Tilkal] Initializing.
+[08/24] 00:51:36 = [Tilkal] Initiating skills.
+[08/24] 00:53:16 = [Tilkal] Server shut down.
+[08/24] 00:52:48 = 
+> [08/24] 00:52:47 = 
+Guest connected from [127.0.0.1]
+[08/24] 00:52:45 = [Tilkal] Starting main loop.
+[08/24] 00:52:45 = [Tilkal] Starting thread.
+[08/24] 00:52:45 = [Tilkal] Loading text files.
+[08/24] 00:52:45 = [Tilkal] Initializing.
+[08/24] 00:52:45 = [Tilkal] Initiating skills.
+[08/24] 01:01:07 = [Tilkal] Server shut down.
+[08/24] 01:00:42 = 
+> [08/24] 01:00:41 = 
+Guest connected from [127.0.0.1]
+[08/24] 01:00:36 = 
+[l] disconnected.
+[08/24] 01:00:18 = 
+> [08/24] 01:00:16 = 
+Guest connected from [127.0.0.1]
+[08/24] 01:00:14 = [Tilkal] Starting main loop.
+[08/24] 01:00:14 = [Tilkal] Starting thread.
+[08/24] 01:00:14 = [Tilkal] Loading text files.
+[08/24] 01:00:14 = [Tilkal] Initializing.
+[08/24] 01:00:14 = [Tilkal] Initiating skills.
+[08/24] 01:01:47 = [Tilkal] Server shut down.
+[08/24] 01:01:14 = 
+> [08/24] 01:01:13 = 
+Guest connected from [127.0.0.1]
+[08/24] 01:01:10 = [Tilkal] Starting main loop.
+[08/24] 01:01:10 = [Tilkal] Starting thread.
+[08/24] 01:01:10 = [Tilkal] Loading text files.
+[08/24] 01:01:10 = [Tilkal] Initializing.
+[08/24] 01:01:10 = [Tilkal] Initiating skills.
+[08/24] 01:03:22 = [Tilkal] Server shut down.
+[08/24] 01:03:09 = 
+> [08/24] 01:03:08 = 
+Guest connected from [127.0.0.1]
+[08/24] 01:03:06 = [Tilkal] Starting main loop.
+[08/24] 01:03:06 = [Tilkal] Starting thread.
+[08/24] 01:03:06 = [Tilkal] Loading text files.
+[08/24] 01:03:06 = [Tilkal] Initializing.
+[08/24] 01:03:06 = [Tilkal] Initiating skills.
+[08/24] 01:03:50 = [Tilkal] Server shut down.
+[08/24] 01:03:37 = 
+> [08/24] 01:03:35 = 
+Guest connected from [127.0.0.1]
+[08/24] 01:03:33 = [Tilkal] Starting main loop.
+[08/24] 01:03:33 = [Tilkal] Starting thread.
+[08/24] 01:03:33 = [Tilkal] Loading text files.
+[08/24] 01:03:33 = [Tilkal] Initializing.
+[08/24] 01:03:33 = [Tilkal] Initiating skills.
+[08/24] 01:05:30 = [Tilkal] Server shut down.
+[08/24] 01:05:03 = 
+> [08/24] 01:05:02 = 
+Guest connected from [127.0.0.1]
+[08/24] 01:05:00 = [Tilkal] Starting main loop.
+[08/24] 01:05:00 = [Tilkal] Starting thread.
+[08/24] 01:05:00 = [Tilkal] Loading text files.
+[08/24] 01:05:00 = [Tilkal] Initializing.
+[08/24] 01:05:00 = [Tilkal] Initiating skills.
+[08/24] 01:06:06 = [Tilkal] Server shut down.
+[08/24] 01:05:48 = 
+> [08/24] 01:05:47 = 
+Guest connected from [127.0.0.1]
+[08/24] 01:05:45 = [Tilkal] Starting main loop.
+[08/24] 01:05:45 = [Tilkal] Starting thread.
+[08/24] 01:05:45 = [Tilkal] Loading text files.
+[08/24] 01:05:45 = [Tilkal] Initializing.
+[08/24] 01:05:45 = [Tilkal] Initiating skills.
+[08/24] 01:36:01 = [Tilkal] Server shut down.
+[08/24] 01:35:47 = 
+> [08/24] 01:34:45 = 
+Guest connected from [127.0.0.1]
+[08/24] 01:34:43 = [Tilkal] Starting main loop.
+[08/24] 01:34:43 = [Tilkal] Starting thread.
+[08/24] 01:34:43 = [Tilkal] Loading text files.
+[08/24] 01:34:43 = [Tilkal] Initializing.
+[08/24] 01:34:43 = [Tilkal] Initiating skills.
+[08/24] 01:37:50 = [Tilkal] Server shut down.
+[08/24] 01:37:30 = 
+> [08/24] 01:37:25 = 
+Guest connected from [127.0.0.1]
+[08/24] 01:37:22 = [Tilkal] Starting main loop.
+[08/24] 01:37:22 = [Tilkal] Starting thread.
+[08/24] 01:37:22 = [Tilkal] Loading text files.
+[08/24] 01:37:22 = [Tilkal] Initializing.
+[08/24] 01:37:22 = [Tilkal] Initiating skills.
+[08/24] 01:45:59 = [Tilkal] Server shut down.
+[08/24] 01:42:17 = 
+> [08/24] 01:39:10 = 
+> [08/24] 01:39:09 = 
+Guest connected from [127.0.0.1]
+[08/24] 01:39:06 = [Tilkal] Starting main loop.
+[08/24] 01:39:06 = [Tilkal] Starting thread.
+[08/24] 01:39:06 = [Tilkal] Loading text files.
+[08/24] 01:39:06 = [Tilkal] Initializing.
+[08/24] 01:39:06 = [Tilkal] Initiating skills.
+[08/24] 01:49:03 = [Tilkal] Server shut down.
+[08/24] 01:48:51 = 
+> [08/24] 01:48:50 = 
+Guest connected from [127.0.0.1]
+[08/24] 01:48:48 = [Tilkal] Starting main loop.
+[08/24] 01:48:48 = [Tilkal] Starting thread.
+[08/24] 01:48:48 = [Tilkal] Loading text files.
+[08/24] 01:48:48 = [Tilkal] Initializing.
+[08/24] 01:48:48 = [Tilkal] Initiating skills.
+[08/24] 01:49:05 = [Tilkal] Server shut down.
+[08/24] 01:49:04 = [Tilkal] Starting main loop.
+[08/24] 01:49:04 = [Tilkal] Starting thread.
+[08/24] 01:49:04 = [Tilkal] Loading text files.
+[08/24] 01:49:04 = [Tilkal] Initializing.
+[08/24] 01:49:04 = [Tilkal] Initiating skills.
+[08/24] 01:49:59 = [Tilkal] Server shut down.
+[08/24] 01:49:11 = 
+> [08/24] 01:49:09 = 
+Guest connected from [127.0.0.1]
+[08/24] 01:49:08 = [Tilkal] Starting main loop.
+[08/24] 01:49:08 = [Tilkal] Starting thread.
+[08/24] 01:49:08 = [Tilkal] Loading text files.
+[08/24] 01:49:08 = [Tilkal] Initializing.
+[08/24] 01:49:08 = [Tilkal] Initiating skills.
+[08/24] 01:51:02 = [Tilkal] Server shut down.
+[08/24] 01:50:05 = 
+> [08/24] 01:50:03 = 
+Guest connected from [127.0.0.1]
+[08/24] 01:50:02 = [Tilkal] Starting main loop.
+[08/24] 01:50:02 = [Tilkal] Starting thread.
+[08/24] 01:50:02 = [Tilkal] Loading text files.
+[08/24] 01:50:02 = [Tilkal] Initializing.
+[08/24] 01:50:02 = [Tilkal] Initiating skills.
+[08/24] 03:09:37 = [Tilkal] Server shut down.
+[08/24] 03:09:04 = 
+> [08/24] 03:09:03 = 
+Guest connected from [127.0.0.1]
+[08/24] 03:09:00 = [Tilkal] Starting main loop.
+[08/24] 03:09:00 = [Tilkal] Starting thread.
+[08/24] 03:09:00 = [Tilkal] Loading text files.
+[08/24] 03:09:00 = [Tilkal] Initializing.
+[08/24] 03:09:00 = [Tilkal] Initiating skills.
+[08/24] 03:10:17 = [Tilkal] Server shut down.
+[08/24] 03:09:40 = 
+> [08/24] 03:09:39 = 
+Guest connected from [127.0.0.1]
+[08/24] 03:09:37 = [Tilkal] Starting main loop.
+[08/24] 03:09:37 = [Tilkal] Starting thread.
+[08/24] 03:09:37 = [Tilkal] Loading text files.
+[08/24] 03:09:37 = [Tilkal] Initializing.
+[08/24] 03:09:37 = [Tilkal] Initiating skills.
+[08/24] 03:12:32 = [Tilkal] Server shut down.
+[08/24] 03:12:20 = 
+> [08/24] 03:12:10 = 
+> [08/24] 03:11:45 = 
+> [08/24] 03:11:27 = 
+> [08/24] 03:11:25 = 
+Guest connected from [127.0.0.1]
+[08/24] 03:11:23 = [Tilkal] Starting main loop.
+[08/24] 03:11:23 = [Tilkal] Starting thread.
+[08/24] 03:11:23 = [Tilkal] Loading text files.
+[08/24] 03:11:23 = [Tilkal] Initializing.
+[08/24] 03:11:23 = [Tilkal] Initiating skills.
+[08/24] 03:14:07 = [Tilkal] Server shut down.
+[08/24] 03:13:52 = 
+> [08/24] 03:13:35 = 
+> [08/24] 03:13:08 = 
+> [08/24] 03:12:35 = 
+> [08/24] 03:12:34 = 
+Guest connected from [127.0.0.1]
+[08/24] 03:12:32 = [Tilkal] Starting main loop.
+[08/24] 03:12:32 = [Tilkal] Starting thread.
+[08/24] 03:12:32 = [Tilkal] Loading text files.
+[08/24] 03:12:32 = [Tilkal] Initializing.
+[08/24] 03:12:32 = [Tilkal] Initiating skills.
+[08/24] 03:15:36 = [Tilkal] Server shut down.
+[08/24] 03:15:05 = 
+> [08/24] 03:14:47 = 
+> [08/24] 03:14:46 = 
+Guest connected from [127.0.0.1]
+[08/24] 03:14:44 = [Tilkal] Starting main loop.
+[08/24] 03:14:44 = [Tilkal] Starting thread.
+[08/24] 03:14:44 = [Tilkal] Loading text files.
+[08/24] 03:14:44 = [Tilkal] Initializing.
+[08/24] 03:14:44 = [Tilkal] Initiating skills.
+[08/24] 03:20:23 = [Tilkal] Server shut down.
+[08/24] 03:20:07 = 
+> [08/24] 03:20:06 = 
+Guest connected from [127.0.0.1]
+[08/24] 03:20:03 = [Tilkal] Starting main loop.
+[08/24] 03:20:03 = [Tilkal] Starting thread.
+[08/24] 03:20:03 = [Tilkal] Loading text files.
+[08/24] 03:20:03 = [Tilkal] Initializing.
+[08/24] 03:20:03 = [Tilkal] Initiating skills.
+[08/24] 03:20:35 = [Tilkal] Server shut down.
+[08/24] 03:20:26 = 
+> [08/24] 03:20:25 = 
+Guest connected from [127.0.0.1]
+[08/24] 03:20:24 = [Tilkal] Starting main loop.
+[08/24] 03:20:24 = [Tilkal] Starting thread.
+[08/24] 03:20:24 = [Tilkal] Loading text files.
+[08/24] 03:20:24 = [Tilkal] Initializing.
+[08/24] 03:20:24 = [Tilkal] Initiating skills.
+[08/24] 03:21:54 = [Tilkal] Server shut down.
+[08/24] 03:21:52 = 
+[l] disconnected.
+[08/24] 03:21:34 = 
+> [08/24] 03:21:01 = 
+> [08/24] 03:20:39 = 
+> [08/24] 03:20:38 = 
+Guest connected from [127.0.0.1]
+[08/24] 03:20:36 = [Tilkal] Starting main loop.
+[08/24] 03:20:36 = [Tilkal] Starting thread.
+[08/24] 03:20:36 = [Tilkal] Loading text files.
+[08/24] 03:20:36 = [Tilkal] Initializing.
+[08/24] 03:20:36 = [Tilkal] Initiating skills.
+[08/24] 04:14:58 = [Tilkal] Server shut down.
+[08/24] 04:14:50 = 
+[l] disconnected.
+[08/24] 04:13:53 = 
+> [08/24] 04:13:26 = 
+Lomion has logged in.
+[08/24] 04:13:11 = 
+Guest connected from [127.0.0.1]
+[08/24] 04:13:10 = 
+[l] disconnected.
+[08/24] 04:12:54 = 
+> [08/24] 04:12:52 = 
+Guest connected from [127.0.0.1]
+[08/24] 04:12:47 = [Tilkal] Starting main loop.
+[08/24] 04:12:47 = [Tilkal] Starting thread.
+[08/24] 04:12:47 = [Tilkal] Loading text files.
+[08/24] 04:12:47 = [Tilkal] Initializing.
+[08/24] 04:12:47 = [Tilkal] Initiating skills.
+[08/24] 04:20:18 = [Tilkal] Server shut down.
+[08/24] 04:20:07 = 
+Lomion has logged in.
+[08/24] 04:19:54 = 
+Lomion has logged in.
+[08/24] 04:19:40 = 
+Lomion has logged in.
+[08/24] 04:19:30 = 
+Lomion has logged in.
+[08/24] 04:19:16 = 
+Lomion has logged in.
+[08/24] 04:19:04 = 
+Lomion has logged in.
+[08/24] 04:18:52 = 
+Lomion has logged in.
+[08/24] 04:18:42 = 
+Lomion has logged in.
+[08/24] 04:18:30 = 
+Lomion has logged in.
+[08/24] 04:18:18 = 
+Lomion has logged in.
+[08/24] 04:18:01 = 
+Lomion has logged in.
+[08/24] 04:17:46 = 
+Lomion has logged in.
+[08/24] 04:17:35 = 
+Lomion has logged in.
+[08/24] 04:17:19 = 
+Lomion has logged in.
+[08/24] 04:17:02 = 
+Lomion has logged in.
+[08/24] 04:16:48 = 
+Lomion has logged in.
+[08/24] 04:16:38 = 
+Lomion has logged in.
+[08/24] 04:16:13 = 
+Lomion has logged in.
+[08/24] 04:15:59 = 
+Guest connected from [127.0.0.1]
+[08/24] 04:15:56 = [Tilkal] Starting main loop.
+[08/24] 04:15:56 = [Tilkal] Starting thread.
+[08/24] 04:15:56 = [Tilkal] Loading text files.
+[08/24] 04:15:56 = [Tilkal] Initializing.
+[08/24] 04:15:56 = [Tilkal] Initiating skills.
+[08/24] 05:41:53 = [Tilkal] Server shut down.
+[08/24] 05:41:51 = 
+[l] disconnected.
+[08/24] 05:39:33 = 
+> [08/24] 05:39:31 = 
+Guest connected from [127.0.0.1]
+[08/24] 05:39:29 = [Tilkal] Starting main loop.
+[08/24] 05:39:29 = [Tilkal] Starting thread.
+[08/24] 05:39:29 = [Tilkal] Loading text files.
+[08/24] 05:39:29 = [Tilkal] Initializing.
+[08/24] 05:39:29 = [Tilkal] Initiating skills.
+[08/24] 13:13:37 = [Tilkal] Server shut down.
+[08/24] 13:13:02 = 
+> [08/24] 13:13:00 = 
+Guest connected from [127.0.0.1]
+[08/24] 13:12:58 = [Tilkal] Starting main loop.
+[08/24] 13:12:58 = [Tilkal] Starting thread.
+[08/24] 13:12:58 = [Tilkal] Loading text files.
+[08/24] 13:12:58 = [Tilkal] Initializing.
+[08/24] 13:12:58 = [Tilkal] Initiating skills.
+[08/24] 13:15:30 = [Tilkal] Server shut down.
+[08/24] 13:14:08 = 
+> [08/24] 13:14:07 = 
+Guest connected from [127.0.0.1]
+[08/24] 13:14:04 = [Tilkal] Starting main loop.
+[08/24] 13:14:04 = [Tilkal] Starting thread.
+[08/24] 13:14:04 = [Tilkal] Loading text files.
+[08/24] 13:14:04 = [Tilkal] Initializing.
+[08/24] 13:14:04 = [Tilkal] Initiating skills.
+[08/30] 23:12:32 = [Tilkal] Server shut down.
+[08/30] 23:12:31 = 
+[guest] disconnected.
+[08/30] 23:11:54 = 
+Guest connected from [127.0.0.1]
+[08/30] 23:11:53 = 
+[guest] disconnected.
+[08/30] 23:10:49 = 
+Guest connected from [127.0.0.1]
+[08/30] 23:09:59 = [Tilkal] Starting main loop.
+[08/30] 23:09:59 = [Tilkal] Starting thread.
+[08/30] 23:09:59 = [Tilkal] Loading text files.
+[08/30] 23:09:59 = [Tilkal] Initializing.
+[08/30] 23:09:59 = [Tilkal] Initiating skills.
+[09/07] 01:43:44 = [Tilkal] Server shut down.
+[09/07] 01:43:42 = 
+[l] disconnected.
+[09/07] 01:41:30 = 
+> [09/07] 01:41:17 = 
+Guest connected from [127.0.0.1]
+[09/07] 01:41:07 = [Tilkal] Starting main loop.
+[09/07] 01:41:07 = [Tilkal] Starting thread.
+[09/07] 01:41:07 = [Tilkal] Loading text files.
+[09/07] 01:41:07 = [Tilkal] Initializing.
+[09/07] 01:41:07 = [Tilkal] Initiating skills.
+[09/07] 01:45:23 = [Tilkal] Server shut down.
+[09/07] 01:44:58 = 
+> [09/07] 01:44:57 = 
+Guest connected from [127.0.0.1]
+[09/07] 01:44:54 = [Tilkal] Starting main loop.
+[09/07] 01:44:54 = [Tilkal] Starting thread.
+[09/07] 01:44:54 = [Tilkal] Loading text files.
+[09/07] 01:44:54 = [Tilkal] Initializing.
+[09/07] 01:44:54 = [Tilkal] Initiating skills.
+[09/07] 02:01:54 = [Tilkal] Server shut down.
+[09/07] 02:01:22 = 
+> [09/07] 02:01:21 = 
+Guest connected from [127.0.0.1]
+[09/07] 02:01:18 = [Tilkal] Starting main loop.
+[09/07] 02:01:18 = [Tilkal] Starting thread.
+[09/07] 02:01:18 = [Tilkal] Loading text files.
+[09/07] 02:01:18 = [Tilkal] Initializing.
+[09/07] 02:01:18 = [Tilkal] Initiating skills.
+[09/07] 02:08:10 = [Tilkal] Server shut down.
+[09/07] 02:07:30 = 
+> [09/07] 02:07:29 = 
+Guest connected from [127.0.0.1]
+[09/07] 02:07:26 = [Tilkal] Starting main loop.
+[09/07] 02:07:26 = [Tilkal] Starting thread.
+[09/07] 02:07:26 = [Tilkal] Loading text files.
+[09/07] 02:07:26 = [Tilkal] Initializing.
+[09/07] 02:07:26 = [Tilkal] Initiating skills.
+[09/07] 02:08:13 = [Tilkal] Server shut down.
+[09/07] 02:08:11 = [Tilkal] Starting main loop.
+[09/07] 02:08:11 = [Tilkal] Starting thread.
+[09/07] 02:08:11 = [Tilkal] Loading text files.
+[09/07] 02:08:11 = [Tilkal] Initializing.
+[09/07] 02:08:11 = [Tilkal] Initiating skills.
+[09/07] 02:16:23 = [Tilkal] Server shut down.
+[09/07] 02:08:20 = 
+> [09/07] 02:08:19 = 
+Guest connected from [127.0.0.1]
+[09/07] 02:08:16 = [Tilkal] Starting main loop.
+[09/07] 02:08:16 = [Tilkal] Starting thread.
+[09/07] 02:08:16 = [Tilkal] Loading text files.
+[09/07] 02:08:16 = [Tilkal] Initializing.
+[09/07] 02:08:16 = [Tilkal] Initiating skills.
+[09/09] 17:05:07 = [Tilkal] Server shut down.
+[09/09] 17:02:30 = 
+> [09/09] 17:02:29 = 
+Guest connected from [127.0.0.1]
+[09/09] 17:02:05 = [Tilkal] Starting main loop.
+[09/09] 17:02:05 = [Tilkal] Starting thread.
+[09/09] 17:02:05 = [Tilkal] Loading text files.
+[09/09] 17:02:05 = [Tilkal] Initializing.
+[09/09] 17:02:05 = [Tilkal] Initiating skills.
+[09/09] 17:31:05 = [Tilkal] Server shut down.
+[09/09] 17:30:06 = 
+> [09/09] 17:30:04 = 
+Guest connected from [127.0.0.1]
+[09/09] 17:30:03 = [Tilkal] Starting main loop.
+[09/09] 17:30:02 = [Tilkal] Starting thread.
+[09/09] 17:30:02 = [Tilkal] Loading text files.
+[09/09] 17:30:02 = [Tilkal] Initializing.
+[09/09] 17:30:02 = [Tilkal] Initiating skills.
+[09/09] 18:20:14 = [Tilkal] Server shut down.
+[09/09] 18:19:19 = 
+> [09/09] 18:19:17 = 
+Guest connected from [127.0.0.1]
+[09/09] 18:19:15 = [Tilkal] Starting main loop.
+[09/09] 18:19:15 = [Tilkal] Starting thread.
+[09/09] 18:19:15 = [Tilkal] Loading text files.
+[09/09] 18:19:15 = [Tilkal] Initializing.
+[09/09] 18:19:15 = [Tilkal] Initiating skills.
+[09/09] 21:55:16 = [Tilkal] Server shut down.
+[09/09] 21:54:41 = 
+> [09/09] 21:54:39 = 
+Guest connected from [127.0.0.1]
+[09/09] 21:54:34 = [Tilkal] Starting main loop.
+[09/09] 21:54:34 = [Tilkal] Starting thread.
+[09/09] 21:54:34 = [Tilkal] Loading text files.
+[09/09] 21:54:34 = [Tilkal] Initializing.
+[09/09] 21:54:34 = [Tilkal] Initiating skills.
+[09/09] 22:05:24 = [Tilkal] Server shut down.
+[09/09] 22:05:11 = 
+> [09/09] 22:05:10 = 
+Guest connected from [127.0.0.1]
+[09/09] 22:05:07 = [Tilkal] Starting main loop.
+[09/09] 22:05:07 = [Tilkal] Starting thread.
+[09/09] 22:05:07 = [Tilkal] Loading text files.
+[09/09] 22:05:07 = [Tilkal] Initializing.
+[09/09] 22:05:07 = [Tilkal] Initiating skills.
+[09/09] 22:44:24 = [Tilkal] Server shut down.
+[09/09] 22:42:32 = 
+> [09/09] 22:42:30 = 
+Guest connected from [127.0.0.1]
+[09/09] 22:42:28 = [Tilkal] Starting main loop.
+[09/09] 22:42:28 = [Tilkal] Starting thread.
+[09/09] 22:42:28 = [Tilkal] Loading text files.
+[09/09] 22:42:28 = [Tilkal] Initializing.
+[09/09] 22:42:28 = [Tilkal] Initiating skills.
+[09/09] 22:44:37 = [Tilkal] Server shut down.
+[09/09] 22:44:36 = [Tilkal] Starting main loop.
+[09/09] 22:44:36 = [Tilkal] Starting thread.
+[09/09] 22:44:36 = [Tilkal] Loading text files.
+[09/09] 22:44:36 = [Tilkal] Initializing.
+[09/09] 22:44:36 = [Tilkal] Initiating skills.
+[09/09] 22:45:17 = [Tilkal] Server shut down.
+[09/09] 22:44:43 = 
+> [09/09] 22:44:42 = 
+Guest connected from [127.0.0.1]
+[09/09] 22:44:40 = [Tilkal] Starting main loop.
+[09/09] 22:44:40 = [Tilkal] Starting thread.
+[09/09] 22:44:40 = [Tilkal] Loading text files.
+[09/09] 22:44:40 = [Tilkal] Initializing.
+[09/09] 22:44:40 = [Tilkal] Initiating skills.
+[09/09] 22:45:36 = [Tilkal] Server shut down.
+[09/09] 22:45:21 = 
+> [09/09] 22:45:20 = 
+Guest connected from [127.0.0.1]
+[09/09] 22:45:18 = [Tilkal] Starting main loop.
+[09/09] 22:45:18 = [Tilkal] Starting thread.
+[09/09] 22:45:18 = [Tilkal] Loading text files.
+[09/09] 22:45:18 = [Tilkal] Initializing.
+[09/09] 22:45:18 = [Tilkal] Initiating skills.
+[09/09] 22:45:51 = [Tilkal] Server shut down.
+[09/09] 22:45:40 = 
+> [09/09] 22:45:38 = 
+Guest connected from [127.0.0.1]
+[09/09] 22:45:37 = [Tilkal] Starting main loop.
+[09/09] 22:45:37 = [Tilkal] Starting thread.
+[09/09] 22:45:37 = [Tilkal] Loading text files.
+[09/09] 22:45:37 = [Tilkal] Initializing.
+[09/09] 22:45:37 = [Tilkal] Initiating skills.
+[09/09] 22:49:09 = [Tilkal] Server shut down.
+[09/09] 22:46:17 = 
+> [09/09] 22:46:16 = 
+Guest connected from [127.0.0.1]
+[09/09] 22:46:15 = [Tilkal] Starting main loop.
+[09/09] 22:46:15 = [Tilkal] Starting thread.
+[09/09] 22:46:15 = [Tilkal] Loading text files.
+[09/09] 22:46:15 = [Tilkal] Initializing.
+[09/09] 22:46:15 = [Tilkal] Initiating skills.
+[09/09] 22:52:03 = [Tilk[09/09] 22:52:24 = [Tilkal] Server shut down.
+[09/09] 22:52:07 = 
+> [09/09] 22:52:06 = 
+Guest connected from [127.0.0.1]
+[09/09] 22:52:03 = [Tilkal] Starting main loop.
+[09/09] 22:52:03 = [Tilkal] Starting thread.
+[09/09] 22:52:03 = [Tilkal] Loading text files.
+[09/09] 22:52:03 = [Tilkal] Initializing.
+al] Initiating skills.
+[09/09] 23:07:00 = [Tilkal] Server shut down.
+[09/09] 22:52:40 = 
+> [09/09] 22:52:39 = 
+Guest connected from [127.0.0.1]
+[09/09] 22:52:36 = [Tilkal] Starting main loop.
+[09/09] 22:52:36 = [Tilkal] Starting thread.
+[09/09] 22:52:36 = [Tilkal] Loading text files.
+[09/09] 22:52:36 = [Tilkal] Initializing.
+[09/09] 22:52:36 = [Tilkal] Initiating skills.
+[09/09] 23:17:01 = [Tilkal] Server shut down.
+[09/09] 23:16:36 = 
+> [09/09] 23:16:35 = 
+Guest connected from [127.0.0.1]
+[09/09] 23:16:32 = [Tilkal] Starting main loop.
+[09/09] 23:16:32 = [Tilkal] Starting thread.
+[09/09] 23:16:32 = [Tilkal] Loading text files.
+[09/09] 23:16:32 = [Tilkal] Initializing.
+[09/09] 23:16:32 = [Tilkal] Initiating skills.
+[09/10] 00:41:46 = [Tilkal] Server shut down.
+[09/10] 00:41:15 = 
+> [09/10] 00:41:14 = 
+Guest connected from [127.0.0.1]
+[09/10] 00:41:02 = [Tilkal] Starting main loop.
+[09/10] 00:41:02 = [Tilkal] Starting thread.
+[09/10] 00:41:02 = [Tilkal] Loading text files.
+[09/10] 00:41:02 = [Tilkal] Initializing.
+[09/10] 00:41:02 = [Tilkal] Initiating skills.
+[09/10] 00:43:19 = [Tilkal] Server shut down.
+[09/10] 00:43:01 = 
+> [09/10] 00:43:00 = 
+Guest connected from [127.0.0.1]
+[09/10] 00:42:57 = [Tilkal] Starting main loop.
+[09/10] 00:42:57 = [Tilkal] Starting thread.
+[09/10] 00:42:57 = [Tilkal] Loading text files.
+[09/10] 00:42:57 = [Tilkal] Initializing.
+[09/10] 00:42:57 = [Tilkal] Initiating skills.
+[09/10] 00:43:46 = [Tilkal] Server shut down.
+[09/10] 00:43:37 = 
+> [09/10] 00:43:36 = 
+Guest connected from [127.0.0.1]
+[09/10] 00:43:34 = [Tilkal] Starting main loop.
+[09/10] 00:43:34 = [Tilkal] Starting thread.
+[09/10] 00:43:34 = [Tilkal] Loading text files.
+[09/10] 00:43:34 = [Tilkal] Initializing.
+[09/10] 00:43:34 = [Tilkal] Initiating skills.
+[09/10] 00:50:53 = [Tilkal] Server shut down.
+[09/10] 00:50:12 = 
+> [09/10] 00:50:11 = 
+Guest connected from [127.0.0.1]
+[09/10] 00:50:05 = [Tilkal] Starting main loop.
+[09/10] 00:50:05 = [Tilkal] Starting thread.
+[09/10] 00:50:05 = [Tilkal] Loading text files.
+[09/10] 00:50:05 = [Tilkal] Initializing.
+[09/10] 00:50:05 = [Tilkal] Initiating skills.
+[09/10] 02:33:25 = [Tilkal] Server shut down.
+[09/10] 02:32:35 = 
+> [09/10] 02:32:20 = 
+Guest connected from [127.0.0.1]
+[09/10] 02:32:13 = 
+> [09/10] 02:32:12 = 
+Guest connected from [127.0.0.1]
+[09/10] 02:32:09 = [Tilkal] Starting main loop.
+[09/10] 02:32:09 = [Tilkal] Starting thread.
+[09/10] 02:32:09 = [Tilkal] Loading text files.
+[09/10] 02:32:09 = [Tilkal] Initializing.
+[09/10] 02:32:09 = [Tilkal] Initiating skills.
+[09/10] 02:51:47 = [Tilkal] Server shut down.
+[09/10] 02:50:53 = 
+> [09/10] 02:50:51 = 
+Guest connected from [127.0.0.1]
+[09/10] 02:50:43 = [Tilkal] Starting main loop.
+[09/10] 02:50:43 = [Tilkal] Starting thread.
+[09/10] 02:50:43 = [Tilkal] Loading text files.
+[09/10] 02:50:43 = [Tilkal] Initializing.
+[09/10] 02:50:43 = [Tilkal] Initiating skills.
+[09/10] 02:52:38 = [Tilkal] Server shut down.
+[09/10] 02:52:09 = 
+> [09/10] 02:52:08 = 
+Guest connected from [127.0.0.1]
+[09/10] 02:52:06 = [Tilkal] Starting main loop.
+[09/10] 02:52:06 = [Tilkal] Starting thread.
+[09/10] 02:52:06 = [Tilkal] Loading text files.
+[09/10] 02:52:06 = [Tilkal] Initializing.
+[09/10] 02:52:06 = [Tilkal] Initiating skills.
+[09/10] 03:10:50 = [Tilkal] Server shut down.
+[09/10] 03:10:29 = 
+> [09/10] 03:10:27 = 
+Guest connected from [127.0.0.1]
+[09/10] 03:10:25 = [Tilkal] Starting main loop.
+[09/10] 03:10:25 = [Tilkal] Starting thread.
+[09/10] 03:10:25 = [Tilkal] Loading text files.
+[09/10] 03:10:25 = [Tilkal] Initializing.
+[09/10] 03:10:24 = [Tilkal] Initiating skills.
+[09/10] 03:18:26 = [Tilkal] Server shut down.
+[09/10] 03:18:07 = 
+> [09/10] 03:18:06 = 
+Guest connected from [127.0.0.1]
+[09/10] 03:18:03 = [Tilkal] Starting main loop.
+[09/10] 03:18:03 = [Tilkal] Starting thread.
+[09/10] 03:18:03 = [Tilkal] Loading text files.
+[09/10] 03:18:03 = [Tilkal] Initializing.
+[09/10] 03:18:03 = [Tilkal] Initiating skills.
+[09/10] 08:56:26 = [Tilkal] Server shut down.
+[09/10] 08:56:18 = 
+> [09/10] 08:56:17 = 
+Guest connected from [127.0.0.1]
+[09/10] 08:56:13 = [Tilkal] Starting main loop.
+[09/10] 08:56:13 = [Tilkal] Starting thread.
+[09/10] 08:56:13 = [Tilkal] Loading text files.
+[09/10] 08:56:13 = [Tilkal] Initializing.
+[09/10] 08:56:13 = [Tilkal] Initiating skills.
+[09/10] 08:58:56 = [Tilkal] Server shut down.
+[09/10] 08:57:12 = 
+> [09/10] 08:57:11 = 
+Guest connected from [127.0.0.1]
+[09/10] 08:57:08 = [Tilkal] Starting main loop.
+[09/10] 08:57:08 = [Tilkal] Starting thread.
+[09/10] 08:57:08 = [Tilkal] Loading text files.
+[09/10] 08:57:08 = [Tilkal] Initializing.
+[09/10] 08:57:08 = [Tilkal] Initiating skills.
+[09/10] 08:59:15 = [Tilkal] Server shut down.
+[09/10] 08:58:59 = [Tilkal] Starting main loop.
+[09/10] 08:58:59 = [Tilkal] Starting thread.
+[09/10] 08:58:59 = [Tilkal] Loading text files.
+[09/10] 08:58:59 = [Tilkal] Initializing.
+[09/10] 08:58:59 = [Tilkal] Initiating skills.
+[09/10] 09:00:13 = [Tilkal] Server shut down.
+[09/10] 08:59:59 = 
+> [09/10] 08:59:57 = 
+Guest connected from [127.0.0.1]
+[09/10] 08:59:56 = [Tilkal] Starting main loop.
+[09/10] 08:59:56 = [Tilkal] Starting thread.
+[09/10] 08:59:56 = [Tilkal] Loading text files.
+[09/10] 08:59:56 = [Tilkal] Initializing.
+[09/10] 08:59:56 = [Tilkal] Initiating skills.
+[09/10] 09:01:52 = [Tilkal] Server shut down.
+[09/10] 09:01:39 = 
+> [09/10] 09:01:38 = 
+Guest connected from [127.0.0.1]
+[09/10] 09:01:35 = [Tilkal] Starting main loop.
+[09/10] 09:01:35 = [Tilkal] Starting thread.
+[09/10] 09:01:35 = [Tilkal] Loading text files.
+[09/10] 09:01:35 = [Tilkal] Initializing.
+[09/10] 09:01:35 = [Tilkal] Initiating skills.
+[09/10] 09:02:52 = [Tilkal] Server shut down.
+[09/10] 09:01:58 = 
+> [09/10] 09:01:57 = 
+Guest connected from [127.0.0.1]
+[09/10] 09:01:55 = [Tilkal] Starting main loop.
+[09/10] 09:01:55 = [Tilkal] Starting thread.
+[09/10] 09:01:55 = [Tilkal] Loading text files.
+[09/10] 09:01:55 = [Tilkal] Initializing.
+[09/10] 09:01:55 = [Tilkal] Initiating skills.
+[09/10] 10:21:52 = [Tilkal] Server shut down.
+[09/10] 10:21:23 = 
+> [09/10] 10:21:17 = 
+Guest connected from [127.0.0.1]
+[09/10] 10:21:13 = [Tilkal] Starting main loop.
+[09/10] 10:21:13 = [Tilkal] Starting thread.
+[09/10] 10:21:13 = [Tilkal] Loading text files.
+[09/10] 10:21:13 = [Tilkal] Initializing.
+[09/10] 10:21:13 = [Tilkal] Initiating skills.
+[09/10] 10:48:34 = [Tilkal] Server shut down.
+[09/10] 10:39:17 = 
+> [09/10] 10:38:56 = 
+Guest connected from [127.0.0.1]
+[09/10] 10:38:31 = 
+> [09/10] 10:38:30 = 
+Guest connected from [127.0.0.1]
+[09/10] 10:38:27 = [Tilkal] Starting main loop.
+[09/10] 10:38:27 = [Tilkal] Starting thread.
+[09/10] 10:38:27 = [Tilkal] Loading text files.
+[09/10] 10:38:27 = [Tilkal] Initializing.
+[09/10] 10:38:27 = [Tilkal] Initiating skills.
+[09/10] 10:50:45 = [Tilkal] Server shut down.
+[09/10] 10:48:41 = 
+> [09/10] 10:48:39 = 
+Guest connected from [127.0.0.1]
+[09/10] 10:48:38 = [Tilkal] Starting main loop.
+[09/10] 10:48:38 = [Tilkal] Starting thread.
+[09/10] 10:48:38 = [Tilkal] Loading text files.
+[09/10] 10:48:38 = [Tilkal] Initializing.
+[09/10] 10:48:38 = [Tilkal] Initiating skills.
+[09/10] 10:55:00 = [Tilkal] Server shut down.
+[09/10] 10:50:54 = 
+> [09/10] 10:50:52 = 
+Guest connected from [127.0.0.1]
+[09/10] 10:50:49 = [Tilkal] Starting main loop.
+[09/10] 10:50:49 = [Tilkal] Starting thread.
+[09/10] 10:50:49 = [Tilkal] Loading text files.
+[09/10] 10:50:49 = [Tilkal] Initializing.
+[09/10] 10:50:49 = [Tilkal] Initiating skills.
+[09/10] 10:57:33 = [Tilkal] Server shut down.
+[09/10] 10:55:08 = 
+> [09/10] 10:55:07 = 
+Guest connected from [127.0.0.1]
+[09/10] 10:55:05 = [Tilkal] Starting main loop.
+[09/10] 10:55:05 = [Tilkal] Starting thread.
+[09/10] 10:55:05 = [Tilkal] Loading text files.
+[09/10] 10:55:05 = [Tilkal] Initializing.
+[09/10] 10:55:05 = [Tilkal] Initiating skills.
+[09/10] 11:00:54 = [Tilkal] Server shut down.
+[09/10] 10:57:40 = 
+> [09/10] 10:57:39 = 
+Guest connected from [127.0.0.1]
+[09/10] 10:57:36 = [Tilkal] Starting main loop.
+[09/10] 10:57:36 = [Tilkal] Starting thread.
+[09/10] 10:57:36 = [Tilkal] Loading text files.
+[09/10] 10:57:36 = [Tilkal] Initializing.
+[09/10] 10:57:36 = [Tilkal] Initiating skills.
+[09/10] 11:04:28 = [Tilkal] Server shut down.
+[09/10] 11:01:30 = 
+> [09/10] 11:01:29 = 
+Guest connected from [127.0.0.1]
+[09/10] 11:01:25 = [Tilkal] Starting main loop.
+[09/10] 11:01:25 = [Tilkal] Starting thread.
+[09/10] 11:01:25 = [Tilkal] Loading text files.
+[09/10] 11:01:25 = [Tilkal] Initializing.
+[09/10] 11:01:25 = [Tilkal] Initiating skills.
+[09/10] 12:00:22 = [Tilkal] Server shut down.
+[09/10] 11:52:38 = 
+> [09/10] 11:52:36 = 
+Guest connected from [127.0.0.1]
+[09/10] 11:52:30 = [Tilkal] Starting main loop.
+[09/10] 11:52:30 = [Tilkal] Starting thread.
+[09/10] 11:52:30 = [Tilkal] Loading text files.
+[09/10] 11:52:30 = [Tilkal] Initializing.
+[09/10] 11:52:30 = [Tilkal] Initiating skills.
+[09/10] 12:04:26 = [Tilkal] Server shut down.
+[09/10] 12:00:26 = 
+> [09/10] 12:00:24 = 
+Guest connected from [127.0.0.1]
+[09/10] 12:00:22 = [Tilkal] Starting main loop.
+[09/10] 12:00:22 = [Tilkal] Starting thread.
+[09/10] 12:00:22 = [Tilkal] Loading text files.
+[09/10] 12:00:22 = [Tilkal] Initializing.
+[09/10] 12:00:22 = [Tilkal] Initiating skills.
+[09/10] 12:05:45 = [Tilkal] Server shut down.
+[09/10] 12:04:35 = 
+> [09/10] 12:04:34 = 
+Guest connected from [127.0.0.1]
+[09/10] 12:04:32 = [Tilkal] Starting main loop.
+[09/10] 12:04:32 = [Tilkal] Starting thread.
+[09/10] 12:04:32 = [Tilkal] Loading text files.
+[09/10] 12:04:32 = [Tilkal] Initializing.
+[09/10] 12:04:32 = [Tilkal] Initiating skills.
+[09/10] 12:59:38 = [Tilkal] Server shut down.
+[09/10] 12:05:55 = 
+> [09/10] 12:05:54 = 
+Guest connected from [127.0.0.1]
+[09/10] 12:05:52 = [Tilkal] Starting main loop.
+[09/10] 12:05:52 = [Tilkal] Starting thread.
+[09/10] 12:05:52 = [Tilkal] Loading text files.
+[09/10] 12:05:52 = [Tilkal] Initializing.
+[09/10] 12:05:52 = [Tilkal] Initiating skills.
+[09/10] 13:02:40 = [Tilkal] Server shut down.
+[09/10] 12:59:49 = 
+> [09/10] 12:59:46 = 
+Guest connected from [127.0.0.1]
+[09/10] 12:59:44 = [Tilkal] Starting main loop.
+[09/10] 12:59:44 = [Tilkal] Starting thread.
+[09/10] 12:59:44 = [Tilkal] Loading text files.
+[09/10] 12:59:44 = [Tilkal] Initializing.
+[09/10] 12:59:44 = [Tilkal] Initiating skills.
+[09/10] 13:08:17 = [Tilkal] Server shut down.
+[09/10] 13:08:17 = [Tilkal] Server shut down.
+[09/10] 13:02:50 = 
+> [09/10] 13:02:48 = 
+Guest connected from [127.0.0.1]
+[09/10] 13:02:46 = [Tilkal] Starting main loop.
+[09/10] 13:02:46 = [Tilkal] Starting thread.
+[09/10] 13:02:46 = [Tilkal] Loading text files.
+[09/10] 13:02:46 = [Tilkal] Initializing.
+[09/10] 13:02:46 = [Tilkal] Initiating skills.
+[09/10] 13:15:18 = [Tilkal] Server shut down.
+[09/10] 13:08:26 = 
+> [09/10] 13:08:24 = 
+Guest connected from [127.0.0.1]
+[09/10] 13:08:23 = [Tilkal] Starting main loop.
+[09/10] 13:08:23 = [Tilkal] Starting thread.
+[09/10] 13:08:23 = [Tilkal] Loading text files.
+[09/10] 13:08:23 = [Tilkal] Initializing.
+[09/10] 13:08:23 = [Tilkal] Initiating skills.
+[09/10] 13:20:59 = [Tilkal] Server shut down.
+[09/10] 13:15:59 = 
+> [09/10] 13:15:57 = 
+Guest connected from [127.0.0.1]
+[09/10] 13:15:55 = [Tilkal] Starting main loop.
+[09/10] 13:15:55 = [Tilkal] Starting thread.
+[09/10] 13:15:55 = [Tilkal] Loading text files.
+[09/10] 13:15:55 = [Tilkal] Initializing.
+[09/10] 13:15:55 = [Tilkal] Initiating skills.
+[09/10] 15:42:10 = [Tilkal] Server shut down.
+[09/10] 15:41:02 = 
+> [09/10] 15:41:01 = 
+Guest connected from [127.0.0.1]
+[09/10] 15:40:57 = [Tilkal] Starting main loop.
+[09/10] 15:40:57 = [Tilkal] Starting thread.
+[09/10] 15:40:57 = [Tilkal] Loading text files.
+[09/10] 15:40:57 = [Tilkal] Initializing.
+[09/10] 15:40:57 = [Tilkal] Initiating skills.
+[09/10] 15:57:27 = [Tilkal] Server shut down.
+[09/10] 15:50:12 = 
+> [09/10] 15:50:10 = 
+Guest connected from [127.0.0.1]
+[09/10] 15:50:06 = [Tilkal] Starting main loop.
+[09/10] 15:50:06 = [Tilkal] Starting thread.
+[09/10] 15:50:06 = [Tilkal] Loading text files.
+[09/10] 15:50:06 = [Tilkal] Initializing.
+[09/10] 15:50:06 = [Tilkal] Initiating skills.
+[09/10] 15:58:40 = [Tilkal] Server shut down.
+[09/10] 15:58:21 = 
+> [09/10] 15:58:20 = 
+Guest connected from [127.0.0.1]
+[09/10] 15:58:18 = [Tilkal] Starting main loop.
+[09/10] 15:58:18 = [Tilkal] Starting thread.
+[09/10] 15:58:18 = [Tilkal] Loading text files.
+[09/10] 15:58:18 = [Tilkal] Initializing.
+[09/10] 15:58:18 = [Tilkal] Initiating skills.
+[09/10] 16:01:13 = [Tilkal] Server shut down.
+[09/10] 16:00:31 = 
+> [09/10] 16:00:28 = 
+Guest connected from [127.0.0.1]
+[09/10] 16:00:26 = [Tilkal] Starting main loop.
+[09/10] 16:00:26 = [Tilkal] Starting thread.
+[09/10] 16:00:26 = [Tilkal] Loading text files.
+[09/10] 16:00:26 = [Tilkal] Initializing.
+[09/10] 16:00:26 = [Tilkal] Initiating skills.
+[09/10] 16:16:21 = [Tilkal] Server shut down.
+[09/10] 16:13:21 = 
+> [09/10] 16:13:18 = 
+Guest connected from [127.0.0.1]
+[09/10] 16:13:17 = [Tilkal] Starting main loop.
+[09/10] 16:13:17 = [Tilkal] Starting thread.
+[09/10] 16:13:17 = [Tilkal] Loading text files.
+[09/10] 16:13:17 = [Tilkal] Initializing.
+[09/10] 16:13:17 = [Tilkal] Initiating skills.
+[09/10] 16:27:21 = [Tilkal] Server shut down.
+[09/10] 16:21:37 = 
+> [09/10] 16:21:36 = 
+Guest connected from [127.0.0.1]
+[09/10] 16:21:32 = [Tilkal] Starting main loop.
+[09/10] 16:21:32 = [Tilkal] Starting thread.
+[09/10] 16:21:32 = [Tilkal] Loading text files.
+[09/10] 16:21:32 = [Tilkal] Initializing.
+[09/10] 16:21:32 = [Tilkal] Initiating skills.
+[09/10] 17:20:22 = [Tilkal] Server shut down.
+[09/10] 16:27:31 = 
+> [09/10] 16:27:30 = 
+Guest connected from [127.0.0.1]
+[09/10] 16:27:27 = [Tilkal] Starting main loop.
+[09/10] 16:27:27 = [Tilkal] Starting thread.
+[09/10] 16:27:27 = [Tilkal] Loading text files.
+[09/10] 16:27:27 = [Tilkal] Initializing.
+[09/10] 16:27:27 = [Tilkal] Initiating skills.
+[09/10] 17:40:46 = [Tilkal] Server shut down.
+[09/10] 17:40:15 = 
+> [09/10] 17:40:14 = 
+Guest connected from [127.0.0.1]
+[09/10] 17:40:11 = [Tilkal] Starting main loop.
+[09/10] 17:40:11 = [Tilkal] Starting thread.
+[09/10] 17:40:11 = [Tilkal] Loading text files.
+[09/10] 17:40:11 = [Tilkal] Initializing.
+[09/10] 17:40:11 = [Tilkal] Initiating skills.
+[09/11] 00:12:33 = [Tilkal] Server shut down.
+[09/11] 00:12:14 = 
+> [09/11] 00:12:13 = 
+Guest connected from [127.0.0.1]
+[09/11] 00:11:47 = [Tilkal] Starting main loop.
+[09/11] 00:11:47 = [Tilkal] Starting thread.
+[09/11] 00:11:47 = [Tilkal] Loading text files.
+[09/11] 00:11:47 = [Tilkal] Initializing.
+[09/11] 00:11:47 = [Tilkal] Initiating skills.
+[09/11] 00:18:54 = [Tilkal] Server shut down.
+[09/11] 00:18:50 = 
+> [09/11] 00:18:49 = 
+Guest connected from [127.0.0.1]
+[09/11] 00:18:46 = [Tilkal] Starting main loop.
+[09/11] 00:18:46 = [Tilkal] Starting thread.
+[09/11] 00:18:46 = [Tilkal] Loading text files.
+[09/11] 00:18:46 = [Tilkal] Initializing.
+[09/11] 00:18:46 = [Tilkal] Initiating skills.
+[09/11] 01:20:10 = [Tilkal] Server shut down.
+[09/11] 01:20:10 = 
+> [09/11] 01:20:08 = 
+Guest connected from [127.0.0.1]
+[09/11] 01:20:05 = [Tilkal] Starting main loop.
+[09/11] 01:20:05 = [Tilkal] Starting thread.
+[09/11] 01:20:05 = [Tilkal] Loading text files.
+[09/11] 01:20:05 = [Tilkal] Initializing.
+[09/11] 01:20:05 = [Tilkal] Initiating skills.
+[09/11] 01:27:35 = [Tilkal] Server shut down.
+[09/11] 01:27:00 = [Tilkal] Starting main loop.
+[09/11] 01:27:00 = [Tilkal] Starting thread.
+[09/11] 01:27:00 = [Tilkal] Loading text files.
+[09/11] 01:27:00 = [Tilkal] Initializing.
+[09/11] 01:27:00 = [Tilkal] Initiating skills.
+[09/11] 01:29:31 = [Tilkal] Server shut down.
+[09/11] 01:29:17 = [Tilkal] Starting main loop.
+[09/11] 01:29:17 = [Tilkal] Starting thread.
+[09/11] 01:29:17 = [Tilkal] Loading text files.
+[09/11] 01:29:17 = [Tilkal] Initializing.
+[09/11] 01:29:17 = [Tilkal] Initiating skills.
+[09/11] 01:30:29 = [Tilkal] Server shut down.
+[09/11] 01:30:14 = [Tilkal] Starting main loop.
+[09/11] 01:30:14 = [Tilkal] Starting thread.
+[09/11] 01:30:14 = [Tilkal] Loading text files.
+[09/11] 01:30:14 = [Tilkal] Initializing.
+[09/11] 01:30:14 = [Tilkal] Initiating skills.
+[09/11] 01:30:43 = [Tilkal] Server shut down.
+[09/11] 01:30:32 = [Tilkal] Starting main loop.
+[09/11] 01:30:32 = [Tilkal] Starting thread.
+[09/11] 01:30:32 = [Tilkal] Loading text files.
+[09/11] 01:30:32 = [Tilkal] Initializing.
+[09/11] 01:30:32 = [Tilkal] Initiating skills.
+[09/11] 01:35:00 = [Tilkal] Server shut down.
+[09/11] 01:34:52 = 
+> [09/11] 01:34:50 = 
+Guest connected from [127.0.0.1]
+[09/11] 01:34:47 = [Tilkal] Starting main loop.
+[09/11] 01:34:47 = [Tilkal] Starting thread.
+[09/11] 01:34:47 = [Tilkal] Loading text files.
+[09/11] 01:34:47 = [Tilkal] Initializing.
+[09/11] 01:34:47 = [Tilkal] Initiating skills.
+[09/11] 01:37:58 = [Tilkal] Server shut down.
+[09/11] 01:37:53 = 
+Guest connected from [127.0.0.1]
+[09/11] 01:37:49 = [Tilkal] Starting main loop.
+[09/11] 01:37:49 = [Tilkal] Starting thread.
+[09/11] 01:37:49 = [Tilkal] Loading text files.
+[09/11] 01:37:49 = [Tilkal] Initializing.
+[09/11] 01:37:49 = [Tilkal] Initiating skills.
+[09/11] 01:38:56 = [Tilkal] Server shut down.
+[09/11] 01:38:55 = [Tilkal] Starting main loop.
+[09/11] 01:38:55 = [Tilkal] Starting thread.
+[09/11] 01:38:55 = [Tilkal] Loading text files.
+[09/11] 01:38:55 = [Tilkal] Initializing.
+[09/11] 01:38:55 = [Tilkal] Initiating skills.
+[09/11] 01:40:14 = [Tilkal] Server shut down.
+[09/11] 01:40:10 = 
+Guest connected from [127.0.0.1]
+[09/11] 01:40:08 = [Tilkal] Starting main loop.
+[09/11] 01:40:08 = [Tilkal] Starting thread.
+[09/11] 01:40:08 = [Tilkal] Loading text files.
+[09/11] 01:40:08 = [Tilkal] Initializing.
+[09/11] 01:40:08 = [Tilkal] Initiating skills.
+[09/11] 01:43:12 = [Tilkal] Server shut down.
+[09/11] 01:42:51 = 
+> [09/11] 01:42:50 = 
+Guest connected from [127.0.0.1]
+[09/11] 01:42:46 = [Tilkal] Starting main loop.
+[09/11] 01:42:46 = [Tilkal] Starting thread.
+[09/11] 01:42:46 = [Tilkal] Loading text files.
+[09/11] 01:42:46 = [Tilkal] Initializing.
+[09/11] 01:42:46 = [Tilkal] Initiating skills.
+[09/11] 01:50:50 = [Tilkal] Server shut down.
+[09/11] 01:50:16 = 
+> [09/11] 01:50:15 = 
+Guest connected from [127.0.0.1]
+[09/11] 01:50:13 = [Tilkal] Starting main loop.
+[09/11] 01:50:13 = [Tilkal] Starting thread.
+[09/11] 01:50:13 = [Tilkal] Loading text files.
+[09/11] 01:50:13 = [Tilkal] Initializing.
+[09/11] 01:50:13 = [Tilkal] Initiating skills.
+[09/11] 01:52:49 = [Tilkal] Server shut down.
+[09/11] 01:51:59 = 
+> [09/11] 01:51:58 = 
+Guest connected from [127.0.0.1]
+[09/11] 01:51:55 = [Tilkal] Starting main loop.
+[09/11] 01:51:55 = [Tilkal] Starting thread.
+[09/11] 01:51:55 = [Tilkal] Loading text files.
+[09/11] 01:51:55 = [Tilkal] Initializing.
+[09/11] 01:51:55 = [Tilkal] Initiating skills.
+[09/11] 11:06:50 = [Tilkal] Server shut down.
+[09/11] 11:05:10 = 
+> [09/11] 11:05:08 = 
+Guest connected from [127.0.0.1]
+[09/11] 11:04:58 = [Tilkal] Starting main loop.
+[09/11] 11:04:58 = [Tilkal] Starting thread.
+[09/11] 11:04:58 = [Tilkal] Loading text files.
+[09/11] 11:04:58 = [Tilkal] Initializing.
+[09/11] 11:04:58 = [Tilkal] Initiating skills.
+[09/11] 11:12:30 = [Tilkal] Server shut down.
+[09/11] 11:12:27 = 
+[l] disconnected.
+[09/11] 11:11:10 = 
+> [09/11] 11:11:09 = 
+Guest connected from [127.0.0.1]
+[09/11] 11:11:06 = [Tilkal] Starting main loop.
+[09/11] 11:11:06 = [Tilkal] Starting thread.
+[09/11] 11:11:06 = [Tilkal] Loading text files.
+[09/11] 11:11:06 = [Tilkal] Initializing.
+[09/11] 11:11:06 = [Tilkal] Initiating skills.
+[09/11] 11:23:09 = [Tilkal] Server shut down.
+[09/11] 11:23:06 = 
+[l] disconnected.
+[09/11] 11:22:36 = 
+> [09/11] 11:22:32 = 
+Guest connected from [127.0.0.1]
+[09/11] 11:22:30 = [Tilkal] Starting main loop.
+[09/11] 11:22:30 = [Tilkal] Starting thread.
+[09/11] 11:22:30 = [Tilkal] Loading text files.
+[09/11] 11:22:30 = [Tilkal] Initializing.
+[09/11] 11:22:30 = [Tilkal] Initiating skills.
+[09/11] 11:25:12 = [Tilkal] Server shut down.
+[09/11] 11:23:30 = 
+> [09/11] 11:23:29 = 
+Guest connected from [127.0.0.1]
+[09/11] 11:23:27 = [Tilkal] Starting main loop.
+[09/11] 11:23:27 = [Tilkal] Starting thread.
+[09/11] 11:23:27 = [Tilkal] Loading text files.
+[09/11] 11:23:27 = [Tilkal] Initializing.
+[09/11] 11:23:27 = [Tilkal] Initiating skills.
+[09/11] 11:31:53 = [Tilkal] Server shut down.
+[09/11] 11:31:53 = [Tilkal] Server shut down.
+[09/11] 11:31:43 = 
+[l] disconnected.
+[09/11] 11:30:54 = 
+> [09/11] 11:30:52 = 
+Guest connected from [127.0.0.1]
+[09/11] 11:30:50 = [Tilkal] Starting main loop.
+[09/11] 11:30:50 = [Tilkal] Starting thread.
+[09/11] 11:30:50 = [Tilkal] Loading text files.
+[09/11] 11:30:50 = [Tilkal] Initializing.
+[09/11] 11:30:50 = [Tilkal] Initiating skills.
+[09/11] 13:40:17 = [Tilkal] Server shut down.
+[09/11] 13:38:55 = 
+> [09/11] 13:38:54 = 
+Guest connected from [127.0.0.1]
+[09/11] 13:38:52 = [Tilkal] Starting main loop.
+[09/11] 13:38:51 = [Tilkal] Starting thread.
+[09/11] 13:38:51 = [Tilkal] Loading text files.
+[09/11] 13:38:51 = [Tilkal] Initializing.
+[09/11] 13:38:51 = [Tilkal] Initiating skills.
+[09/11] 13:44:48 = [Tilkal] Server shut down.
+[09/11] 13:41:51 = 
+> [09/11] 13:41:49 = 
+Guest connected from [127.0.0.1]
+[09/11] 13:41:48 = [Tilkal] Starting main loop.
+[09/11] 13:41:48 = [Tilkal] Starting thread.
+[09/11] 13:41:48 = [Tilkal] Loading text files.
+[09/11] 13:41:48 = [Tilkal] Initializing.
+[09/11] 13:41:48 = [Tilkal] Initiating skills.
+[09/11] 14:00:19 = [Tilkal] Server shut down.
+[09/11] 13:53:17 = 
+> [09/11] 13:53:15 = 
+Guest connected from [127.0.0.1]
+[09/11] 13:53:07 = [Tilkal] Starting main loop.
+[09/11] 13:53:07 = [Tilkal] Starting thread.
+[09/11] 13:53:07 = [Tilkal] Loading text files.
+[09/11] 13:53:07 = [Tilkal] Initializing.
+[09/11] 13:53:07 = [Tilkal] Initiating skills.
+[09/11] 14:01:20 = [Tilkal] Server shut down.
+[09/11] 14:00:24 = 
+> [09/11] 14:00:22 = 
+Guest connected from [127.0.0.1]
+[09/11] 14:00:21 = [Tilkal] Starting main loop.
+[09/11] 14:00:21 = [Tilkal] Starting thread.
+[09/11] 14:00:21 = [Tilkal] Loading text files.
+[09/11] 14:00:21 = [Tilkal] Initializing.
+[09/11] 14:00:21 = [Tilkal] Initiating skills.
+[09/11] 14:02:19 = [Tilkal] Server shut down.
+[09/11] 14:01:24 = 
+> [09/11] 14:01:22 = 
+Guest connected from [127.0.0.1]
+[09/11] 14:01:21 = [Tilkal] Starting main loop.
+[09/11] 14:01:21 = [Tilkal] Starting thread.
+[09/11] 14:01:21 = [Tilkal] Loading text files.
+[09/11] 14:01:21 = [Tilkal] Initializing.
+[09/11] 14:01:21 = [Tilkal] Initiating skills.
+[09/11] 14:03:15 = [Tilkal] Server shut down.
+[09/11] 14:02:22 = 
+> [09/11] 14:02:20 = 
+Guest connected from [127.0.0.1]
+[09/11] 14:02:20 = [Tilkal] Starting main loop.
+[09/11] 14:02:20 = [Tilkal] Starting thread.
+[09/11] 14:02:19 = [Tilkal] Loading text files.
+[09/11] 14:02:19 = [Tilkal] Initializing.
+[09/11] 14:02:19 = [Tilkal] Initiating skills.
+[09/11] 14:04:55 = [Tilkal] Server shut down.
+[09/11] 14:03:50 = 
+> [09/11] 14:03:18 = 
+> [09/11] 14:03:17 = 
+Guest connected from [127.0.0.1]
+[09/11] 14:03:16 = [Tilkal] Starting main loop.
+[09/11] 14:03:16 = [Tilkal] Starting thread.
+[09/11] 14:03:16 = [Tilkal] Loading text files.
+[09/11] 14:03:16 = [Tilkal] Initializing.
+[09/11] 14:03:16 = [Tilkal] Initiating skills.
+[09/11] 14:09:36 = [Tilkal] Server shut down.
+[09/11] 14:03:14 = 
+> [09/11] 14:03:10 = 
+Guest connected from [127.0.0.1]
+[09/11] 14:03:09 = [Tilkal] Starting main loop.
+[09/11] 14:03:09 = [Tilkal] Starting thread.
+[09/11] 14:03:09 = [Tilkal] Loading text files.
+[09/11] 14:03:09 = [Tilkal] Initializing.
+[09/11] 14:03:09 = [Tilkal] Initiating skills.
+[09/11] 14:12:08 = [Tilkal] Server shut down.
+[09/11] 14:12:06 = 
+[l] disconnected.
+[09/11] 14:09:42 = 
+> [09/11] 14:09:41 = 
+Guest connected from [127.0.0.1]
+[09/11] 14:09:40 = [Tilkal] Starting main loop.
+[09/11] 14:09:40 = [Tilkal] Starting thread.
+[09/11] 14:09:40 = [Tilkal] Loading text files.
+[09/11] 14:09:40 = [Tilkal] Initializing.
+[09/11] 14:09:40 = [Tilkal] Initiating skills.
+[09/11] 14:14:16 = [Tilkal] Server shut down.
+[09/11] 14:12:17 = 
+> [09/11] 14:12:15 = 
+Guest connected from [127.0.0.1]
+[09/11] 14:12:14 = [Tilkal] Starting main loop.
+[09/11] 14:12:14 = [Tilkal] Starting thread.
+[09/11] 14:12:14 = [Tilkal] Loading text files.
+[09/11] 14:12:14 = [Tilkal] Initializing.
+[09/11] 14:12:14 = [Tilkal] Initiating skills.
+[09/11] 14:19:19 = [Tilkal] Server shut down.
+[09/11] 14:19:05 = 
+> [09/11] 14:19:04 = 
+Guest connected from [127.0.0.1]
+[09/11] 14:19:02 = [Tilkal] Starting main loop.
+[09/11] 14:19:02 = [Tilkal] Starting thread.
+[09/11] 14:19:02 = [Tilkal] Loading text files.
+[09/11] 14:19:02 = [Tilkal] Initializing.
+[09/11] 14:19:02 = [Tilkal] Initiating skills.
+[09/11] 14:19:34 = [Tilkal] Server shut down.
+[09/11] 14:19:22 = 
+> [09/11] 14:19:21 = 
+Guest connected from [127.0.0.1]
+[09/11] 14:19:20 = [Tilkal] Starting main loop.
+[09/11] 14:19:20 = [Tilkal] Starting thread.
+[09/11] 14:19:20 = [Tilkal] Loading text files.
+[09/11] 14:19:20 = [Tilkal] Initializing.
+[09/11] 14:19:20 = [Tilkal] Initiating skills.
+[09/11] 14:20:51 = [Tilkal] Server shut down.
+[09/11] 14:20:50 = [Tilkal] Starting main loop.
+[09/11] 14:20:50 = [Tilkal] Starting thread.
+[09/11] 14:20:50 = [Tilkal] Loading text files.
+[09/11] 14:20:50 = [Tilkal] Initializing.
+[09/11] 14:20:50 = [Tilkal] Initiating skills.
+[09/11] 14:21:22 = [Tilkal] Server shut down.
+[09/11] 14:21:03 = 
+> [09/11] 14:21:01 = 
+Guest connected from [127.0.0.1]
+[09/11] 14:20:59 = [Tilkal] Starting main loop.
+[09/11] 14:20:59 = [Tilkal] Starting thread.
+[09/11] 14:20:59 = [Tilkal] Loading text files.
+[09/11] 14:20:59 = [Tilkal] Initializing.
+[09/11] 14:20:59 = [Tilkal] Initiating skills.
+[09/11] 14:27:05 = [Tilkal] Server shut down.
+[09/11] 14:23:13 = 
+> [09/11] 14:22:41 = 
+> [09/11] 14:22:40 = 
+Guest connected from [127.0.0.1]
+[09/11] 14:22:38 = [Tilkal] Starting main loop.
+[09/11] 14:22:38 = [Tilkal] Starting thread.
+[09/11] 14:22:38 = [Tilkal] Loading text files.
+[09/11] 14:22:38 = [Tilkal] Initializing.
+[09/11] 14:22:38 = [Tilkal] Initiating skills.
+[09/11] 14:29:10 = [Tilkal] Server shut down.
+[09/11] 14:14:27 = 
+> [09/11] 14:14:26 = 
+Guest connected from [127.0.0.1]
+[09/11] 14:14:24 = [Tilkal] Starting main loop.
+[09/11] 14:14:24 = [Tilkal] Starting thread.
+[09/11] 14:14:24 = [Tilkal] Loading text files.
+[09/11] 14:14:24 = [Tilkal] Initializing.
+[09/11] 14:14:24 = [Tilkal] Initiating skills.
+[09/11] 14:29:39 = [Tilkal] Server shut down.
+[09/11] 14:29:17 = 
+> [09/11] 14:29:16 = 
+Guest connected from [127.0.0.1]
+[09/11] 14:29:14 = [Tilkal] Starting main loop.
+[09/11] 14:29:14 = [Tilkal] Starting thread.
+[09/11] 14:29:14 = [Tilkal] Loading text files.
+[09/11] 14:29:14 = [Tilkal] Initializing.
+[09/11] 14:29:14 = [Tilkal] Initiating skills.
+[09/11] 14:31:48 = [Tilkal] Server shut down.
+[09/11] 14:31:39 = 
+> [09/11] 14:31:37 = 
+Guest connected from [127.0.0.1]
+[09/11] 14:31:35 = [Tilkal] Starting main loop.
+[09/11] 14:31:35 = [Tilkal] Starting thread.
+[09/11] 14:31:35 = [Tilkal] Loading text files.
+[09/11] 14:31:35 = [Tilkal] Initializing.
+[09/11] 14:31:35 = [Tilkal] Initiating skills.
+[09/11] 14:35:50 = [Tilkal] Server shut down.
+[09/11] 14:32:48 = 
+> [09/11] 14:32:46 = 
+Guest connected from [127.0.0.1]
+[09/11] 14:32:44 = [Tilkal] Starting main loop.
+[09/11] 14:32:44 = [Tilkal] Starting thread.
+[09/11] 14:32:44 = [Tilkal] Loading text files.
+[09/11] 14:32:44 = [Tilkal] Initializing.
+[09/11] 14:32:44 = [Tilkal] Initiating skills.
+[09/11] 14:57:39 = [Tilkal] Server shut down.
+[09/11] 14:35:58 = 
+> [09/11] 14:35:56 = 
+Guest connected from [127.0.0.1]
+[09/11] 14:35:53 = [Tilkal] Starting main loop.
+[09/11] 14:35:53 = [Tilkal] Starting thread.
+[09/11] 14:35:53 = [Tilkal] Loading text files.
+[09/11] 14:35:53 = [Tilkal] Initializing.
+[09/11] 14:35:53 = [Tilkal] Initiating skills.
+[09/11] 15:00:10 = [Tilkal] Init[09/11] 15:04:01 = [Tilkal] Server shut down.
+[09/11] 15:00:13 = 
+> [09/11] 15:00:11 = 
+Guest connected from [127.0.0.1]
+[09/11] 15:00:10 = [Tilkal] Starting main loop.
+[09/11] 15:00:10 = [Tilkal] Starting thread.
+[09/11] 15:00:10 = [Tilkal] Loading text files.
+[09/11] 15:00:10 = [Tilkal] Initializing.
+iating skills.
+[09/11] 15:05:14 = [Tilkal] Server shut down.
+[09/11] 15:04:09 = 
+> [09/11] 15:04:07 = 
+Guest connected from [127.0.0.1]
+[09/11] 15:04:05 = [Tilkal] Starting main loop.
+[09/11] 15:04:05 = [Tilkal] Starting thread.
+[09/11] 15:04:05 = [Tilkal] Loading text files.
+[09/11] 15:04:05 = [Tilkal] Initializing.
+[09/11] 15:04:05 = [Tilkal] Initiating skills.
+[09/11] 15:08:52 = [Tilkal] Server shut down.
+[09/11] 15:05:52 = 
+> [09/11] 15:05:50 = 
+Guest connected from [127.0.0.1]
+[09/11] 15:05:46 = [Tilkal] Starting main loop.
+[09/11] 15:05:46 = [Tilkal] Starting thread.
+[09/11] 15:05:46 = [Tilkal] Loading text files.
+[09/11] 15:05:46 = [Tilkal] Initializing.
+[09/11] 15:05:46 = [Tilkal] Initiating skills.
+[09/11] 15:10:54 = [Tilkal] Server shut down.
+[09/11] 15:08:56 = 
+> [09/11] 15:08:55 = 
+Guest connected from [127.0.0.1]
+[09/11] 15:08:53 = [Tilkal] Starting main loop.
+[09/11] 15:08:53 = [Tilkal] Starting thread.
+[09/11] 15:08:53 = [Tilkal] Loading text files.
+[09/11] 15:08:53 = [Tilkal] Initializing.
+[09/11] 15:08:53 = [Tilkal] Initiating skills.
+[09/11] 16:16:48 = [Tilkal] Server shut down.
+[09/11] 16:15:40 = 
+[l] disconnected.
+[09/11] 16:15:33 = 
+> [09/11] 16:15:26 = 
+> [09/11] 16:15:24 = 
+Guest connected from [127.0.0.1]
+[09/11] 16:15:11 = 
+[l] disconnected.
+[09/11] 16:14:37 = 
+> [09/11] 16:14:35 = 
+Guest connected from [127.0.0.1]
+[09/11] 16:14:30 = [Tilkal] Starting main loop.
+[09/11] 16:14:30 = [Tilkal] Starting thread.
+[09/11] 16:14:30 = [Tilkal] Loading text files.
+[09/11] 16:14:30 = [Tilkal] Initializing.
+[09/11] 16:14:30 = [Tilkal] Initiating skills.
+[09/11] 16:19:56 = [Tilkal] Server shut down.
+[09/11] 16:18:47 = [Cardiac] disconnected.
+[09/11] 16:18:47 = 
+Client 1 has lost connection.[09/11] 16:17:53 = 
+> [09/11] 16:17:11 = 
+Guest connected from [127.0.0.1]
+[09/11] 16:16:59 = 
+> [09/11] 16:16:58 = 
+Guest connected from [127.0.0.1]
+[09/11] 16:16:55 = [Tilkal] Starting main loop.
+[09/11] 16:16:55 = [Tilkal] Starting thread.
+[09/11] 16:16:55 = [Tilkal] Loading text files.
+[09/11] 16:16:55 = [Tilkal] Initializing.
+[09/11] 16:16:55 = [Tilkal] Initiating skills.
+[09/11] 16:23:43 = [Tilkal] Server shut down.
+[09/11] 15:22:11 = 
+> [09/11] 15:22:10 = 
+Guest connected from [127.0.0.1]
+[09/11] 15:22:08 = [Tilkal] Starting main loop.
+[09/11] 15:22:08 = [Tilkal] Starting thread.
+[09/11] 15:22:08 = [Tilkal] Loading text files.
+[09/11] 15:22:08 = [Tilkal] Initializing.
+[09/11] 15:22:08 = [Tilkal] Initiating skills.
+[09/12] 11:06:36 = [Tilkal] Server shut down.
+[09/12] 11:02:19 = 
+> [09/12] 11:02:17 = 
+Guest connected from [127.0.0.1]
+[09/12] 11:02:06 = [Tilkal] Starting main loop.
+[09/12] 11:02:06 = [Tilkal] Starting thread.
+[09/12] 11:02:06 = [Tilkal] Loading text files.
+[09/12] 11:02:06 = [Tilkal] Initializing.
+[09/12] 11:02:06 = [Tilkal] Initiating skills.
+[09/12] 11:20:59 = [Tilkal] Server shut down.
+[09/12] 11:20:33 = 
+> [09/12] 11:20:32 = 
+Guest connected from [127.0.0.1]
+[09/12] 11:20:26 = [Tilkal] Starting main loop.
+[09/12] 11:20:26 = [Tilkal] Starting thread.
+[09/12] 11:20:26 = [Tilkal] Loading text files.
+[09/12] 11:20:26 = [Tilkal] Initializing.
+[09/12] 11:20:26 = [Tilkal] Initiating skills.
+[09/12] 11:27:21 = [Tilkal] Server shut down.
+[09/12] 11:26:31 = 
+> [09/12] 11:26:30 = 
+Guest connected from [127.0.0.1]
+[09/12] 11:26:27 = [Tilkal] Starting main loop.
+[09/12] 11:26:27 = [Tilkal] Starting thread.
+[09/12] 11:26:27 = [Tilkal] Loading text files.
+[09/12] 11:26:27 = [Tilkal] Initializing.
+[09/12] 11:26:27 = [Tilkal] Initiating skills.
+[09/12] 11:29:22 = [Tilkal] Server shut down.
+[09/12] 11:28:56 = 
+> [09/12] 11:28:54 = 
+Guest connected from [127.0.0.1]
+[09/12] 11:28:48 = [Tilkal] Starting main loop.
+[09/12] 11:28:48 = [Tilkal] Starting thread.
+[09/12] 11:28:48 = [Tilkal] Loading text files.
+[09/12] 11:28:48 = [Tilkal] Initializing.
+[09/12] 11:28:48 = [Tilkal] Initiating skills.
+[09/12] 11:35:02 = [Tilkal] Server shut down.
+[09/12] 11:34:55 = 
+> [09/12] 11:34:54 = 
+Guest connected from [127.0.0.1]
+[09/12] 11:34:51 = [Tilkal] Starting main loop.
+[09/12] 11:34:51 = [Tilkal] Starting thread.
+[09/12] 11:34:51 = [Tilkal] Loading text files.
+[09/12] 11:34:51 = [Tilkal] Initializing.
+[09/12] 11:34:51 = [Tilkal] Initiating skills.
+[09/12] 11:35:42 = [Tilkal] Server shut down.
+[09/12] 11:35:19 = 
+> [09/12] 11:35:18 = 
+Guest connected from [127.0.0.1]
+[09/12] 11:35:15 = [Tilkal] Starting main loop.
+[09/12] 11:35:15 = [Tilkal] Starting thread.
+[09/12] 11:35:15 = [Tilkal] Loading text files.
+[09/12] 11:35:15 = [Tilkal] Initializing.
+[09/12] 11:35:15 = [Tilkal] Initiating skills.
+[09/12] 11:37:25 = [Tilkal] Server shut down.
+[09/12] 11:37:12 = 
+> [09/12] 11:37:11 = 
+Guest connected from [127.0.0.1]
+[09/12] 11:37:08 = [Tilkal] Starting main loop.
+[09/12] 11:37:08 = [Tilkal] Starting thread.
+[09/12] 11:37:08 = [Tilkal] Loading text files.
+[09/12] 11:37:08 = [Tilkal] Initializing.
+[09/12] 11:37:08 = [Tilkal] Initiating skills.
+[09/12] 11:55:07 = [Tilkal] Server shut down.
+[09/12] 11:55:06 = [l] disconnected.
+[09/12] 11:54:47 = 
+> [09/12] 11:54:46 = 
+Guest connected from [127.0.0.1]
+[09/12] 11:54:44 = [Tilkal] Starting main loop.
+[09/12] 11:54:44 = [Tilkal] Starting thread.
+[09/12] 11:54:44 = [Tilkal] Loading text files.
+[09/12] 11:54:44 = [Tilkal] Initializing.
+[09/12] 11:54:44 = [Tilkal] Initiating skills.
+[09/12] 12:02:49 = [Tilkal] Server shut down.
+[09/12] 12:02:31 = 
+> [09/12] 12:02:30 = 
+Guest connected from [127.0.0.1]
+[09/12] 12:02:28 = [Tilkal] Starting main loop.
+[09/12] 12:02:28 = [Tilkal] Starting thread.
+[09/12] 12:02:28 = [Tilkal] Loading text files.
+[09/12] 12:02:28 = [Tilkal] Initializing.
+[09/12] 12:02:28 = [Tilkal] Initiating skills.
+[09/12] 12:03:07 = [Tilkal] Server shut down.
+[09/12] 12:02:56 = 
+> [09/12] 12:02:55 = 
+Guest connected from [127.0.0.1]
+[09/12] 12:02:52 = [Tilkal] Starting main loop.
+[09/12] 12:02:52 = [Tilkal] Starting thread.
+[09/12] 12:02:52 = [Tilkal] Loading text files.
+[09/12] 12:02:52 = [Tilkal] Initializing.
+[09/12] 12:02:52 = [Tilkal] Initiating skills.
+[09/12] 12:03:48 = [Tilkal] Server shut down.
+[09/12] 12:03:18 = 
+> [09/12] 12:03:17 = 
+Guest connected from [127.0.0.1]
+[09/12] 12:03:15 = [Tilkal] Starting main loop.
+[09/12] 12:03:15 = [Tilkal] Starting thread.
+[09/12] 12:03:15 = [Tilkal] Loading text files.
+[09/12] 12:03:15 = [Tilkal] Initializing.
+[09/12] 12:03:15 = [Tilkal] Initiating skills.
+[09/12] 12:04:14 = [Tilkal] Server shut down.
+[09/12] 12:04:05 = 
+> [09/12] 12:04:03 = 
+Guest connected from [127.0.0.1]
+[09/12] 12:03:51 = [Tilkal] Starting main loop.
+[09/12] 12:03:51 = [Tilkal] Starting thread.
+[09/12] 12:03:51 = [Tilkal] Loading text files.
+[09/12] 12:03:51 = [Tilkal] Initializing.
+[09/12] 12:03:51 = [Tilkal] Initiating skills.
+[09/12] 12:04:57 = [Tilkal] Server shut down.
+[09/12] 12:04:47 = 
+> [09/12] 12:04:46 = 
+Guest connected from [127.0.0.1]
+[09/12] 12:04:44 = [Tilkal] Starting main loop.
+[09/12] 12:04:44 = [Tilkal] Starting thread.
+[09/12] 12:04:44 = [Tilkal] Loading text files.
+[09/12] 12:04:44 = [Tilkal] Initializing.
+[09/12] 12:04:44 = [Tilkal] Initiating skills.
+[09/12] 20:17:21 = [Tilkal] Server shut down.
+[09/12] 20:16:55 = 
+> [09/12] 20:16:53 = 
+Guest connected from [127.0.0.1]
+[09/12] 20:16:41 = [Tilkal] Starting main loop.
+[09/12] 20:16:41 = [Tilkal] Starting thread.
+[09/12] 20:16:41 = [Tilkal] Loading text files.
+[09/12] 20:16:41 = [Tilkal] Initializing.
+[09/12] 20:16:39 = [Tilkal] Initiating skills.
+[09/12] 20:21:11 = [Tilkal] Server shut down.
+[09/12] 20:18:00 = 
+> [09/12] 20:17:58 = 
+Guest connected from [127.0.0.1]
+[09/12] 20:17:56 = [Tilkal] Starting main loop.
+[09/12] 20:17:56 = [Tilkal] Starting thread.
+[09/12] 20:17:56 = [Tilkal] Loading text files.
+[09/12] 20:17:56 = [Tilkal] Initializing.
+[09/12] 20:17:55 = [Tilkal] Initiating skills.
+[09/12] 20:21:39 = [Tilkal] Server shut down.
+[09/12] 20:21:17 = 
+> [09/12] 20:21:16 = 
+Guest connected from [127.0.0.1]
+[09/12] 20:21:14 = [Tilkal] Starting main loop.
+[09/12] 20:21:14 = [Tilkal] Starting thread.
+[09/12] 20:21:14 = [Tilkal] Loading text files.
+[09/12] 20:21:14 = [Tilkal] Initializing.
+[09/12] 20:21:14 = [Tilkal] Initiating skills.
+[09/12] 20:23:14 = [Tilkal] Server shut down.
+[09/12] 20:21:51 = 
+> [09/12] 20:21:50 = 
+Guest connected from [127.0.0.1]
+[09/12] 20:21:42 = [Tilkal] Starting main loop.
+[09/12] 20:21:42 = [Tilkal] Starting thread.
+[09/12] 20:21:42 = [Tilkal] Loading text files.
+[09/12] 20:21:42 = [Tilkal] Initializing.
+[09/12] 20:21:42 = [Tilkal] Initiating skills.
+[09/12] 20:23:40 = [Tilkal] Server shut down.
+[09/12] 20:23:21 = 
+> [09/12] 20:23:20 = 
+Guest connected from [127.0.0.1]
+[09/12] 20:23:17 = [Tilkal] Starting main loop.
+[09/12] 20:23:17 = [Tilkal] Starting thread.
+[09/12] 20:23:17 = [Tilkal] Loading text files.
+[09/12] 20:23:17 = [Tilkal] Initializing.
+[09/12] 20:23:17 = [Tilkal] Initiating skills.
+[09/12] 20:27:42 = [Tilkal] Server shut down.
+[09/12] 20:23:46 = 
+> [09/12] 20:23:45 = 
+Guest connected from [127.0.0.1]
+[09/12] 20:23:43 = [Tilkal] Starting main loop.
+[09/12] 20:23:43 = [Tilkal] Starting thread.
+[09/12] 20:23:43 = [Tilkal] Loading text files.
+[09/12] 20:23:43 = [Tilkal] Initializing.
+[09/12] 20:23:43 = [Tilkal] Initiating skills.
+[09/12] 20:29:27 = [Tilkal] Server shut down.
+[09/12] 20:27:56 = 
+> [09/12] 20:27:55 = 
+Guest connected from [127.0.0.1]
+[09/12] 20:27:52 = [Tilkal] Starting main loop.
+[09/12] 20:27:52 = [Tilkal] Starting thread.
+[09/12] 20:27:52 = [Tilkal] Loading text files.
+[09/12] 20:27:52 = [Tilkal] Initializing.
+[09/12] 20:27:52 = [Tilkal] Initiating skills.
+[09/12] 20:34:26 = [Tilkal] Server shut down.
+[09/12] 20:34:00 = 
+> [09/12] 20:33:59 = 
+Guest connected from [127.0.0.1]
+[09/12] 20:33:56 = [Tilkal] Starting main loop.
+[09/12] 20:33:56 = [Tilkal] Starting thread.
+[09/12] 20:33:56 = [Tilkal] Loading text files.
+[09/12] 20:33:56 = [Tilkal] Initializing.
+[09/12] 20:33:56 = [Tilkal] Initiating skills.
+[09/13] 23:37:25 = [Tilkal] Server shut down.
+[09/13] 23:18:15 = 
+> [09/13] 23:18:14 = 
+Guest connected from [127.0.0.1]
+[09/13] 23:18:11 = [Tilkal] Starting main loop.
+[09/13] 23:18:11 = [Tilkal] Starting thread.
+[09/13] 23:18:11 = [Tilkal] Loading text files.
+[09/13] 23:18:11 = [Tilkal] Initializing.
+[09/13] 23:18:11 = [Tilkal] Initiating skills.
+[09/14] 00:06:18 = [Tilkal] Server shut down.
+[09/14] 00:06:03 = 
+> [09/14] 00:06:02 = 
+Guest connected from [127.0.0.1]
+[09/14] 00:05:59 = [Tilkal] Starting main loop.
+[09/14] 00:05:59 = [Tilkal] Starting thread.
+[09/14] 00:05:59 = [Tilkal] Loading text files.
+[09/14] 00:05:59 = [Tilkal] Initializing.
+[09/14] 00:05:59 = [Tilkal] Initiating skills.
+[09/14] 00:39:02 = [Tilkal] Server shut down.
+[09/14] 00:38:39 = 
+> [09/14] 00:38:37 = 
+Guest connected from [127.0.0.1]
+[09/14] 00:38:31 = [Tilkal] Starting main loop.
+[09/14] 00:38:31 = [Tilkal] Starting thread.
+[09/14] 00:38:31 = [Tilkal] Loading text files.
+[09/14] 00:38:31 = [Tilkal] Initializing.
+[09/14] 00:38:31 = [Tilkal] Initiating skills.
+[09/14] 00:44:58 = [Tilkal] Server shut down.
+[09/14] 00:44:48 = 
+> [09/14] 00:44:46 = 
+Guest connected from [127.0.0.1]
+[09/14] 00:44:42 = [Tilkal] Starting main loop.
+[09/14] 00:44:42 = [Tilkal] Starting thread.
+[09/14] 00:44:42 = [Tilkal] Loading text files.
+[09/14] 00:44:42 = [Tilkal] Initializing.
+[09/14] 00:44:42 = [Tilkal] Initiating skills.
+[09/14] 00:47:07 = [Tilkal] Server shut down.
+[09/14] 00:45:56 = 
+> [09/14] 00:45:55 = 
+Guest connected from [127.0.0.1]
+[09/14] 00:45:52 = [Tilkal] Starting main loop.
+[09/14] 00:45:52 = [Tilkal] Starting thread.
+[09/14] 00:45:52 = [Tilkal] Loading text files.
+[09/14] 00:45:52 = [Tilkal] Initializing.
+[09/14] 00:45:52 = [Tilkal] Initiating skills.
+[09/14] 01:11:46 = 
+Guest connected from [127.0.[09/14] 01:13:48 = [Tilkal] Server shut down.
+[09/14] 01:11:47 = 
+> 0.1]
+[09/14] 01:11:43 = [Tilkal] Starting main loop.
+[09/14] 01:11:43 = [Tilkal] Starting thread.
+[09/14] 01:11:43 = [Tilkal] Loading text files.
+[09/14] 01:11:43 = [Tilkal] Initializing.
+[09/14] 01:11:43 = [Tilkal] Initiating skills.
+[09/14] 19:40:43 = [Tilkal] Server shut down.
+[09/14] 19:39:05 = 
+> [09/14] 19:39:02 = 
+Guest connected from [127.0.0.1]
+[09/14] 19:38:54 = [Tilkal] Starting main loop.
+[09/14] 19:38:54 = [Tilkal] Starting thread.
+[09/14] 19:38:54 = [Tilkal] Loading text files.
+[09/14] 19:38:54 = [Tilkal] Initializing.
+[09/14] 19:38:54 = [Tilkal] Initiating skills.
+[09/14] 19:59:13 = [Tilkal] Server shut down.
+[09/14] 19:57:30 = [l] disconnected.
+[09/14] 19:56:58 = 
+> [09/14] 19:56:57 = 
+Guest connected from [127.0.0.1]
+[09/14] 19:56:49 = [Tilkal] Starting main loop.
+[09/14] 19:56:49 = [Tilkal] Starting thread.
+[09/14] 19:56:49 = [Tilkal] Loading text files.
+[09/14] 19:56:49 = [Tilkal] Initializing.
+[09/14] 19:56:48 = [Tilkal] Initiating skills.
+[09/15] 14:55:06 = [Tilkal] Server shut down.
+[09/15] 14:54:09 = 
+> [09/15] 14:54:08 = 
+Guest connected from [127.0.0.1]
+[09/15] 14:54:01 = [Tilkal] Starting main loop.
+[09/15] 14:54:01 = [Tilkal] Starting thread.
+[09/15] 14:54:01 = [Tilkal] Loading text files.
+[09/15] 14:54:01 = [Tilkal] Initializing.
+[09/15] 14:54:01 = [Tilkal] Initiating skills.
+[09/15] 16:12:45 = [Tilkal] Server shut down.
+[09/15] 16:09:48 = 
+> [09/15] 16:09:46 = 
+Guest connected from [127.0.0.1]
+[09/15] 16:09:43 = [Tilkal] Starting main loop.
+[09/15] 16:09:42 = [Tilkal] Starting thread.
+[09/15] 16:09:42 = [Tilkal] Loading text files.
+[09/15] 16:09:42 = [Tilkal] Initializing.
+[09/15] 16:09:42 = [Tilkal] Initiating skills.
+[09/15] 16:13:01 = [Tilkal] Server shut down.
+[09/15] 16:12:53 = 
+Guest connected from [127.0.0.1]
+[09/15] 16:12:48 = [Tilkal] Starting main loop.
+[09/15] 16:12:48 = [Tilkal] Starting thread.
+[09/15] 16:12:48 = [Tilkal] Loading text files.
+[09/15] 16:12:48 = [Tilkal] Initializing.
+[09/15] 16:12:48 = [Tilkal] Initiating skills.
+[09/15] 16:21:12 = 
+Guest connected from [127.0.0.1]
+[09/15] 16:21:08 = [Tilkal] Objects loaded.
+[09/15] 16:20:06 = [Tilkal] Starting main loop.
+[09/15] 16:20:06 = [Tilkal] Starting thread.
+[09/15] 16:20:06 = [Tilkal] Loading text files.
+[09/15] 16:20:06 = [Tilkal] Initializing.
+[09/15] 16:20:06 = [Tilkal] Initiating skills.
+[09/15] 16:21:54 = [Tilkal] Server shut down.
+[09/15] 16:21:46 = 
+> [09/15] 16:21:44 = 
+Guest connected from [127.0.0.1]
+[09/15] 16:21:40 = [Tilkal] Starting main loop.
+[09/15] 16:21:40 = [Tilkal] Starting thread.
+[09/15] 16:21:40 = [Tilkal] Loading text files.
+[09/15] 16:21:40 = [Tilkal] Initializing.
+[09/15] 16:21:40 = [Tilkal] Initiating skills.
+[09/15] 16:21:40 = [Tilkal] Objects loaded.
+[09/15] 16:22:32 = [Tilkal] Starting main loop.
+[09/15] 16:22:32 = [Tilkal] Starting thread.
+[09/15] 16:22:32 = [Tilkal] Loading text files.
+[09/15] 16:22:32 = [Tilkal] Initializing.
+[09/15] 16:22:32 = [Tilkal] Initiating skills.
+[09/15] 16:22:32 = [Tilkal] Objects loaded.
+[09/15] 16:22:53 = [Tilkal] Server shut down.
+[09/15] 16:22:43 = 
+> [09/15] 16:22:42 = 
+Guest connected from [127.0.0.1]
+[09/15] 16:22:40 = [Tilkal] Starting main loop.
+[09/15] 16:22:39 = [Tilkal] Starting thread.
+[09/15] 16:22:39 = [Tilkal] Loading text files.
+[09/15] 16:22:39 = [Tilkal] Initializing.
+[09/15] 16:22:39 = [Tilkal] Initiating skills.
+[09/15] 16:22:39 = [Tilkal] Objects loaded.
+[09/15] 16:23:42 = [Tilkal] Server shut down.
+[09/15] 16:23:31 = 
+Guest connected from [127.0.0.1]
+[09/15] 16:23:21 = [Tilkal] Starting main loop.
+[09/15] 16:23:21 = [Tilkal] Starting thread.
+[09/15] 16:23:21 = [Tilkal] Loading text files.
+[09/15] 16:23:21 = [Tilkal] Initializing.
+[09/15] 16:23:21 = [Tilkal] Initiating skills.
+[09/15] 16:23:21 = [Tilkal] Objects loaded.
+[09/15] 23:45:50 = [Tilkal] Server shut down.
+[09/15] 23:45:38 = 
+Guest connected from [127.0.0.1]
+[09/15] 23:45:25 = [Tilkal] Starting main loop.
+[09/15] 23:45:25 = [Tilkal] Starting thread.
+[09/15] 23:45:25 = [Tilkal] Loading text files.
+[09/15] 23:45:25 = [Tilkal] Initializing.
+[09/15] 23:45:25 = [Tilkal] Initiating skills.
+[09/15] 23:45:25 = [Tilkal] Objects loaded.
+[09/15] 23:46:30 = [Tilkal] Server shut down.
+[09/15] 23:46:00 = 
+> [09/15] 23:45:59 = 
+Guest connected from [127.0.0.1]
+[09/15] 23:45:55 = [Tilkal] Starting main loop.
+[09/15] 23:45:55 = [Tilkal] Starting thread.
+[09/15] 23:45:55 = [Tilkal] Loading text files.
+[09/15] 23:45:55 = [Tilkal] Initializing.
+[09/15] 23:45:55 = [Tilkal] Initiating skills.
+[09/15] 23:45:55 = [Tilkal] Objects loaded.
+[09/15] 23:47:17 = [Tilkal] Server shut down.
+[09/15] 23:46:46 = 
+> [09/15] 23:46:45 = 
+Guest connected from [127.0.0.1]
+[09/15] 23:46:40 = [Tilkal] Starting main loop.
+[09/15] 23:46:40 = [Tilkal] Starting thread.
+[09/15] 23:46:40 = [Tilkal] Loading text files.
+[09/15] 23:46:40 = [Tilkal] Initializing.
+[09/15] 23:46:40 = [Tilkal] Initiating skills.
+[09/15] 23:56:59 = [Tilkal] Server shut down.
+[09/15] 23:56:42 = 
+> [09/15] 23:56:41 = 
+Guest connected from [127.0.0.1]
+[09/15] 23:56:38 = [Tilkal] Starting main loop.
+[09/15] 23:56:38 = [Tilkal] Starting thread.
+[09/15] 23:56:37 = [Tilkal] Loading text files.
+[09/15] 23:56:37 = [Tilkal] Initializing.
+[09/15] 23:56:37 = [Tilkal] Initiating skills.
+[09/15] 23:56:37 = [Tilkal] Objects loaded.
+[09/15] 23:57:25 = [Tilkal] Server shut down.
+[09/15] 23:57:14 = 
+> [09/15] 23:57:08 = 
+Guest connected from [127.0.0.1]
+[09/15] 23:57:06 = [Tilkal] Starting main loop.
+[09/15] 23:57:06 = [Tilkal] Starting thread.
+[09/15] 23:57:06 = [Tilkal] Loading text files.
+[09/15] 23:57:06 = [Tilkal] Initializing.
+[09/15] 23:57:06 = [Tilkal] Initiating skills.
+[09/15] 23:59:12 = [Tilkal] Server shut down.
+[09/15] 23:58:42 = 
+> [09/15] 23:58:41 = 
+Guest connected from [127.0.0.1]
+[09/15] 23:58:38 = [Tilkal] Starting main loop.
+[09/15] 23:58:38 = [Tilkal] Starting thread.
+[09/15] 23:58:38 = [Tilkal] Loading text files.
+[09/15] 23:58:38 = [Tilkal] Initializing.
+[09/15] 23:58:38 = [Tilkal] Initiating skills.
+[09/16] 00:09:08 = [Tilkal] Server shut down.
+[09/16] 00:09:04 = 
+> [09/16] 00:09:03 = 
+Guest connected from [127.0.0.1]
+[09/16] 00:09:00 = [Tilkal] Starting main loop.
+[09/16] 00:09:00 = [Tilkal] Starting thread.
+[09/16] 00:09:00 = [Tilkal] Loading text files.
+[09/16] 00:09:00 = [Tilkal] Initializing.
+[09/16] 00:09:00 = [Tilkal] Initiating skills.
+[09/16] 00:10:33 = [Tilkal] Server shut down.
+[09/16] 00:10:29 = [Tilkal] Starting main loop.
+[09/16] 00:10:29 = [Tilkal] Starting thread.
+[09/16] 00:10:29 = [Tilkal] Loading text files.
+[09/16] 00:10:29 = [Tilkal] Initializing.
+[09/16] 00:10:29 = [Tilkal] Initiating skills.
+[09/16] 00:16:17 = [Tilkal] Server shut down.
+[09/16] 00:16:12 = 
+> [09/16] 00:16:11 = 
+Guest connected from [127.0.0.1]
+[09/16] 00:16:06 = [Tilkal] Starting main loop.
+[09/16] 00:16:06 = [Tilkal] Starting thread.
+[09/16] 00:16:06 = [Tilkal] Loading text files.
+[09/16] 00:16:06 = [Tilkal] Initializing.
+[09/16] 00:16:06 = [Tilkal] Initiating skills.
+[09/16] 01:05:48 = [Tilkal] Server shut down.
+[09/16] 01:03:45 = 
+> [09/16] 01:03:44 = 
+Guest connected from [127.0.0.1]
+[09/16] 01:03:41 = [Tilkal] Starting main loop.
+[09/16] 01:03:41 = [Tilkal] Starting thread.
+[09/16] 01:03:41 = [Tilkal] Loading text files.
+[09/16] 01:03:41 = [Tilkal] Initializing.
+[09/16] 01:03:41 = [Tilkal] Initiating skills.
+[09/16] 01:03:41 = [Tilkal] Objects loaded.
+[09/17] 18:08:48 = [Tilkal] Server shut down.
+[09/17] 18:08:47 = [l] disconnected.
+[09/17] 18:08:26 = [Tilkal] Starting main loop.
+[09/17] 18:08:26 = [Tilkal] Starting thread.
+[09/17] 18:08:26 = [Tilkal] Loading text files.
+[09/17] 18:08:26 = [Tilkal] Initializing.
+[09/17] 18:08:26 = [Tilkal] Initiating skills.
+[09/18] 09:43:03 = [Tilkal] Server shut down.
+[09/17] 18:36:18 = [l] disconnected.
+[09/17] 18:36:18 = Client 0 has lost connection.[09/17] 18:28:32 = [Tilkal] Starting main loop.
+[09/17] 18:28:32 = [Tilkal] Starting thread.
+[09/17] 18:28:32 = [Tilkal] Loading text files.
+[09/17] 18:28:32 = [Tilkal] Initializing.
+[09/17] 18:28:32 = [Tilkal] Initiating skills.
+[09/18] 10:51:59 = [Tilkal] Server shut down.
+[09/18] 10:51:49 = 
+Guest connected from [127.0.0.1]
+[09/18] 10:51:42 = [Tilkal] Starting main loop.
+[09/18] 10:51:42 = [Tilkal] Starting thread.
+[09/18] 10:51:42 = [Tilkal] Loading text files.
+[09/18] 10:51:42 = [Tilkal] Initializing.
+[09/18] 10:51:42 = [Tilkal] Initiating skills.
+[09/18] 10:51:42 = [Tilkal] Objects loaded.
+[09/18] 10:54:28 = [Tilkal] Server shut down.
+[09/18] 10:53:27 = 
+> [09/18] 10:53:25 = 
+Guest connected from [127.0.0.1]
+[09/18] 10:53:24 = [Tilkal] Starting main loop.
+[09/18] 10:53:24 = [Tilkal] Starting thread.
+[09/18] 10:53:24 = [Tilkal] Loading text files.
+[09/18] 10:53:24 = [Tilkal] Initializing.
+[09/18] 10:53:24 = [Tilkal] Initiating skills.
+[09/18] 11:04:27 = [Tilkal] Server shut down.
+[09/18] 11:04:11 = 
+> [09/18] 11:04:10 = 
+Guest connected from [127.0.0.1]
+[09/18] 11:04:07 = [Tilkal] Starting main loop.
+[09/18] 11:04:07 = [Tilkal] Starting thread.
+[09/18] 11:04:07 = [Tilkal] Loading text files.
+[09/18] 11:04:07 = [Tilkal] Initializing.
+[09/18] 11:04:07 = [Tilkal] Initiating skills.
+[09/18] 11:07:04 = [Tilkal] Server shut down.
+[09/18] 11:06:36 = 
+> [09/18] 11:06:35 = 
+Guest connected from [127.0.0.1]
+[09/18] 11:06:33 = [Tilkal] Starting main loop.
+[09/18] 11:06:33 = [Tilkal] Starting thread.
+[09/18] 11:06:33 = [Tilkal] Loading text files.
+[09/18] 11:06:33 = [Tilkal] Initializing.
+[09/18] 11:06:33 = [Tilkal] Initiating skills.
+[09/18] 11:15:58 = [Tilkal] Server shut down.
+[09/18] 11:14:05 = 
+> [09/18] 11:12:56 = 
+> [09/18] 11:12:32 = 
+Guest connected from [162.38.150.111]
+[09/18] 11:11:58 = 
+> [09/18] 11:11:32 = 
+Guest connected from [127.0.0.1]
+[09/18] 11:11:15 = [Tilkal] Starting main loop.
+[09/18] 11:11:15 = [Tilkal] Starting thread.
+[09/18] 11:11:15 = [Tilkal] Loading text files.
+[09/18] 11:11:15 = [Tilkal] Initializing.
+[09/18] 11:11:15 = [Tilkal] Initiating skills.
+[09/18] 14:34:41 = [Tilkal] Server shut down.
+[09/18] 14:33:33 = [Tilkal] Starting main loop.
+[09/18] 14:33:33 = [Tilkal] Starting thread.
+[09/18] 14:33:33 = [Tilkal] Loading text files.
+[09/18] 14:33:33 = [Tilkal] Initializing.
+[09/18] 14:33:33 = [Tilkal] Initiating skills.
+[09/18] 14:38:11 = [Tilkal] Server shut down.
+[09/18] 14:35:17 = [Tilkal] Starting main loop.
+[09/18] 14:35:17 = [Tilkal] Starting thread.
+[09/18] 14:35:17 = [Tilkal] Loading text files.
+[09/18] 14:35:17 = [Tilkal] Initializing.
+[09/18] 14:35:17 = [Tilkal] Initiating skills.
+[09/18] 14:38:26 = [Tilkal] Server shut down.
+[09/18] 14:38:25 = [l] disconnected.
+[09/18] 14:38:25 = Client 0 has lost connection.[09/18] 14:38:14 = [Tilkal] Starting main loop.
+[09/18] 14:38:14 = [Tilkal] Starting thread.
+[09/18] 14:38:14 = [Tilkal] Loading text files.
+[09/18] 14:38:14 = [Tilkal] Initializing.
+[09/18] 14:38:14 = [Tilkal] Initiating skills.
+[09/18] 14:42:09 = [Tilkal] Server shut down.
+[09/18] 14:40:13 = [l] disconnected.
+[09/18] 14:40:13 = Client 0 has lost connection.[09/18] 14:40:01 = [Tilkal] Starting main loop.
+[09/18] 14:40:01 = [Tilkal] Starting thread.
+[09/18] 14:40:01 = [Tilkal] Loading text files.
+[09/18] 14:40:01 = [Tilkal] Initializing.
+[09/18] 14:40:01 = [Tilkal] Initiating skills.
+[09/18] 14:42:32 = [Tilkal] Server shut down.
+[09/18] 14:42:12 = [Tilkal] Starting main loop.
+[09/18] 14:42:12 = [Tilkal] Starting thread.
+[09/18] 14:42:12 = [Tilkal] Loading text files.
+[09/18] 14:42:12 = [Tilkal] Initializing.
+[09/18] 14:42:12 = [Tilkal] Initiating skills.
+[09/18] 14:44:01 = [Tilkal] Server shut down.
+[09/18] 14:43:45 = [Tilkal] Starting main loop.
+[09/18] 14:43:45 = [Tilkal] Starting thread.
+[09/18] 14:43:45 = [Tilkal] Loading text files.
+[09/18] 14:43:45 = [Tilkal] Initializing.
+[09/18] 14:43:45 = [Tilkal] Initiating skills.
+[09/18] 14:46:04 = [Tilkal] Server shut down.
+[09/18] 14:44:30 = [Tilkal] Starting main loop.
+[09/18] 14:44:30 = [Tilkal] Starting thread.
+[09/18] 14:44:30 = [Tilkal] Loading text files.
+[09/18] 14:44:30 = [Tilkal] Initializing.
+[09/18] 14:44:30 = [Tilkal] Initiating skills.
+[09/18] 14:58:12 = [Tilkal] Server shut down.
+[09/18] 14:46:07 = [Tilkal] Starting main loop.
+[09/18] 14:46:07 = [Tilkal] Starting thread.
+[09/18] 14:46:07 = [Tilkal] Loading text files.
+[09/18] 14:46:07 = [Tilkal] Initializing.
+[09/18] 14:46:07 = [Tilkal] Initiating skills.
+[09/18] 16:11:50 = [Tilkal] Server shut down.
+[09/18] 16:10:19 = [Tilkal] Starting main loop.
+[09/18] 16:10:19 = [Tilkal] Starting thread.
+[09/18] 16:10:19 = [Tilkal] Loading text files.
+[09/18] 16:10:19 = [Tilkal] Initializing.
+[09/18] 16:10:19 = [Tilkal] Initiating skills.
+[09/18] 16:14:59 = [Tilkal] Server shut down.
+[09/18] 16:13:03 = [Tilkal] Starting main loop.
+[09/18] 16:13:03 = [Tilkal] Starting thread.
+[09/18] 16:13:03 = [Tilkal] Loading text files.
+[09/18] 16:13:03 = [Tilkal] Initializing.
+[09/18] 16:13:03 = [Tilkal] Initiating skills.
+[09/18] 16:18:16 = [Tilkal] Server shut down.
+[09/18] 16:17:07 = [Tilkal] Starting main loop.
+[09/18] 16:17:07 = [Tilkal] Starting thread.
+[09/18] 16:17:07 = [Tilkal] Loading text files.
+[09/18] 16:17:07 = [Tilkal] Initializing.
+[09/18] 16:17:07 = [Tilkal] Initiating skills.
+[09/18] 16:24:06 = [Tilkal] Server shut down.
+[09/18] 16:23:52 = [Tilkal] Starting main loop.
+[09/18] 16:23:52 = [Tilkal] Starting thread.
+[09/18] 16:23:52 = [Tilkal] Loading text files.
+[09/18] 16:23:52 = [Tilkal] Initializing.
+[09/18] 16:23:52 = [Tilkal] Initiating skills.
+[09/18] 16:27:34 = [Tilkal] Server shut down.
+[09/18] 16:24:08 = [Tilkal] Starting main loop.
+[09/18] 16:24:08 = [Tilkal] Starting thread.
+[09/18] 16:24:08 = [Tilkal] Loading text files.
+[09/18] 16:24:08 = [Tilkal] Initializing.
+[09/18] 16:24:08 = [Tilkal] Initiating skills.
+[09/18] 16:29:24 = [Tilkal] Server shut down.
+[09/18] 16:27:37 = [Tilkal] Starting main loop.
+[09/18] 16:27:37 = [Tilkal] Starting thread.
+[09/18] 16:27:36 = [Tilkal] Loading text files.
+[09/18] 16:27:36 = [Tilkal] Initializing.
+[09/18] 16:27:36 = [Tilkal] Initiating skills.
+[09/18] 17:04:35 = [Tilkal] Server shut down.
+[09/18] 16:29:27 = [Tilkal] Starting main loop.
+[09/18] 16:29:27 = [Tilkal] Starting thread.
+[09/18] 16:29:27 = [Tilkal] Loading text files.
+[09/18] 16:29:27 = [Tilkal] Initializing.
+[09/18] 16:29:27 = [Tilkal] Initiating skills.
+[09/18] 17:11:38 = [Tilkal] Server shut down.
+[09/18] 17:06:40 = [Tilkal] Starting main loop.
+[09/18] 17:06:40 = [Tilkal] Starting thread.
+[09/18] 17:06:40 = [Tilkal] Loading text files.
+[09/18] 17:06:40 = [Tilkal] Initializing.
+[09/18] 17:06:40 = [Tilkal] Initiating skills.
+[09/18] 17:12:46 = [Tilkal] Server shut down.
+[09/18] 17:11:42 = [Tilkal] Starting main loop.
+[09/18] 17:11:42 = [Tilkal] Starting thread.
+[09/18] 17:11:42 = [Tilkal] Loading text files.
+[09/18] 17:11:42 = [Tilkal] Initializing.
+[09/18] 17:11:42 = [Tilkal] Initiating skills.
+[09/18] 17:16:21 = [Tilkal] Server shut down.
+[09/18] 17:12:51 = [Tilkal] Starting main loop.
+[09/18] 17:12:51 = [Tilkal] Starting thread.
+[09/18] 17:12:51 = [Tilkal] Loading text files.
+[09/18] 17:12:51 = [Tilkal] Initializing.
+[09/18] 17:12:51 = [Tilkal] Initiating skills.
+[09/18] 17:19:33 = [Tilkal] Server shut down.
+[09/18] 17:16:24 = [Tilkal] Starting main loop.
+[09/18] 17:16:24 = [Tilkal] Starting thread.
+[09/18] 17:16:24 = [Tilkal] Loading text files.
+[09/18] 17:16:24 = [Tilkal] Initializing.
+[09/18] 17:16:24 = [Tilkal] Initiating skills.
+[09/18] 17:23:24 = [Tilkal] Server shut down.
+[09/18] 17:19:38 = [Tilkal] Starting main loop.
+[09/18] 17:19:37 = [Tilkal] Starting thread.
+[09/18] 17:19:37 = [Tilkal] Loading text files.
+[09/18] 17:19:37 = [Tilkal] Initializing.
+[09/18] 17:19:37 = [Tilkal] Initiating skills.
+[09/18] 17:24:36 = [Tilkal] Server shut down.
+[09/18] 17:23:28 = [Tilkal] Starting main loop.
+[09/18] 17:23:28 = [Tilkal] Starting thread.
+[09/18] 17:23:28 = [Tilkal] Loading text files.
+[09/18] 17:23:28 = [Tilkal] Initializing.
+[09/18] 17:23:28 = [Tilkal] Initiating skills.
+[09/18] 17:43:41 = [Tilkal] Server shut down.
+[09/18] 17:27:50 = [l] disconnected.
+[09/18] 17:25:10 = [Tilkal] Starting main loop.
+[09/18] 17:25:10 = [Tilkal] Starting thread.
+[09/18] 17:25:10 = [Tilkal] Loading text files.
+[09/18] 17:25:10 = [Tilkal] Initializing.
+[09/18] 17:25:10 = [Tilkal] Initiating skills.
+[09/18] 18:06:41 = [Tilkal] Server shut down.
+[09/18] 18:03:58 = [l] disconnected.
+[09/18] 18:03:32 = 
+> [09/18] 18:03:27 = 
+Guest connected from [3.16.8.8]
+[09/18] 18:02:23 = [l] disconnected.
+[09/18] 18:01:41 = 
+> [09/18] 17:55:33 = 
+Guest connected from [3.16.8.8]
+[09/18] 17:48:15 = [l] disconnected.
+[09/18] 17:46:52 = 
+> [09/18] 17:46:41 = 
+Guest connected from [3.16.8.8]
+[09/18] 17:45:23 = [Tilkal] Starting main loop.
+[09/18] 17:45:23 = [Tilkal] Starting thread.
+[09/18] 17:45:23 = [Tilkal] Loading text files.
+[09/18] 17:45:23 = [Tilkal] Initializing.
+[09/18] 17:45:23 = [Tilkal] Initiating skills.
+[09/18] 18:10:09 = [Tilkal] Server shut down.
+[09/18] 18:09:07 = 
+> [09/18] 18:09:07 = [l] disconnected.
+[09/18] 18:09:02 = 
+Guest connected from [35.16.8.8]
+[09/18] 18:07:56 = 
+Guest connected from [35.16.8.8]
+[09/18] 18:07:09 = 
+Guest connected from [35.16.8.8]
+[09/18] 18:06:53 = 
+> [09/18] 18:06:50 = 
+Guest connected from [64.254.127.191]
+[09/18] 18:06:46 = [Tilkal] Starting main loop.
+[09/18] 18:06:46 = [Tilkal] Starting thread.
+[09/18] 18:06:46 = [Tilkal] Loading text files.
+[09/18] 18:06:46 = [Tilkal] Initializing.
+[09/18] 18:06:46 = [Tilkal] Initiating skills.
+[09/18] 20:21:10 = [Tilkal] Initiating skills.
+[09/18] 20:21:10 = [Tilkal] Initializing.
+[09/18] 20:21:10 = [Tilkal] Loading text files.
+[09/18] 20:21:10 = [Tilkal] Starting thread.
+[09/18] 20:21:10 = [Tilkal] Starting main loop.
+[09/18] 20:49:50 = 
+Guest connected from [204.204.204.204]
+[09/18] 20:49:57 = 
+> [09/18] 20:54:46 = [Tilkal] Server shut down.
+[09/18] 23:56:32 = [Tilkal] Initiating skills.
+[09/18] 23:56:32 = [Tilkal] Initializing.
+[09/18] 23:56:32 = [Tilkal] Loading text files.
+[09/18] 23:56:32 = [Tilkal] Starting thread.
+[09/18] 23:56:32 = [Tilkal] Starting main loop.
+[09/18] 23:57:52 = [Tilkal] Server shut down.
+[09/21] 09:29:20 = [Tilkal] Server shut down.
+[09/21] 09:24:46 = 
+l has logged in.
+[09/21] 09:24:37 = 
+Guest connected from [163.80.10.8]
+[09/21] 09:24:20 = [Tilkal] Starting main loop.
+[09/21] 09:24:20 = [Tilkal] Starting thread.
+[09/21] 09:24:20 = [Tilkal] Loading text files.
+[09/21] 09:24:20 = [Tilkal] Initializing.
+[09/21] 09:24:20 = [Tilkal] Initiating skills.
+[09/21] 10:09:18 = [Tilkal] Server shut down.
+[09/21] 10:08:20 = 
+l has logged in.
+[09/21] 10:08:15 = 
+Guest connected from [163.80.10.8]
+[09/21] 10:08:10 = [Tilkal] Starting main loop.
+[09/21] 10:08:10 = [Tilkal] Starting thread.
+[09/21] 10:08:10 = [Tilkal] Loading text files.
+[09/21] 10:08:10 = [Tilkal] Initializing.
+[09/21] 10:08:10 = [Tilkal] Initiating skills.
+[09/21] 10:14:08 = [Tilkal] Server shut down.
+[09/21] 10:13:34 = 
+l has logged in.
+[09/21] 10:13:26 = 
+Guest connected from [163.80.10.8]
+[09/21] 10:09:18 = [Tilkal] Starting main loop.
+[09/21] 10:09:18 = [Tilkal] Starting thread.
+[09/21] 10:09:18 = [Tilkal] Loading text files.
+[09/21] 10:09:18 = [Tilkal] Initializing.
+[09/21] 10:09:18 = [Tilkal] Initiating skills.
+[09/21] 10:54:45 = [Tilkal] Server shut down.
+[09/21] 10:47:37 = 
+l has logged in.
+[09/21] 10:47:32 = 
+Guest connected from [163.80.10.8]
+[09/21] 10:47:27 = [Tilkal] Starting main loop.
+[09/21] 10:47:27 = [Tilkal] Starting thread.
+[09/21] 10:47:27 = [Tilkal] Loading text files.
+[09/21] 10:47:27 = [Tilkal] Initializing.
+[09/21] 10:47:27 = [Tilkal] Initiating skills.
+[09/21] 11:32:31 = [Tilkal] Server shut down.
+[09/21] 11:21:13 = 
+l has logged in.
+[09/21] 11:21:13 = 
+Guest connected from [163.80.10.8]
+[09/21] 11:21:11 = [Tilkal] Starting main loop.
+[09/21] 11:21:11 = [Tilkal] Starting thread.
+[09/21] 11:21:11 = [Tilkal] Loading text files.
+[09/21] 11:21:11 = [Tilkal] Initializing.
+[09/21] 11:21:11 = [Tilkal] Initiating skills.
+[09/21] 12:05:15 = [Tilkal] Server shut down.
+[09/21] 12:05:05 = 
+Guest connected from [163.80.10.8]
+[09/21] 12:05:02 = [Tilkal] Starting main loop.
+[09/21] 12:05:02 = [Tilkal] Starting thread.
+[09/21] 12:05:02 = [Tilkal] Loading text files.
+[09/21] 12:05:02 = [Tilkal] Initializing.
+[09/21] 12:05:02 = [Tilkal] Initiating skills.
+[09/21] 16:00:11 = [Tilkal] Server shut down.
+[09/21] 14:44:59 = [Tilkal] Starting main loop.
+[09/21] 14:44:59 = [Tilkal] Starting thread.
+[09/21] 14:44:59 = [Tilkal] Loading text files.
+[09/21] 14:44:59 = [Tilkal] Initializing.
+[09/21] 14:44:59 = [Tilkal] Initiating skills.
+[09/21] 16:33:22 = [Tilkal] Server shut down.
+[09/21] 16:07:45 = 
+l has logged in.
+[09/21] 16:07:40 = 
+Guest connected from [163.80.10.8]
+[09/21] 16:07:30 = [Tilkal] Starting main loop.
+[09/21] 16:07:30 = [Tilkal] Starting thread.
+[09/21] 16:07:30 = [Tilkal] Loading text files.
+[09/21] 16:07:30 = [Tilkal] Initializing.
+[09/21] 16:07:30 = [Tilkal] Initiating skills.
+[09/22] 17:50:13 = [Tilkal] Server shut down.
+[09/22] 17:49:52 = [Tilkal] Starting main loop.
+[09/22] 17:49:52 = [Tilkal] Starting thread.
+[09/22] 17:49:52 = [Tilkal] Loading text files.
+[09/22] 17:49:52 = [Tilkal] Initializing.
+[09/22] 17:49:51 = [Tilkal] Initiating skills.
+[09/23] 10:52:24 = [Tilkal] Server shut down.
+[09/23] 10:51:08 = [Pipo] disconnected.
+[09/23] 10:51:08 = Client 4 has lost connection.[09/23] 10:46:59 = Pipo has logged in.[09/23] 10:44:32 = Pipo has logged in.[09/23] 10:38:54 = [Lomion] disconnected.
+[09/23] 10:38:54 = Client 0 has lost connection.[09/23] 10:26:38 = [Tilkal] Starting main loop.
+[09/23] 10:26:38 = [Tilkal] Starting thread.
+[09/23] 10:26:38 = [Tilkal] Loading text files.
+[09/23] 10:26:38 = [Tilkal] Initializing.
+[09/23] 10:26:38 = [Tilkal] Initiating skills.
+[09/23] 11:05:09 = [Tilkal] Server shut down.
+[09/23] 11:03:03 = [Tilkal] Starting main loop.
+[09/23] 11:03:03 = [Tilkal] Starting thread.
+[09/23] 11:03:03 = [Tilkal] Loading text files.
+[09/23] 11:03:03 = [Tilkal] Initializing.
+[09/23] 11:03:03 = [Tilkal] Initiating skills.
+[09/23] 11:07:18 = [Tilkal] Server shut down.
+[09/23] 11:07:05 = [Tilkal] Starting main loop.
+[09/23] 11:07:05 = [Tilkal] Starting thread.
+[09/23] 11:07:05 = [Tilkal] Loading text files.
+[09/23] 11:07:05 = [Tilkal] Initializing.
+[09/23] 11:07:05 = [Tilkal] Initiating skills.
+[09/23] 11:19:42 = [Tilkal] Server shut down.
+[09/23] 11:07:44 = [Tilkal] Starting main loop.
+[09/23] 11:07:44 = [Tilkal] Starting thread.
+[09/23] 11:07:44 = [Tilkal] Loading text files.
+[09/23] 11:07:44 = [Tilkal] Initializing.
+[09/23] 11:07:44 = [Tilkal] Initiating skills.
+[09/23] 18:16:52 = [Tilkal] Server shut down.
+[09/23] 18:15:33 = [Tilkal] Starting main loop.
+[09/23] 18:15:33 = [Tilkal] Starting thread.
+[09/23] 18:15:33 = [Tilkal] Loading text files.
+[09/23] 18:15:32 = [Tilkal] Initializing.
+[09/23] 18:15:32 = [Tilkal] Initiating skills.
+[09/23] 18:19:09 = [Tilkal] Server shut down.
+[09/23] 18:18:27 = [Tilkal] Starting main loop.
+[09/23] 18:18:27 = [Tilkal] Starting thread.
+[09/23] 18:18:27 = [Tilkal] Loading text files.
+[09/23] 18:18:27 = [Tilkal] Initializing.
+[09/23] 18:18:27 = [Tilkal] Initiating skills.
+[09/23] 18:21:19 = [Tilkal] Server shut down.
+[09/23] 18:19:11 = [Tilkal] Starting main loop.
+[09/23] 18:19:11 = [Tilkal] Starting thread.
+[09/23] 18:19:11 = [Tilkal] Loading text files.
+[09/23] 18:19:11 = [Tilkal] Initializing.
+[09/23] 18:19:11 = [Tilkal] Initiating skills.
+[09/24] 09:17:22 = [Tilkal] Server shut down.
+[09/24] 09:16:40 = [Tilkal] Starting main loop.
+[09/24] 09:16:40 = [Tilkal] Starting thread.
+[09/24] 09:16:40 = [Tilkal] Loading text files.
+[09/24] 09:16:40 = [Tilkal] Initializing.
+[09/24] 09:16:40 = [Tilkal] Initiating skills.
+[09/24] 09:18:01 = [Tilkal] Server shut down.
+[09/24] 09:17:43 = [Tilkal] Starting main loop.
+[09/24] 09:17:43 = [Tilkal] Starting thread.
+[09/24] 09:17:43 = [Tilkal] Loading text files.
+[09/24] 09:17:43 = [Tilkal] Initializing.
+[09/24] 09:17:43 = [Tilkal] Initiating skills.
+[09/24] 09:41:09 = [Tilkal] Server shut down.
+[09/24] 09:40:01 = [Tilkal] Starting main loop.
+[09/24] 09:40:01 = [Tilkal] Starting thread.
+[09/24] 09:40:01 = [Tilkal] Loading text files.
+[09/24] 09:40:01 = [Tilkal] Initializing.
+[09/24] 09:40:01 = [Tilkal] Initiating skills.
+[09/24] 10:00:14 = [Tilkal] Server shut down.
+[09/24] 09:58:58 = [Tilkal] Starting main loop.
+[09/24] 09:58:58 = [Tilkal] Starting thread.
+[09/24] 09:58:58 = [Tilkal] Loading text files.
+[09/24] 09:58:58 = [Tilkal] Initializing.
+[09/24] 09:58:58 = [Tilkal] Initiating skills.
+[09/24] 14:16:11 = [Tilkal] Server shut down.
+[09/24] 14:14:48 = [Tilkal] Starting main loop.
+[09/24] 14:14:48 = [Tilkal] Starting thread.
+[09/24] 14:14:48 = [Tilkal] Loading text files.
+[09/24] 14:14:48 = [Tilkal] Initializing.
+[09/24] 14:14:48 = [Tilkal] Initiating skills.
+[09/24] 14:19:36 = [Tilkal] Server shut down.
+[09/24] 14:19:04 = [Tilkal] Starting main loop.
+[09/24] 14:19:04 = [Tilkal] Starting thread.
+[09/24] 14:19:04 = [Tilkal] Loading text files.
+[09/24] 14:19:04 = [Tilkal] Initializing.
+[09/24] 14:19:04 = [Tilkal] Initiating skills.
+[09/24] 14:26:19 = [Tilkal] Server shut down.
+[09/24] 14:25:47 = [Tilkal] Starting main loop.
+[09/24] 14:25:47 = [Tilkal] Starting thread.
+[09/24] 14:25:47 = [Tilkal] Loading text files.
+[09/24] 14:25:47 = [Tilkal] Initializing.
+[09/24] 14:25:47 = [Tilkal] Initiating skills.
+[09/24] 14:31:37 = [Tilkal] Server shut down.
+[09/24] 14:29:53 = [Tilkal] Starting main loop.
+[09/24] 14:29:53 = [Tilkal] Starting thread.
+[09/24] 14:29:53 = [Tilkal] Loading text files.
+[09/24] 14:29:53 = [Tilkal] Initializing.
+[09/24] 14:29:53 = [Tilkal] Initiating skills.
+[09/24] 14:47:02 = [Tilkal] Server shut down.
+[09/24] 14:45:21 = [Tilkal] Starting main loop.
+[09/24] 14:45:21 = [Tilkal] Starting thread.
+[09/24] 14:45:21 = [Tilkal] Loading text files.
+[09/24] 14:45:21 = [Tilkal] Initializing.
+[09/24] 14:45:21 = [Tilkal] Initiating skills.
+[09/24] 15:20:55 = [Tilkal] Server shut down.
+[09/24] 15:16:57 = [Tilkal] Starting main loop.
+[09/24] 15:16:57 = [Tilkal] Starting thread.
+[09/24] 15:16:57 = [Tilkal] Loading text files.
+[09/24] 15:16:57 = [Tilkal] Initializing.
+[09/24] 15:16:57 = [Tilkal] Initiating skills.
+[09/24] 15:50:07 = [Tilkal] Server shut down.
+[09/24] 15:43:00 = [Tilkal] Starting main loop.
+[09/24] 15:43:00 = [Tilkal] Starting thread.
+[09/24] 15:43:00 = [Tilkal] Loading text files.
+[09/24] 15:43:00 = [Tilkal] Initializing.
+[09/24] 15:43:00 = [Tilkal] Initiating skills.
+[09/24] 16:26:38 = [Tilkal] Server shut down.
+[09/24] 16:23:06 = [Tilkal] Starting main loop.
+[09/24] 16:23:06 = [Tilkal] Starting thread.
+[09/24] 16:23:06 = [Tilkal] Loading text files.
+[09/24] 16:23:06 = [Tilkal] Initializing.
+[09/24] 16:23:06 = [Tilkal] Initiating skills.
+[09/24] 16:26:43 = [Tilkal] Server shut down.
+[09/24] 16:26:39 = [Tilkal] Starting main loop.
+[09/24] 16:26:39 = [Tilkal] Starting thread.
+[09/24] 16:26:39 = [Tilkal] Loading text files.
+[09/24] 16:26:39 = [Tilkal] Initializing.
+[09/24] 16:26:39 = [Tilkal] Initiating skills.
+[09/24] 16:27:44 = [Tilkal] Server shut down.
+[09/24] 16:26:45 = [Tilkal] Starting main loop.
+[09/24] 16:26:45 = [Tilkal] Starting thread.
+[09/24] 16:26:45 = [Tilkal] Loading text files.
+[09/24] 16:26:45 = [Tilkal] Initializing.
+[09/24] 16:26:45 = [Tilkal] Initiating skills.
+[09/25] 14:51:54 = [Tilkal] Server shut down.
+[09/25] 14:50:36 = [Tilkal] Starting main loop.
+[09/25] 14:50:36 = [Tilkal] Starting thread.
+[09/25] 14:50:36 = [Tilkal] Loading text files.
+[09/25] 14:50:36 = [Tilkal] Initializing.
+[09/25] 14:50:36 = [Tilkal] Initiating skills.
+[09/25] 14:58:00 = [Tilkal] Server shut down.
+[09/25] 14:57:26 = [Tilkal] Starting main loop.
+[09/25] 14:57:26 = [Tilkal] Starting thread.
+[09/25] 14:57:26 = [Tilkal] Loading text files.
+[09/25] 14:57:26 = [Tilkal] Initializing.
+[09/25] 14:57:26 = [Tilkal] Initiating skills.
+[09/25] 15:35:24 = [Tilkal] Server shut down.
+[09/25] 15:32:42 = [Tilkal] Starting main loop.
+[09/25] 15:32:42 = [Tilkal] Starting thread.
+[09/25] 15:32:42 = [Tilkal] Loading text files.
+[09/25] 15:32:42 = [Tilkal] Initializing.
+[09/25] 15:32:41 = [Tilkal] Initiating skills.
+[09/25] 15:36:48 = [Tilkal] Server shut down.
+[09/25] 15:35:25 = [Tilkal] Starting main loop.
+[09/25] 15:35:24 = [Tilkal] Starting thread.
+[09/25] 15:35:24 = [Tilkal] Loading text files.
+[09/25] 15:35:24 = [Tilkal] Initializing.
+[09/25] 15:35:24 = [Tilkal] Initiating skills.
+[09/25] 15:37:23 = [Tilkal] Server shut down.
+[09/25] 15:36:51 = [Tilkal] Starting main loop.
+[09/25] 15:36:51 = [Tilkal] Starting thread.
+[09/25] 15:36:51 = [Tilkal] Loading text files.
+[09/25] 15:36:51 = [Tilkal] Initializing.
+[09/25] 15:36:50 = [Tilkal] Initiating skills.
+[09/25] 15:37:35 = [Tilkal] Server shut down.
+[09/25] 15:37:23 = [Tilkal] Starting main loop.
+[09/25] 15:37:23 = [Tilkal] Starting thread.
+[09/25] 15:37:23 = [Tilkal] Loading text files.
+[09/25] 15:37:23 = [Tilkal] Initializing.
+[09/25] 15:37:23 = [Tilkal] Initiating skills.
+[09/25] 15:47:57 = [Tilkal] Server shut down.
+[09/25] 15:37:59 = [Tilkal] Starting main loop.
+[09/25] 15:37:59 = [Tilkal] Starting thread.
+[09/25] 15:37:59 = [Tilkal] Loading text files.
+[09/25] 15:37:59 = [Tilkal] Initializing.
+[09/25] 15:37:59 = [Tilkal] Initiating skills.
+[09/25] 15:52:00 = [Tilkal] Server shut down.
+[09/25] 15:47:58 = [Tilkal] Starting main loop.
+[09/25] 15:47:58 = [Tilkal] Starting thread.
+[09/25] 15:47:58 = [Tilkal] Loading text files.
+[09/25] 15:47:58 = [Tilkal] Initializing.
+[09/25] 15:47:58 = [Tilkal] Initiating skills.
+[09/25] 15:53:04 = [Tilkal] Server shut down.
+[09/25] 15:52:02 = [Tilkal] Starting main loop.
+[09/25] 15:52:02 = [Tilkal] Starting thread.
+[09/25] 15:52:02 = [Tilkal] Loading text files.
+[09/25] 15:52:02 = [Tilkal] Initializing.
+[09/25] 15:52:02 = [Tilkal] Initiating skills.
+[09/25] 15:53:44 = [Tilkal] Server shut down.
+[09/25] 15:53:05 = [Tilkal] Starting main loop.
+[09/25] 15:53:05 = [Tilkal] Starting thread.
+[09/25] 15:53:05 = [Tilkal] Loading text files.
+[09/25] 15:53:05 = [Tilkal] Initializing.
+[09/25] 15:53:05 = [Tilkal] Initiating skills.
+[09/25] 16:09:52 = [Tilkal] Server shut down.
+[09/25] 15:53:45 = [Tilkal] Starting main loop.
+[09/25] 15:53:45 = [Tilkal] Starting thread.
+[09/25] 15:53:45 = [Tilkal] Loading text files.
+[09/25] 15:53:45 = [Tilkal] Initializing.
+[09/25] 15:53:45 = [Tilkal] Initiating skills.
+[09/25] 16:13:09 = [Tilkal] Server shut down.
+[09/25] 16:09:53 = [Tilkal] Starting main loop.
+[09/25] 16:09:53 = [Tilkal] Starting thread.
+[09/25] 16:09:53 = [Tilkal] Loading text files.
+[09/25] 16:09:53 = [Tilkal] Initializing.
+[09/25] 16:09:53 = [Tilkal] Initiating skills.
+[09/25] 16:15:48 = [Tilkal] Server shut down.
+[09/25] 16:13:10 = [Tilkal] Starting main loop.
+[09/25] 16:13:10 = [Tilkal] Starting thread.
+[09/25] 16:13:10 = [Tilkal] Loading text files.
+[09/25] 16:13:10 = [Tilkal] Initializing.
+[09/25] 16:13:10 = [Tilkal] Initiating skills.
+[09/25] 16:17:44 = [Tilkal] Server shut down.
+[09/25] 16:15:49 = [Tilkal] Starting main loop.
+[09/25] 16:15:49 = [Tilkal] Starting thread.
+[09/25] 16:15:49 = [Tilkal] Loading text files.
+[09/25] 16:15:49 = [Tilkal] Initializing.
+[09/25] 16:15:49 = [Tilkal] Initiating skills.
+[09/25] 16:18:32 = [Tilkal] Server shut down.
+[09/25] 16:17:45 = [Tilkal] Starting main loop.
+[09/25] 16:17:45 = [Tilkal] Starting thread.
+[09/25] 16:17:45 = [Tilkal] Loading text files.
+[09/25] 16:17:45 = [Tilkal] Initializing.
+[09/25] 16:17:45 = [Tilkal] Initiating skills.
+[09/25] 16:19:17 = [Tilkal] Server shut down.
+[09/25] 16:18:32 = [Tilkal] Starting main loop.
+[09/25] 16:18:32 = [Tilkal] Starting thread.
+[09/25] 16:18:32 = [Tilkal] Loading text files.
+[09/25] 16:18:32 = [Tilkal] Initializing.
+[09/25] 16:18:32 = [Tilkal] Initiating skills.
+[09/25] 16:20:28 = [Tilkal] Server shut down.
+[09/25] 16:19:17 = [Tilkal] Starting main loop.
+[09/25] 16:19:17 = [Tilkal] Starting thread.
+[09/25] 16:19:17 = [Tilkal] Loading text files.
+[09/25] 16:19:17 = [Tilkal] Initializing.
+[09/25] 16:19:17 = [Tilkal] Initiating skills.
+[09/25] 16:21:17 = [Tilkal] Server shut down.
+[09/25] 16:20:28 = [Tilkal] Starting main loop.
+[09/25] 16:20:28 = [Tilkal] Starting thread.
+[09/25] 16:20:28 = [Tilkal] Loading text files.
+[09/25] 16:20:28 = [Tilkal] Initializing.
+[09/25] 16:20:28 = [Tilkal] Initiating skills.
+[09/25] 16:22:11 = [Tilkal] Server shut down.
+[09/25] 16:21:18 = [Tilkal] Starting main loop.
+[09/25] 16:21:18 = [Tilkal] Starting thread.
+[09/25] 16:21:18 = [Tilkal] Loading text files.
+[09/25] 16:21:18 = [Tilkal] Initializing.
+[09/25] 16:21:18 = [Tilkal] Initiating skills.
+[09/25] 16:24:19 = [Tilkal] Server shut down.
+[09/25] 16:22:11 = [Tilkal] Starting main loop.
+[09/25] 16:22:11 = [Tilkal] Starting thread.
+[09/25] 16:22:11 = [Tilkal] Loading text files.
+[09/25] 16:22:11 = [Tilkal] Initializing.
+[09/25] 16:22:11 = [Tilkal] Initiating skills.
+[09/25] 16:25:06 = [Tilkal] Server shut down.
+[09/25] 16:24:20 = [Tilkal] Starting main loop.
+[09/25] 16:24:20 = [Tilkal] Starting thread.
+[09/25] 16:24:20 = [Tilkal] Loading text files.
+[09/25] 16:24:20 = [Tilkal] Initializing.
+[09/25] 16:24:20 = [Tilkal] Initiating skills.
+[09/25] 16:29:25 = [Tilkal] Server shut down.
+[09/25] 16:26:46 = [Tilkal] Starting main loop.
+[09/25] 16:26:46 = [Tilkal] Starting thread.
+[09/25] 16:26:46 = [Tilkal] Loading text files.
+[09/25] 16:26:46 = [Tilkal] Initializing.
+[09/25] 16:26:46 = [Tilkal] Initiating skills.
+[09/25] 16:31:03 = [Tilkal] Server shut down.
+[09/25] 16:29:26 = [Tilkal] Starting main loop.
+[09/25] 16:29:26 = [Tilkal] Starting thread.
+[09/25] 16:29:26 = [Tilkal] Loading text files.
+[09/25] 16:29:26 = [Tilkal] Initializing.
+[09/25] 16:29:26 = [Tilkal] Initiating skills.
+[09/25] 16:49:58 = [Tilkal] Server shut down.
+[09/25] 16:31:04 = [Tilkal] Starting main loop.
+[09/25] 16:31:04 = [Tilkal] Starting thread.
+[09/25] 16:31:04 = [Tilkal] Loading text files.
+[09/25] 16:31:04 = [Tilkal] Initializing.
+[09/25] 16:31:04 = [Tilkal] Initiating skills.
+[09/25] 16:51:23 = [Tilkal] Server shut down.
+[09/25] 16:49:59 = [Tilkal] Starting main loop.
+[09/25] 16:49:59 = [Tilkal] Starting thread.
+[09/25] 16:49:59 = [Tilkal] Loading text files.
+[09/25] 16:49:59 = [Tilkal] Initializing.
+[09/25] 16:49:59 = [Tilkal] Initiating skills.
+[09/25] 16:52:29 = [Tilkal] Server shut down.
+[09/25] 16:51:24 = [Tilkal] Starting main loop.
+[09/25] 16:51:24 = [Tilkal] Starting thread.
+[09/25] 16:51:24 = [Tilkal] Loading text files.
+[09/25] 16:51:24 = [Tilkal] Initializing.
+[09/25] 16:51:24 = [Tilkal] Initiating skills.
+[09/25] 16:53:03 = [Tilkal] Server shut down.
+[09/25] 16:52:30 = [Tilkal] Starting main loop.
+[09/25] 16:52:30 = [Tilkal] Starting thread.
+[09/25] 16:52:30 = [Tilkal] Loading text files.
+[09/25] 16:52:30 = [Tilkal] Initializing.
+[09/25] 16:52:30 = [Tilkal] Initiating skills.
+[09/25] 16:53:24 = [Tilkal] Server shut down.
+[09/25] 16:53:03 = [Tilkal] Starting main loop.
+[09/25] 16:53:03 = [Tilkal] Starting thread.
+[09/25] 16:53:03 = [Tilkal] Loading text files.
+[09/25] 16:53:03 = [Tilkal] Initializing.
+[09/25] 16:53:03 = [Tilkal] Initiating skills.
+[09/25] 16:54:01 = [Tilkal] Server shut down.
+[09/25] 16:53:26 = [Tilkal] Starting main loop.
+[09/25] 16:53:26 = [Tilkal] Starting thread.
+[09/25] 16:53:26 = [Tilkal] Loading text files.
+[09/25] 16:53:26 = [Tilkal] Initializing.
+[09/25] 16:53:26 = [Tilkal] Initiating skills.
+[09/25] 17:37:48 = [Tilkal] Server shut down.
+[09/25] 16:54:01 = [Tilkal] Starting main loop.
+[09/25] 16:54:01 = [Tilkal] Starting thread.
+[09/25] 16:54:01 = [Tilkal] Loading text files.
+[09/25] 16:54:01 = [Tilkal] Initializing.
+[09/25] 16:54:01 = [Tilkal] Initiating skills.
+[09/25] 18:03:03 = [Tilkal] Server shut down.
+[09/25] 17:58:49 = [Tilkal] Starting main loop.
+[09/25] 17:58:49 = [Tilkal] Starting thread.
+[09/25] 17:58:49 = [Tilkal] Loading text files.
+[09/25] 17:58:49 = [Tilkal] Initializing.
+[09/25] 17:58:49 = [Tilkal] Initiating skills.
+[09/25] 18:03:05 = [Tilkal] Server shut down.
+[09/25] 18:03:04 = [Tilkal] Starting main loop.
+[09/25] 18:03:04 = [Tilkal] Starting thread.
+[09/25] 18:03:04 = [Tilkal] Loading text files.
+[09/25] 18:03:04 = [Tilkal] Initializing.
+[09/25] 18:03:04 = [Tilkal] Initiating skills.
+[09/25] 18:04:52 = [Tilkal] Server shut down.
+[09/25] 18:03:11 = [Tilkal] Starting main loop.
+[09/25] 18:03:11 = [Tilkal] Starting thread.
+[09/25] 18:03:11 = [Tilkal] Loading text files.
+[09/25] 18:03:11 = [Tilkal] Initializing.
+[09/25] 18:03:11 = [Tilkal] Initiating skills.
+[09/25] 18:06:56 = [Tilkal] Server shut down.
+[09/25] 18:04:59 = [Tilkal] Starting main loop.
+[09/25] 18:04:59 = [Tilkal] Starting thread.
+[09/25] 18:04:59 = [Tilkal] Loading text files.
+[09/25] 18:04:59 = [Tilkal] Initializing.
+[09/25] 18:04:59 = [Tilkal] Initiating skills.
+[09/25] 18:09:38 = [Tilkal] Server shut down.
+[09/25] 18:07:02 = [Tilkal] Starting main loop.
+[09/25] 18:07:02 = [Tilkal] Starting thread.
+[09/25] 18:07:02 = [Tilkal] Loading text files.
+[09/25] 18:07:02 = [Tilkal] Initializing.
+[09/25] 18:07:02 = [Tilkal] Initiating skills.
+[09/25] 18:10:53 = [Tilkal] Server shut down.
+[09/25] 18:09:54 = [Tilkal] Starting main loop.
+[09/25] 18:09:54 = [Tilkal] Starting thread.
+[09/25] 18:09:54 = [Tilkal] Loading text files.
+[09/25] 18:09:54 = [Tilkal] Initializing.
+[09/25] 18:09:54 = [Tilkal] Initiating skills.
+[09/25] 18:11:54 = [Tilkal] Server shut down.
+[09/25] 18:10:58 = [Tilkal] Starting main loop.
+[09/25] 18:10:58 = [Tilkal] Starting thread.
+[09/25] 18:10:58 = [Tilkal] Loading text files.
+[09/25] 18:10:58 = [Tilkal] Initializing.
+[09/25] 18:10:58 = [Tilkal] Initiating skills.
+[09/25] 18:12:52 = [Tilkal] Server shut down.
+[09/25] 18:11:55 = [Tilkal] Starting main loop.
+[09/25] 18:11:55 = [Tilkal] Starting thread.
+[09/25] 18:11:55 = [Tilkal] Loading text files.
+[09/25] 18:11:55 = [Tilkal] Initializing.
+[09/25] 18:11:55 = [Tilkal] Initiating skills.
+[09/25] 18:24:40 = [Tilkal] Server shut down.
+[09/25] 18:12:54 = [Tilkal] Starting main loop.
+[09/25] 18:12:54 = [Tilkal] Starting thread.
+[09/25] 18:12:54 = [Tilkal] Loading text files.
+[09/25] 18:12:54 = [Tilkal] Initializing.
+[09/25] 18:12:54 = [Tilkal] Initiating skills.

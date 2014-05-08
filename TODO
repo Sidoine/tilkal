@@ -1,0 +1,34 @@
+'X' means already done
+'~' means in progress
+'-' means has to be done
+
+* Roadmap to 0.1.0:
+-------------------
+
+~ createur: donjons + monstres + objets aleatoires
+~ combat a distance + debug
+- magie simple
+- ai generale des bots
+- bot marchand
+X affichage feuille de perso complete
+- BACKSPACE bug with the Windows client (?)
+- take with
+X régler la commande 'edit'
+X régler la commande 'stats'
+- création de perso (races) correcte
+~ chargement/sauvegarde
+- verifier pourquoi on a 6 rooms et 2 bots crees au depart
+
+
+* To add later:
+---------------
+
+- Movement dedicated bodyparts (legs)
+- Comment the whole code
+- Clan system
+- Armor/clothes/jewels affectations to the object's caracs
+- Handle coins and currency
+- Tongues
+- Configuration variables for high level gods
+
+

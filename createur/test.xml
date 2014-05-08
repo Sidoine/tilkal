@@ -1,0 +1,37 @@
+<genese>
+
+<salle id="ville" titre="ville">
+<avecsalle quoi="porteville" position="entree" />
+<avecsalle quoi="place" />
+<avecsalle quoi="rue" />
+<avecporte quoi="rue" />
+<avecporte quoi="escrue" />
+</salle>
+
+<salle id="place" titre="place" genre="f">
+<borde par="auberge" />
+<borde par="temple" />
+<borde par="chateau" />
+</salle>
+
+<salle id="auberge" titre="auberge" genre="f">
+<avecsalle quoi="salleprincauberge" position="entree" />
+<avecsalle quoi="couloirauberge" />
+</salle>
+
+<salle id="salleprincauberge" titre="salle">
+<borde par="comptoir" />
+</salle>
+
+<salle id="comptoir" titre="comptoir" />
+
+<salle id="couloirauberge" titre="couloir" />
+
+<porte id="rue" titre="rue" genre="f">
+</porte>
+
+<porte id="escrue" titre="escaliers" genre="mp" pente="20-">
+</porte>
+
+<adjectif id="sale" richesse="0-10" m="sale" mp="sales" />
+</genese>

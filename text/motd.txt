@@ -1,0 +1,9 @@
+
+                             -------------------------
+
+This server is still in development state.
+In game, type 'rules' for some documentation, type 'help' for the list of commands.
+WARNING: Windows users might experience problems when using the Backspace key.
+
+                             -------------------------
+

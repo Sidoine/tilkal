@@ -1,0 +1,63 @@
+<html>
+	<head>
+		<title>Tilkal</title>
+		<link rel="stylesheet" type="text/css" href="style.css" />
+	</head>
+	<body id="body">
+		<table style="height:100%%;width:100%%" cellspacing="5" cellpadding="0">
+			<tr>
+				<td width="50%%" height="33%%">
+					<table id="troom">
+						<tr height="100%%">
+							<td><div id="room">&nbsp;</div>
+							</td>
+						</tr>
+						<tr>
+							<td><div id="exits">&nbsp;</div>
+							</td>
+						</tr>
+					</table>
+				</td>
+				<td width="25%%">
+					<div id="objects"><p>&nbsp;</p>
+					</div>
+				</td>
+				<td width="25%%">
+					<div id="gens"><p>&nbsp;</p>
+					</div>
+				</td>
+			</tr>
+			<tr>
+				<td height="67%%">
+					<div id="events"><p>&nbsp;</p>
+					</div>
+				</td>
+				<td>
+					<div id="inventaire"><p>&nbsp;</p>
+					</div>
+				</td>
+				<td>
+					<div id="perso"><p>&nbsp;</p>
+					</div>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="3">
+					<form target="z" action="c,%d" id="form" onsubmit="Action()">
+						<input name="t" type="hidden" id="t" />
+						<table style="width:100%%">
+							<tr>
+								<td width="100%%">
+									<input type="text" style="width:100%%" id="type" />
+								</td>
+								<td>
+									<input type="submit" value="OK" /></td>
+							</tr>
+						</table>
+					</form>
+				</td>
+			</tr>
+		</table>
+		<div id="menu"></div>
+		<script src="interface.js" language="javascript"></script>
+		<script>var myId=%d</script>

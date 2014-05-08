@@ -1,0 +1,13 @@
+get bread  -> the first object with 'bread' in its name
+get bread 2  -> second object
+get 2 bread  -> 2 first objects
+get 3 bread 2  -> 3 first breads starting from the second one
+get "a bread"  -> first object with 'a bread' in its name
+get !bread  -> the object's name must be exactly 'bread'
+get "!a bread"  -> the object's name must be axactly 'a bread'
+get all bread  -> all the objects with 'bread' in their name
+get all bread 2  -> all objects with 'bread' starting from the second one
+get all -bread  -> all but the objects with 'bread' in their name
+get bread in chest  -> first bread in object chest
+get bread in bag in chest  -> it is recursive
+get bread in chest into bag  -> bread in chest is put into bag

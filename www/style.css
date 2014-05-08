@@ -1,0 +1,91 @@
+p
+{
+	font-family:"Arial", Sans-Serif;
+	font-size:12pt;
+	margin:0pt;
+}
+
+/*td
+{
+	border:solid 1px black;
+}*/
+
+#menu
+{
+	width:32px;
+	height:32px;
+	display:none;
+	position:absolute;
+	z-index:10;
+}
+
+#room,#events,#objects,#gens,#perso,#inventaire
+{
+	overflow:auto;
+	border:solid 1px black;
+	width:100%;
+	height:100%;
+	margin:0;
+	padding:4pt;
+}
+h1
+{
+	font:"Arial",sans-serif;
+	font-size:14pt;
+}
+#troom
+{
+	width:100%;
+	height:100%;
+}
+#exits
+{
+	height:18pt;
+	border:solid 1px black;
+}
+p.error
+{
+	color:Red;
+}
+p.people
+{
+	color:Green;
+	margin-left:8pt;
+}
+p.object
+{
+	margin-left:8pt;	
+}
+p.evbouge
+{
+	color:Green;
+}
+p.dialogue
+{
+	color:Blue;
+}
+.godoor,.lookdoor
+{
+	position:relative;
+	display:block;
+	float:right;
+	width:32px;
+	height:32px;
+}
+.godoor
+{
+	background: url(go_door_off.png);
+}
+.godoor:hover
+{
+	background: url(go_door_on.png);
+}
+
+.lookdoor
+{
+	background: url(look_door_off.png);
+}
+.lookdoor:hover
+{
+	background: url(look_door_on.png);
+}
