@@ -10,22 +10,21 @@ namespace Tilkal
 	class CObjects:public CObjectsBase
 	{
 	public:
-		static void Remove(int s)
+		void Remove(int s)
 		{
 			t[s].Destroy();
 			CObjectsBase::Remove(s);
 		}
-		static int New();
-		static int New(const char *name);
-		static int New(const char *name, const char *desc);
-		static int New(const char *name, const char *desc, int inside);
-		static bool SaveAll(const char * filename);
-		static bool LoadAll(const char * filename);			
+		int New();
+		int New(const char *name);
+		int New(const char *name, const char *desc);
+		int New(const char *name, const char *desc, int inside);
+		bool SaveAll(const char * filename);
+		bool LoadAll(const char * filename);			
 	};
 }
 
 #ifdef _DEFINITIONS
-DEFINE_MYARRAY(Tilkal::CObject)
 Tilkal::CObjects Object;
 #else
 extern Tilkal::CObjects Object;

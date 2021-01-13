@@ -5,8 +5,6 @@ Debug
 distr.tar.gz
 distr
 ipch
-Tilkal.sdf
-*.suo
 makefile
 makefile.dbg
 makefile.rls

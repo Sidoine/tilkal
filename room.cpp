@@ -6,7 +6,7 @@
 using namespace Tilkal;
 using namespace TilTools;
 
-void CObject::send_text_to_room_from(char *text, int object)
+void CObject::send_text_to_room_from(const char *text, int object)
 {
 	int o = in_object;
 	while (o != NOTHING)
@@ -19,7 +19,7 @@ void CObject::send_text_to_room_from(char *text, int object)
 	}
 }
 
-void CObject::send_text_to_room(char *text)
+void CObject::send_text_to_room(const char *text)
 {
 	int o = in_object;
 	while (o != NOTHING)

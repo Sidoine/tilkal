@@ -32,12 +32,12 @@ namespace Tilkal
 
 		int Send(const char * c, size_t l);
 		void Fail(size_t Error, const char * msg=NULL);
-		bool Param_MultiPart(char * NomVariable,
+		bool Param_MultiPart(const char * NomVariable,
 						   char * contenu, size_t longueur, 
-						   char * NomFichier,
+						   const char * NomFichier,
 						   char * contentType);
-		bool Variable_Creer(char * Nom, char * Contenu, size_t Longueur, char * NomFichier,
-								 char * ContentType);
+		bool Variable_Creer(const char * Nom, const char * Contenu, size_t Longueur, const char * NomFichier,
+								 const char * ContentType);
 		bool Param_URL(char * Input);
 
 	public:	

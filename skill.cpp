@@ -17,7 +17,7 @@ float CSkill::Compute()
   o=owner;
   for (i=0;i<SkillProt[sk].nb_caracs;i++)
   {
-	val+=Object[o].carac[SkillProt[sk].carac[i].carac]*
+	val+=Object[o].caracs.i[SkillProt[sk].carac[i].carac]*
 			SkillProt[sk].carac[i].val;
 	nb+=SkillProt[sk].carac[i].val;
   }

@@ -1,6 +1,6 @@
 #ifndef _FORM_INC
 #define _FORM_INC
-#include "Tableau.h"
+#include "tableaux.h"
 
 class CFormVar
 {

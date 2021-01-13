@@ -12,7 +12,7 @@
 using namespace Tilkal;
 using namespace TilTools;
 
-void CObject::create_standard_bot(char *_name, int _type)
+void CObject::create_standard_bot(const char *_name, int _type)
 {
 	create_standard(0);//human
 	type=ObjType::Bot;
@@ -28,7 +28,7 @@ void CObject::Init()
 	player=NOTHING;
 	
 	for (int i=0;i<MAX_CARACS;i++)
-		carac[i]=0;
+		caracs.i[i]=0;
 
 	race=0;
 	door=NOTHING;
@@ -67,7 +67,7 @@ void CObject::create_standard(int _categ)
 	}
 	compute_tot_size();
 	for (i=0;i<MAX_CARACS;i++)
-	  carac[i]=20.0f+rand()*30.0f/RAND_MAX; // %
+	  caracs.i[i]=20.0f+rand()*30.0f/RAND_MAX; // %
 	type=ObjType::Obj;
 }
 
@@ -137,7 +137,7 @@ void CObject::Destroy()
 	Id=NOTHING;
 }
 
-void CObject::Listen(char *text, int from)
+void CObject::Listen(const char *text, int from)
 {
 	assert(from!=NOTHING);
 	if (type==ObjType::Human && play().client!=NOTHING &&
@@ -149,7 +149,7 @@ void CObject::Listen(char *text, int from)
 		(this->*AI[subtype].Listen)(text);
 }
 
-void CObject::ListenYourself(char *text)
+void CObject::ListenYourself(const char *text)
 {
 	if (type==ObjType::Human && play().client!=NOTHING &&
 		Client[play().client].state==STATE_PLAY)
@@ -158,7 +158,7 @@ void CObject::ListenYourself(char *text)
 	}
 }
 
-void CObject::send_text(char *text)
+void CObject::send_text(const char *text)
 {
 	if (type==ObjType::Human && play().client!=NOTHING &&
 		Client[play().client].state==STATE_PLAY)
@@ -178,7 +178,7 @@ void CObject::send_prompt()
 	}
 }
 
-void CObject::say(char *text)
+void CObject::say(const char *text)
 {
 	if (container==NOTHING)
 		return;
@@ -249,7 +249,7 @@ int CObject::can_wear_object(int o)
 	if (co==NOTHING)
 		return 0;
 
-/*	clog <<"C de l'object à mettre : "<<co <<'('<< ObjCateg[co].name <<") qui couvre "
+/*	clog <<"C de l'object ï¿½ mettre : "<<co <<'('<< ObjCateg[co].name <<") qui couvre "
 			 << ObjCateg[co].ncoveredparts <<" parties"<<endl; */
 	bool clothes=ObjCateg[co].clothes;
 	for (int i=0; i<ObjCateg[co].ncoveredparts; i++)
@@ -260,10 +260,10 @@ int CObject::can_wear_object(int o)
 		for (j=0; j<ObjCateg[cc].nbodyparts; j++)
 		{
 			if (ObjCateg[cc].bodypart[j].type==bpt && 
-					((where & bj)==0))//Pas déjà utilisé par ce même objet
+					((where & bj)==0))//Pas dï¿½jï¿½ utilisï¿½ par ce mï¿½me objet
 			{
-				//On vérifie qu'il n'y a pas déjà quelque
-				//chose à cet endroit
+				//On vï¿½rifie qu'il n'y a pas dï¿½jï¿½ quelque
+				//chose ï¿½ cet endroit
 				int f=in_object;
 				if (clothes)
 				{
@@ -330,7 +330,7 @@ bool CObject::add_quantity(int nb)
 
 bool CObject::add_to_obj(int c, int who, int number, bool hold)
 {
-	//On vérifie qu'on s'ajoute pas dans soi-même
+	//On vï¿½rifie qu'on s'ajoute pas dans soi-mï¿½me
 	int p=c;
 	do
 	{
@@ -413,7 +413,7 @@ bool CObject::AddToObj2(int c, int who, int number, bool hold)
 		}
 		else
 		{
-//			clog <<"ne peut vêtir l'objet\n";
+//			clog <<"ne peut vï¿½tir l'objet\n";
 			//Can we contain it (not too heavy, not too big)?
 			if ((_weight<= Object[c].max_containweight-Object[c].weight)
 				&&(max_containweight<=Object[c].max_containweight))
@@ -509,7 +509,7 @@ void CObject::AddToObjEx(int c, bool _held, int _where, bool _clothes, int who)
 		Object[f].weight+=weight;
 		if (Object[f].type==ObjType::Human)
 			dansqui=f;
-		//On envoie l'info à tout le monde
+		//On envoie l'info ï¿½ tout le monde
 		if (Object[f].container==NOTHING)
 		{
 			for (int o=Object[f].in_object; o!=NOTHING; o=Object[o].next_o)
@@ -549,7 +549,7 @@ void CObject::remove_from_obj()
   while (f!=NOTHING)
   {
     Object[f].weight-=weight;
-		//On envoie l'info à tout le monde
+		//On envoie l'info ï¿½ tout le monde
 		if (Object[f].container==NOTHING)
 		{
 			for (int o=Object[f].in_object; o!=NOTHING; o=Object[o].next_o)
@@ -663,42 +663,42 @@ void CObject::give_standard_skills()
 
 void CObject::NewEvent(ETypeEvent typ, int64 t)
 {
-	CEvents::New(typ,UID,t);
+	::Event.New(typ,UID,t);
 }
 
 void CObject::NewEvent(ETypeEvent typ, int64 t, int action)
 {
-	CEvents::New(typ,UID,t,action);
+	::Event.New(typ,UID,t,action);
 }
 
 void CObject::NewEvent(ETypeEvent typ, int64 t, int action, int64 data1)
 {
-	CEvents::New(typ,UID,t,action,data1);
+	::Event.New(typ,UID,t,action,data1);
 }
 
 void CObject::NewEvent(ETypeEvent typ, int64 t, int action, int64 data1, int64 data2)
 {
-	CEvents::New(typ,UID,t,action,data1,data2);
+	::Event.New(typ,UID,t,action,data1,data2);
 }
 
 void CObject::NewEventRelat(ETypeEvent typ, int64 t)
 {
-	CEvents::New(typ,UID,Server::t+t);
+	::Event.New(typ,UID,Server::t+t);
 }
 
 void CObject::NewEventRelat(ETypeEvent typ, int64 t, int action)
 {
-	CEvents::New(typ,UID,Server::t+t,action);
+	::Event.New(typ,UID,Server::t+t,action);
 }
 
 void CObject::NewEventRelat(ETypeEvent typ, int64 t, int action, int64 data1)
 {
-	CEvents::New(typ,UID,Server::t+t,action,data1);
+	::Event.New(typ,UID,Server::t+t,action,data1);
 }
 
 void CObject::NewEventRelat(ETypeEvent typ, int64 t, int action, int64 data1, int64 data2)
 {
-	CEvents::New(typ,UID,Server::t+t,action,data1,data2);
+	::Event.New(typ,UID,Server::t+t,action,data1,data2);
 }
 
 void CObject::NewAction(int64 dur, int action, int64 data1, int64 data2)
@@ -707,7 +707,7 @@ void CObject::NewAction(int64 dur, int action, int64 data1, int64 data2)
 		act_time=Server::t+dur;
 	else
 		act_time+=dur;
-	CEvents::New(EV_OBJECT,UID,act_time,action,data1,data2);
+	::Event.New(EV_OBJECT,UID,act_time,action,data1,data2);
 }
 
 void CObject::NewAction(int64 dur, int action, int64 data1)
@@ -932,7 +932,7 @@ bool CObject::Attack(int e)
 				return false;
 			}
 			dam=Object[weap].Compute_Weapon_Damage(i);
-			dam*=c.strength/10;
+			dam*=caracs.c.strength/10;
 			dam-=Object[e].Compute_Bodypart_Protection(memb_def) + Object[e].bodypart[memb_def].resist/10;
 			if (dam<0) /* The bodypart resisted completely. */
 			{
@@ -973,7 +973,7 @@ bool CObject::Attack(int e)
 	    return false;
 	  }
 
-	  dam=(bodypart[memb_att].dam[0]+randfloat(bodypart[memb_att].dam[1])) * c.strength / 10;
+	  dam=(bodypart[memb_att].dam[0]+randfloat(bodypart[memb_att].dam[1])) * caracs.c.strength / 10;
 	  dam-=Object[e].Compute_Bodypart_Protection(memb_def) + Object[e].bodypart[memb_def].resist/10;
 	  if (dam<0) /* The bodypart resisted completely. */
 	  {
@@ -1010,7 +1010,7 @@ void CObject::Event(int action, int64 data1, int64 data2)
 			}
 			if (!Attack(w)) /* Shall continue. */
 			{
-				int atime=(int)max(100,(101-c.dext)*30+400)+randnum(max(1,101-c.dext));
+				int atime=(int)max(100,(101-caracs.c.dext)*30+400)+randnum(max(1,101-caracs.c.dext));
 				NewAction(atime,AC_ATTACK,data1);
 				if (Object[w].type==ObjType::Bot)
 				  (&Object[w]->*AI[Object[w].subtype].React)(RE_ATTACKED,UID,0);

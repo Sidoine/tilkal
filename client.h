@@ -114,20 +114,20 @@ namespace Tilkal
 		}
 	};
 
+	struct SDefCommande;
+	class CObject;
+	class CPlayer;
+
 	class CClient:public CMyArrayMember
 	{
 	public:
-		friend struct SDefCommande;
-		friend class CObject;
-		friend class CPlayer;
-
 		int httpid;
 		SOCKET Socket;
 		char Tampon[512]; //Tampon des commandes
  		int lTampon; //Taille du tampon
 		int player;
 		char *name;
-		char last_cmd[512]; //Dernière commande reçue
+		char last_cmd[512]; //Derniï¿½re commande reï¿½ue
 		char ip[20];
 		EClientState state;
 		union

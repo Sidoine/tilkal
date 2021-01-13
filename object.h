@@ -34,6 +34,16 @@ struct SBodyPart
 	}
 };
 
+class CPlayer;
+class CClient;
+
+union Caracs 
+{
+	struct SCaracs {
+		float strength,wisdom,dext,constit,charisma,courage,sight,hear,touch,taste,smell;
+	} c;
+	float i[MAX_CARACS];
+};
 
 class CObject:public CMyArrayMember
 {
@@ -48,12 +58,7 @@ public:
 	int alt,inside;
 	short int race;
 	float weight,max_weight,max_containweight;
-	union {
-		struct SCaracs {
-			float strength,wisdom,dext,constit,charisma,courage,sight,hear,touch,taste,smell;
-		} c;
-		float carac[MAX_CARACS];
-	};
+	Caracs caracs;
 	SBodyPart bodypart[MAX_BODYPARTS];
 	float tot_size;
 	int skill;
@@ -84,10 +89,10 @@ public:
 	float compute_max_health();
 	void create_standard(int categ);
 	int duplicate();
-	void create_standard_bot(char *name, int type);
-	void send_text(char *text);
-	void Listen(char *text, int from);
-	void ListenYourself(char *text);
+	void create_standard_bot(const char *name, int type);
+	void send_text(const char *text);
+	void Listen(const char *text, int from);
+	void ListenYourself(const char *text);
 	void send_prompt();
 	int obj_is_in_obj(char *name);
 	void use_door(int d);
@@ -112,7 +117,7 @@ public:
 	void NewSkill(int type, int val);
 	void AddSkill(int s);
 	void give_standard_skills();
-	void say(char *text);
+	void say(const char *text);
 	void listen_bot_ai(char *text);
 	void Init();
 	void NewEvent(ETypeEvent typ, int64 t);
@@ -138,17 +143,15 @@ public:
 	void Die();
 
 	/* Room stuff */
-	void send_text_to_room_from(char *text, int object);
-	void send_text_to_room(char *text);
+	void send_text_to_room_from(const char *text, int object);
+	void send_text_to_room(const char *text);
 	int is_an_exit(char *cmd);
 	int is_an_obj_in_room(char *name);
 	void create_room(const char *_name, const char *_desc);
 	void Destroy();
 
 
-	friend class CPlayer;
 	inline CPlayer & play();
-	friend class CClient;
 	inline CClient & client();
 };
 

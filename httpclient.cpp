@@ -62,7 +62,7 @@ namespace HTTPOutils
 	}
 
 	//Extrait la prochaine option du meta
-	void ExtraitOptionMeta(char * &Meta, char * &OptionType , char * &Option)
+	void ExtraitOptionMeta(char * &Meta, char * &OptionType , const char * &Option)
 	{
 		while (*Meta==' ')
 			Meta++;
@@ -94,7 +94,7 @@ namespace HTTPOutils
 			*(Meta++)=0;
 	}
 
-	//Extrait un méta du contenu
+	//Extrait un mï¿½ta du contenu
 	void ExtraitMeta(char * & contenu, char * & metaNom, char * & metaVal)
 	{
 		metaNom=contenu;
@@ -106,7 +106,7 @@ namespace HTTPOutils
 		//On les trouve => suivi par la valeur
 		if (*contenu==':')
 		{
-			*(contenu++)=0;//On termine le nom du méta
+			*(contenu++)=0;//On termine le nom du mï¿½ta
 
 			//On saute les espaces
 			while (*contenu==' ')
@@ -122,7 +122,7 @@ namespace HTTPOutils
 		CouperL(contenu);
 	}
 
-	char * cherche(char *a, char *b, size_t l)
+	char * cherche(char *a, const char *b, size_t l)
 	{
 		int i;
 		while (l)
@@ -195,8 +195,8 @@ bool HTTPClient::Do()
 		}
 	}
 	while (!strstr(inbuffer,"\r\n\r\n"));
-	//On a besoin d'au moins récupérer l'entête complet
-	//(qui se termine par deux retours à la ligne)
+	//On a besoin d'au moins rï¿½cupï¿½rer l'entï¿½te complet
+	//(qui se termine par deux retours ï¿½ la ligne)
 	
 	char * pos=inbuffer;
 	char * Methode=pos;
@@ -259,11 +259,11 @@ bool HTTPClient::Do()
 
 	int id=atoi(_id);
 		
-	//On limite le nom de fichier à 31 caractères
+	//On limite le nom de fichier ï¿½ 31 caractï¿½res
 	char filename[32];
 	strncpy(filename,file,31);
 	
-	//Maintenant on regarde les lignes d'après
+	//Maintenant on regarde les lignes d'aprï¿½s
 	while (*pos!='\n')
 		pos++;
 	
@@ -327,12 +327,12 @@ bool HTTPClient::Do()
 	{
 		if (!Champ.Existe("nom")||!Champ.Existe("mdp"))
 		{
-			Fail(402,"Paramètres manquants");
+			Fail(402,"Paramï¿½tres manquants");
 			return false; 
 		}
 		int id=rand();
 		if (id==0)
-			id=1;//Parce qu'on considère qu'un id=0 signifie qu'on n'en a pas
+			id=1;//Parce qu'on considï¿½re qu'un id=0 signifie qu'on n'en a pas
 		sprintf(outbuffer,
 			"HTTP/1.1 200 OK\r\n"
 			"Content-Type: text/html\r\nCache-Control: no-cache\r\n\r\n"
@@ -347,14 +347,14 @@ bool HTTPClient::Do()
 	{
 		if (!Champ.Existe("nom")||!Champ.Existe("mdp"))
 		{
-			Fail(402,"Paramètres manquants");
+			Fail(402,"Paramï¿½tres manquants");
 			return false; 
 		}
 		char * nom=Champ["nom"]->Texte;
 		char * mdp=Champ["mdp"]->Texte;
 		if (!nom || !mdp)
 		{
-			Fail(402,"Paramètres manquants");
+			Fail(402,"Paramï¿½tres manquants");
 			return false; 
 		}
 		if (Player.Find(nom)==NOTHING)
@@ -375,14 +375,14 @@ bool HTTPClient::Do()
 			Send(outbuffer,(int)strlen(outbuffer));
 		}
 		else
-			Fail(402,"Ce nom est déjà utilisé");
+			Fail(402,"Ce nom est dï¿½jï¿½ utilisï¿½");
 	}
 	else 
 	if (strcmp(filename,"b")==0)
 	{
 		if (!Champ.Existe("nom")||!Champ.Existe("mdp"))
 		{
-			Fail(402,"Paramètres manquants");
+			Fail(402,"Paramï¿½tres manquants");
 			return false; 
 		}
 
@@ -390,7 +390,7 @@ bool HTTPClient::Do()
 		
 		if (u==NOTHING)
 		{
-			Fail(401,"Impossible de créer le client");
+			Fail(401,"Impossible de crï¿½er le client");
 			return false;
 		}
 		strcpy(outbuffer,"HTTP/1.1 200 OK\r\n"
@@ -408,10 +408,10 @@ bool HTTPClient::Do()
 		socklen_t client_len;
 		getpeername(sock,(struct sockaddr *)&client,(socklen_t *)&client_len);
 
-		if (!Client.IsActive(id) || strcmp(inet_ntoa(client.sin_addr),Client[id].ip))
+		if (!Client.IsActive(id))// || strcmp(inet_ntoa(client.sin_addr),Client[id].ip))
 		{
 			//TODO: enlever
-			puts("Accès interdit :");
+			puts("AccÃ¨s interdit :");
 			puts(inet_ntoa(client.sin_addr));
 			if (Client.Length > id)
 				puts(Client[id].ip);
@@ -466,9 +466,9 @@ bool HTTPClient::Do()
 
 
 
-bool HTTPClient::Param_MultiPart(char * NomVariable,
+bool HTTPClient::Param_MultiPart(const char * NomVariable,
 						   char * contenu, size_t longueur, 
-						   char * NomFichier,
+						   const char * NomFichier,
 						   char * contentType)
 {
 	char * suite;
@@ -486,27 +486,28 @@ bool HTTPClient::Param_MultiPart(char * NomVariable,
 	#endif
 		Variable_Creer(NomVariable,contenu,longueur,NomFichier,contentType);
 	#ifdef DEBUG_PARAM
-		HTML_Erreur("NOT Variable créée");
+		HTML_Erreur("NOT Variable crï¿½ï¿½e");
 	#endif
 		return true;
 	}
 
 	Temp=ExtraitValeurMeta(contentType);
 	if (!*Temp)
-		return false;//Méta mal formé
+		return false;//Mï¿½ta mal formï¿½
 
     if (strcmp(Temp,"multipart/form-data")&&
 		strcmp(Temp,"multipart/mixed"))
 	{
-		//Type non-supporté
+		//Type non-supportï¿½
 		return false;
 	}
 
-	char* boundary=NULL;
+	const char* boundary=NULL;
 	while (*contentType)
 	{
-		char * Option,*OptionVal;
-        ExtraitOptionMeta(contentType,Option,OptionVal);
+		char *Option;
+		const char *OptionVal;
+		ExtraitOptionMeta(contentType,Option,OptionVal);
 		if (strcmp(Option,"boundary")==0)
 			boundary=OptionVal;
 	}
@@ -516,7 +517,7 @@ bool HTTPClient::Param_MultiPart(char * NomVariable,
 	HTML_Message("NOT Multipart:");
 #endif
 	if (!boundary || !*boundary)
-		return false;//HTML_Erreur("Le délimiteur des données du formulaire n'est pas défini.");
+		return false;//HTML_Erreur("Le dï¿½limiteur des donnï¿½es du formulaire n'est pas dï¿½fini.");
 
 #ifdef DEBUG_PARAM
 	HTML_Message("NOT Boudary :");
@@ -530,9 +531,9 @@ bool HTTPClient::Param_MultiPart(char * NomVariable,
 		NomFichier=NULL;
 
 		Depart=contenu;
-		//On saute le boundary précédé de deux -
+		//On saute le boundary prï¿½cï¿½dï¿½ de deux -
 		contenu+=2+strlen(boundary);
-		//Si le boundary est suivi d'un tiret on met fin à la boucle
+		//Si le boundary est suivi d'un tiret on met fin ï¿½ la boucle
 		if (*contenu=='-')
 			break;
 		SauterL(contenu);
@@ -558,17 +559,18 @@ bool HTTPClient::Param_MultiPart(char * NomVariable,
 				{
 					contentType=metaVal;
 #ifdef DEBUG_PARAM
-					HTML_Message("NOT Content-type défini");
+					HTML_Message("NOT Content-type dï¿½fini");
 #endif
 				}
 				else if (strcmp(metaNom,"content-disposition")==0)
 				{
 #ifdef DEBUG_PARAM
-					HTML_Message("NOT Content-disposition défini");
+					HTML_Message("NOT Content-disposition dï¿½fini");
 #endif
 					while (*metaVal)
 					{
-						char * Option,*OptionVal;
+						char *Option;
+						const char *OptionVal;
 						ExtraitOptionMeta(metaVal,Option,OptionVal);
 						if (strcmp(Option,"name")==0)
 							NomVariable=OptionVal;
@@ -577,7 +579,7 @@ bool HTTPClient::Param_MultiPart(char * NomVariable,
 					}
 				}
 #ifdef DEBUG_PARAM
-				HTML_Message("NOT -- Analyse du méta terminée");
+				HTML_Message("NOT -- Analyse du mï¿½ta terminï¿½e");
 #endif
 			}
 		}
@@ -592,8 +594,8 @@ bool HTTPClient::Param_MultiPart(char * NomVariable,
 	return true;
 }
 
-bool HTTPClient::Variable_Creer(char * Nom, char * Contenu, size_t Longueur, char * _NomFichier,
-								 char * _ContentType)
+bool HTTPClient::Variable_Creer(const char * Nom, const char * Contenu, size_t Longueur, const char * _NomFichier,
+								const char * _ContentType)
 {
 	if (Nom==NULL)
 		Nom="";
@@ -659,7 +661,7 @@ inline void PlusesToSpaces(char *Str)
 }
 
 inline int HexVal(char c)
-// Renvoie la valeur d'un caractère correspondant à un chiffre hexadécimal
+// Renvoie la valeur d'un caractï¿½re correspondant ï¿½ un chiffre hexadï¿½cimal
 {
 	if ((c>='0') && (c<='9')) return (c-'0');
 	if ((c>='a') && (c<='f')) return (c-'a'+10);
@@ -668,7 +670,7 @@ inline int HexVal(char c)
 }
 
 inline void TranslateEscapes(char *Str)
-// Convertis les %XX en caractères dont le XX est la valeur ASCII
+// Convertis les %XX en caractï¿½res dont le XX est la valeur ASCII
 {
 	char *NextEscape;
 	int AsciiValue;
@@ -684,9 +686,9 @@ inline void TranslateEscapes(char *Str)
 }
 
 bool HTTPClient::Param_URL(char * Input)
-//Décodage des paramètres codés URL
+//Dï¿½codage des paramï¿½tres codï¿½s URL
 {
-	// les variables sont séparées par le caractére "&" 
+	// les variables sont sï¿½parï¿½es par le caractï¿½re "&" 
 
 	char *pToken;
 	char *NomVar,*ValVar;
@@ -724,10 +726,10 @@ bool HTTPClient::Param_URL(char * Input)
 }
 /*
 void HTTPClient::Init()
-//Lecture des paramètres
+//Lecture des paramï¿½tres
 {
 #ifdef DEBUG_PARAM
-	HTML_Erreur("NOT Lecture des paramètres :");
+	HTML_Erreur("NOT Lecture des paramï¿½tres :");
 #endif
 	char *contentType=NULL;
 	size_t argLength;
@@ -737,12 +739,12 @@ void HTTPClient::Init()
 
 	if (requestMethod && stricmp(requestMethod,"POST")==0)
 	{
-		// Méthode POST
-		//On lit les données envoyées dans l'en-tête
+		// Mï¿½thode POST
+		//On lit les donnï¿½es envoyï¿½es dans l'en-tï¿½te
 		argLength=atoi(getenv("CONTENT_LENGTH"));
 
 	#ifdef DEBUG_PARAM
-		HTML_Erreur("NOT Longueur des données");
+		HTML_Erreur("NOT Longueur des donnï¿½es");
 	#endif
 		
 		if (argLength == 0)
@@ -757,7 +759,7 @@ void HTTPClient::Init()
 	}
 	else
 	{
-		// Méthode GET
+		// Mï¿½thode GET
 		char * tp=getenv("QUERY_STRING");
 		if (tp==NULL)
 		{
@@ -773,7 +775,7 @@ void HTTPClient::Init()
 	}
     
 #ifdef DEBUG_PARAM
-	HTML_Erreur("NOT Données lues");
+	HTML_Erreur("NOT Donnï¿½es lues");
 #endif
 
 	contentType=getenv("CONTENT_TYPE");
@@ -781,7 +783,7 @@ void HTTPClient::Init()
 	if (!contentType ||*contentType==0)
 	{
 #ifdef DEBUG_PARAM
-		HTML_Erreur("NOT Content-type indéfini");
+		HTML_Erreur("NOT Content-type indï¿½fini");
 #endif
 	}
 	else
@@ -798,7 +800,7 @@ void HTTPClient::Init()
 		Param_MultiPart("",Input,argLength,"",contentType);
 
 #ifdef DEBUG_PARAM
-	HTML_Erreur("NOT Opération terminée");
+	HTML_Erreur("NOT Opï¿½ration terminï¿½e");
 #endif
 	free(Input);
 }*/

@@ -10,12 +10,11 @@ namespace Tilkal
 	class CDoors:public CDoorsBase
 	{
 	public:
-		static int New(const char *name1,const char*name2);
+		int New(const char *name1,const char*name2);
 	};
 }
 
 #ifdef _DEFINITIONS
-DEFINE_MYARRAY(Tilkal::CDoor)
 Tilkal::CDoors Door;
 #else
 extern Tilkal::CDoors Door;

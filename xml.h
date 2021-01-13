@@ -13,7 +13,7 @@ class CXML;
 class CObjet
 {
 public:
-	char * Balise;
+	const char * Balise;
 	char ** Clef;
 	char ** Valeur;
 	int nClefs,aClefs;
@@ -29,12 +29,12 @@ public:
 	void Attacher(CObjet * _Pere);
 	CObjet(CObjet * _Pere,CXML* XML);
 	
-	virtual void Ajouter(char * _Clef, int lClef, char * _Valeur, int lValeur);
+	virtual void Ajouter(const char * _Clef, int lClef, const char * _Valeur, int lValeur);
 	void AfficherStruct(int Espaces);
 	bool LireBalise(char * &Mem);
 	bool LireContenu(char * &Mem);
-	CObjet * ChercherFils(char * NomBalise,CObjet * Premier);
-	int NombreFils(char * NomBalise);
+	CObjet * ChercherFils(const char * NomBalise,CObjet * Premier);
+	int NombreFils(const char * NomBalise);
 	virtual bool Recreer();
 
 	virtual ~CObjet();
@@ -76,13 +76,13 @@ public:
 
 	TTableau<CIdPtr> IdPtr;
 
-	CObjet * LireFichier(char * Fichier);
+	CObjet * LireFichier(const char * Fichier);
 	CObjet * LireMemoire(char * Mem);
 	
-	int ChercherId(char * Nom, int l);
-	int AjouterId(char * Nom, int l, CObjet * o);
+	int ChercherId(const char * Nom, int l);
+	int AjouterId(const char * Nom, int l, CObjet * o);
 	
-	virtual CObjet * CreerBalise(char * Nom, CObjet * Pere);
+	virtual CObjet * CreerBalise(const char * Nom, CObjet * Pere);
 
 	CXML()
 	{
@@ -90,11 +90,11 @@ public:
 	}
 };
 
-//Compare deux chaînes a de longueur al avec b (zéro terminal)
+//Compare deux chaï¿½nes a de longueur al avec b (zï¿½ro terminal)
 #define EGALES(a,al,b) ((strncmp(a,b,al)==0)&&(b[al]==0))
 #define EGALES2(a,al,b) ((sizeof(b)-1==al) && (memcmp(a,b,al)==0))
 
-inline bool ValeurABool(char * Valeur, size_t lValeur)
+inline bool ValeurABool(const char * Valeur, size_t lValeur)
 {
 	if (EGALES2(Valeur,lValeur,"true"))
 		return true;

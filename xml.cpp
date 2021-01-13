@@ -6,7 +6,7 @@
 
 using namespace TilXML;
 
-CObjet * CXML::LireFichier(char * NomFichier)
+CObjet * CXML::LireFichier(const char * NomFichier)
 {
 	FILE * F=fopen(NomFichier,"rb");
 	if (!F)
@@ -50,7 +50,7 @@ CObjet * CXML::LireMemoire(char * Mem)
 
 	if (*Mem=='<')
 	{
-		char * NomBalise=Mem;
+		const char * NomBalise=Mem;
 		int lBalise=0;
 		while (ALPHANUM(*Mem))
 		{
@@ -78,7 +78,7 @@ CObjet * CXML::LireMemoire(char * Mem)
 	return NULL;
 }
 
-int CXML::ChercherId(char * Nom, int l)
+int CXML::ChercherId(const char * Nom, int l)
 {
 	CIdPtr *p=IdPtr.t;
 	int s=0;
@@ -94,7 +94,7 @@ int CXML::ChercherId(char * Nom, int l)
 	return s;
 }
 
-int CXML::AjouterId(char * Nom, int l, CObjet * o)
+int CXML::AjouterId(const char * Nom, int l, CObjet * o)
 {
 	int i=ChercherId(Nom,l);
 	if (i==(int)IdPtr.l)
@@ -128,8 +128,8 @@ void CObjet::AfficherStruct(int Espaces)
 struct SElement
 {
 	char Nom[16];
-	char Valeur;
-} Element[]={{"agrave",'à'},{"amp",'&'},{"eacute",'é'},{"egrave",'è'},{"gt",'>'},{"lt",'<'},{"quot",'"'}};
+	char Valeur[16];
+} Element[]={{"agrave","Ã "},{"amp","&"},{"eacute","Ã©"},{"egrave","Ã¨"},{"gt",">"},{"lt","<"},{"quot","\""}};
 
 int TilXML::EtendreElements(char * v, int l)
 {
@@ -153,19 +153,22 @@ int TilXML::EtendreElements(char * v, int l)
 			Nom[i]=0;
 			if ((l==0)||(i==15))
 			{
-				fprintf(stderr,"Avertissement : l'entité %s doit se terminer par un point-virgule.",Nom);
+				fprintf(stderr,"Avertissement : l'entitÃ© %s doit se terminer par un point-virgule.",Nom);
 				return a;
 			}
 
 			SElement * s=(SElement*)bsearch(Nom,Element,sizeof(Element)/sizeof(SElement),sizeof(SElement),(int (*)(const void *, const void *))strcmp);
 			if (s)
 			{
-				*(dest++)=s->Valeur;
+				const char *src = s->Valeur;
+				while (*src) {
+					*(dest++) = *(src++);
+				}
 				a++;
 			}
 			else
 			{
-				fprintf(stderr,"Avertissement : l'entité %s n'est pas connue.",Nom);
+				fprintf(stderr,"Avertissement : l'entitÃ© %s n'est pas connue.",Nom);
 				*(dest++)='?';
 				a++;
 			}
@@ -206,7 +209,7 @@ bool CObjet::LireBalise(char * &Mem)
 
 		if (!ALPHANUM(*Mem))
 		{
-			printf("Caractère %c erroné dans la balise %s\n",*Mem,Balise);
+			printf("CaractÃ¨re %c erronÃ© dans la balise %s\n",*Mem,Balise);
 			return false;
 		}
 
@@ -319,7 +322,7 @@ bool CObjet::LireContenu(char * &Mem)
 				else
 				{
 					*Mem=0;
-					printf("ERREUR : Une balise %s est terminée par une balise %s !\n",
+					printf("ERREUR : Une balise %s est terminï¿½e par une balise %s !\n",
 						Balise,NomBalise);
 					return false;
 				}
@@ -416,7 +419,7 @@ CObjet::~CObjet()
 	Detacher();
 }
 
-void CObjet::Ajouter(char * _Clef, int lClef, char * _Valeur, int lValeur)
+void CObjet::Ajouter(const char * _Clef, int lClef, const char * _Valeur, int lValeur)
 {
 	if (EGALES2(_Clef,lClef,"id"))
 	{
@@ -439,7 +442,7 @@ void CObjet::Ajouter(char * _Clef, int lClef, char * _Valeur, int lValeur)
 	nClefs++;
 }
 
-CObjet * CObjet::ChercherFils(char * NomBalise,CObjet * Premier)
+CObjet * CObjet::ChercherFils(const char * NomBalise,CObjet * Premier)
 {
 	if (Premier==NULL)
 		Premier=Fils;
@@ -454,7 +457,7 @@ CObjet * CObjet::ChercherFils(char * NomBalise,CObjet * Premier)
 	return NULL;
 }
 
-int CObjet::NombreFils(char * NomBalise)
+int CObjet::NombreFils(const char * NomBalise)
 {
 	int ret=0;
 	CObjet * f=Fils;
@@ -518,7 +521,7 @@ bool CXIInclude::Recreer()
 	return true;
 }
 
-CObjet * CXML::CreerBalise(char * Nom, CObjet * Pere)
+CObjet * CXML::CreerBalise(const char * Nom, CObjet * Pere)
 {
 	if (strcmp(Nom,"xi:include")==0)
 		return new CXIInclude(Pere,this);

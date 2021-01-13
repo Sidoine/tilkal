@@ -10,10 +10,10 @@ namespace Tilkal
 	class CBans:public CBansBase
 	{
 	public:
-		static bool SaveAll(const char * filename);
-		static bool LoadAll(const char * filename);		
-		static int Find(const char *ip);
-		static int New(const char *ip)
+		bool SaveAll(const char * filename);
+		bool LoadAll(const char * filename);		
+		int Find(const char *ip);
+		int New(const char *ip)
 		{
 			int ret=CBansBase::New();
 			strcpy(t[ret].IP,ip);
@@ -23,7 +23,6 @@ namespace Tilkal
 }
 
 #ifdef _DEFINITIONS
-DEFINE_MYARRAY(Tilkal::CBan)
 Tilkal::CBans Ban;
 #else
 extern Tilkal::CBans Ban;

@@ -10,7 +10,7 @@ namespace Tilkal
 	class CPlayers:public CPlayersBase
 	{
 	public:
-		static int New();
+		int New();
 		bool LoadAll(const char * filename);
 		void remove_all();
 		int Find(const char *name);
@@ -18,7 +18,6 @@ namespace Tilkal
 }
 
 #ifdef _DEFINITIONS
-DEFINE_MYARRAY(Tilkal::CPlayer)
 Tilkal::CPlayers Player;
 #else
 extern Tilkal::CPlayers Player;

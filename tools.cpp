@@ -50,7 +50,7 @@ void TilTools::make_bar_from_values(char *bar, float val, float max_val, int nb_
   nm[0]='A'+(nm[0]-'a'); 
 }*/
 
-void TilTools::load_file_text(char *fich,char *buf)
+void TilTools::load_file_text(const char *fich,char *buf)
 {
   int len;
   char buffer[BUFSIZ];
@@ -102,7 +102,7 @@ CRepertoire::~CRepertoire()
 	if (Dir)
 		closedir(Dir);
 #endif
-	//clog << "Répertoire fermé.\n";
+	//clog << "Rï¿½pertoire fermï¿½.\n";
 }
 
 CRepertoire::CRepertoire()
@@ -113,7 +113,7 @@ CRepertoire::CRepertoire()
 #else
 	Dir=NULL;
 #endif
-	//clog << "On crée un répertoire.\n";
+	//clog << "On crï¿½e un rï¿½pertoire.\n";
 }
 
 void CRepertoire::ChercherPremier(const char * Filtre)

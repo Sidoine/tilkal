@@ -4,7 +4,7 @@
 namespace TilTools
 {
 	void make_bar_from_values(char *bar, float val, float max_val, int nb_char);
-	void load_file_text(char *fich,char *buf);
+	void load_file_text(const char *fich,char *buf);
 	bool strstrnocase(const char * stack, const char * needle);
 
 	#ifdef _WIN32
@@ -88,9 +88,8 @@ namespace TilTools
 	#endif
 		~CRepertoire();
 		CRepertoire();
-		CRepertoire(const char * Filtre)
+		CRepertoire(const char * Filtre) : CRepertoire()
 		{
-			CRepertoire::CRepertoire();
 			ChercherPremier(Filtre);
 		}
 		void ChercherPremier(const char * Filtre);

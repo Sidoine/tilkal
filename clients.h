@@ -10,10 +10,10 @@ namespace Tilkal
 
 	class CClients:public CClientsBase
 	{
-		static char buffer[BUFSIZ];
+		char buffer[BUFSIZ];
 
 	public:
-		static void report(char *txt, EReportLevel lvl);
+		void report(char *txt, EReportLevel lvl);
 		CClients()
 		{
 			size_t n=0;
@@ -29,9 +29,7 @@ namespace Tilkal
 }
 
 #ifdef _DEFINITIONS
-DEFINE_MYARRAY(Tilkal::CClient)
 Tilkal::CClients Client;
-char Tilkal::CClients::buffer[BUFSIZ];
 #else
 extern Tilkal::CClients Client;
 #endif

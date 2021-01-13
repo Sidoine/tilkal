@@ -30,10 +30,10 @@ template<class T, int Size>
 class TMyArray
 {
 public:
-	static T *t;
-	static int Free,Length,Allocated;
+	T *t;
+	int Free,Length,Allocated;
 	
-	static int New()
+	int New()
 	{
 		if (Free==Length)
 		{
@@ -59,7 +59,7 @@ public:
 		}
 	}
 	
-	static void Remove(int i)
+	void Remove(int i)
 	{
 		t[i].Destroy();
 		t[i]._Free=Free;
@@ -77,12 +77,12 @@ public:
 		t=NULL;
 	}
 
-	static bool IsActive(int i)
+	bool IsActive(int i)
 	{
 		return i<Length && t[i].Id==i;
 	}
 	
-	static bool SaveAll(const char * filename)
+	bool SaveAll(const char * filename)
 	{
 		FILE *fichier=fopen(filename,"wb");
 		if (fichier == NULL)
@@ -94,7 +94,7 @@ public:
 		return true;
 	}
 	
-	static bool LoadAll(const char * filename)
+	bool LoadAll(const char * filename)
 	{
 		FILE *fichier=fopen(filename,"rb");
 		if (fichier == NULL)
@@ -108,18 +108,12 @@ public:
 		return true;
 	}
 	
-	static bool IsAlive(int64 UID)
+	bool IsAlive(int64 UID)
 	{
 		int o=IDfromUID(UID);
 		return (IsActive(o) && t[o].UID==UID);
 	}
 };
-
-#define DEFINE_MYARRAY(Classe) \
-	Classe* Classe##sBase::t;\
-	int Classe##sBase::Free;\
-	int Classe##sBase::Length;\
-	int Classe##sBase::Allocated;
 
 template<class T, int Size=16>
 class AutoArray

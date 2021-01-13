@@ -55,7 +55,7 @@ namespace Tilkal
 		{
 			coveredpart[ncoveredparts++]=type;
 		}
-		void add_bodypart(char * name, EBodyPartType type, int linked_to, float resist,
+		void add_bodypart(const char * name, EBodyPartType type, int linked_to, float resist,
 		float health, float size, float height)
 		{
 			strncpy(bodypart[nbodyparts].name,name,32);

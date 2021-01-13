@@ -19,6 +19,8 @@ enum EPlLevel
 	GOD_HIGHEST=8 // Warning: the god level will be displayed with one digit
 };
 
+class CObject;
+
 enum EReportLevel
 {
 	REPORT_NOTHING=0,
@@ -53,7 +55,6 @@ public:
 	void create_standard();
 	void Destroy();
 	void Compute_Level();
-	friend class CObject;
 	inline CObject & obj();
 };
 

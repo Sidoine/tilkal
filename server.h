@@ -13,7 +13,7 @@ public:
 	static SOCKET telnetsock, httpsock;
 	static void DefaultWorld();
 	static void shut_down(void);
-	static void write_log(char *txt);
+	static void write_log(const char *txt);
 	static bool InitWorld();
 	static bool InitNetwork();
 	static void MainLoop();

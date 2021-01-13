@@ -1,0 +1,6 @@
+.git
+Dockerfile
+README.md
+makefile
+makefile.dbg
+makefile.rls

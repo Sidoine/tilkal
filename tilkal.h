@@ -1,5 +1,6 @@
 #include <stdlib.h>
 #include <stdio.h>
+#include <string.h>
 #include <iostream>
 #include <string>
 #include <assert.h>
@@ -129,7 +130,7 @@ namespace Tilkal
 #define	MAX_CARACS	11
 }
 
-//Certaines de ces définitions ne devraient pas être nécessaires...
+//Certaines de ces dï¿½finitions ne devraient pas ï¿½tre nï¿½cessaires...
 #define	SKILL_UNDEFINED		-1
 #define	SKILL_MOVE		0
 #define	SKILL_HAND_FIGHT	1
@@ -143,7 +144,7 @@ namespace Tilkal
 
 
 #ifndef _DEFINITIONS
-//Variables globales, à supprimer dans la version finale
+//Variables globales, ï¿½ supprimer dans la version finale
 extern char welcome_buf[BUFSIZ];
 extern char motd_buf[BUFSIZ];
 extern char death_buf[BUFSIZ];

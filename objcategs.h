@@ -13,7 +13,7 @@ namespace Tilkal
 	{
 	public:
 		void init();
-		static int New()
+		int New()
 		{
 			int n=CObjCategsBase::New();
 			t[n].numberable=false;
@@ -26,7 +26,6 @@ namespace Tilkal
 }
 
 #ifdef _DEFINITIONS
-DEFINE_MYARRAY(Tilkal::CObjCateg)
 Tilkal::CObjCategs ObjCateg;
 #else
 extern Tilkal::CObjCategs ObjCateg;

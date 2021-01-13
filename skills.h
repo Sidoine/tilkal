@@ -15,7 +15,6 @@ namespace Tilkal
 }
 
 #ifdef _DEFINITIONS
-DEFINE_MYARRAY(Tilkal::CSkill)
 Tilkal::CSkills Skill;
 #else
 extern Tilkal::CSkills Skill;

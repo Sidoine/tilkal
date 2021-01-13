@@ -151,7 +151,7 @@ void Server::shut_down()
 	exit(0);
 }
 
-void Server::write_log(char *txt)
+void Server::write_log(const char *txt)
 {
   char file[20];
   char now[200];
@@ -223,8 +223,10 @@ bool Server::InitNetwork()
 	}
 #endif
 
+	auto port = getenv("PORT");
+	
 	telnetsock=CreateSocket(4500);
-	httpsock=CreateSocket(4580);
+	httpsock=CreateSocket(port ? atoi(port) : 4580);
 	return true;
 }
 
