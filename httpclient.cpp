@@ -195,8 +195,8 @@ bool HTTPClient::Do()
 		}
 	}
 	while (!strstr(inbuffer,"\r\n\r\n"));
-	//On a besoin d'au moins r�cup�rer l'ent�te complet
-	//(qui se termine par deux retours � la ligne)
+	//On a besoin d'au moins récupérer l'entête complet
+	//(qui se termine par deux retours à la ligne)
 	
 	char * pos=inbuffer;
 	char * Methode=pos;
@@ -259,11 +259,11 @@ bool HTTPClient::Do()
 
 	int id=atoi(_id);
 		
-	//On limite le nom de fichier � 31 caract�res
+	//On limite le nom de fichier à 31 caractères
 	char filename[32];
 	strncpy(filename,file,31);
 	
-	//Maintenant on regarde les lignes d'apr�s
+	//Maintenant on regarde les lignes d'après
 	while (*pos!='\n')
 		pos++;
 	
@@ -327,12 +327,12 @@ bool HTTPClient::Do()
 	{
 		if (!Champ.Existe("nom")||!Champ.Existe("mdp"))
 		{
-			Fail(402,"Param�tres manquants");
+			Fail(402,"Paramètres manquants");
 			return false; 
 		}
 		int id=rand();
 		if (id==0)
-			id=1;//Parce qu'on consid�re qu'un id=0 signifie qu'on n'en a pas
+			id=1;//Parce qu'on considère qu'un id=0 signifie qu'on n'en a pas
 		sprintf(outbuffer,
 			"HTTP/1.1 200 OK\r\n"
 			"Content-Type: text/html\r\nCache-Control: no-cache\r\n\r\n"
@@ -347,14 +347,14 @@ bool HTTPClient::Do()
 	{
 		if (!Champ.Existe("nom")||!Champ.Existe("mdp"))
 		{
-			Fail(402,"Param�tres manquants");
+			Fail(402,"Paramètres manquants");
 			return false; 
 		}
 		char * nom=Champ["nom"]->Texte;
 		char * mdp=Champ["mdp"]->Texte;
 		if (!nom || !mdp)
 		{
-			Fail(402,"Param�tres manquants");
+			Fail(402,"Paramètres manquants");
 			return false; 
 		}
 		if (Player.Find(nom)==NOTHING)
@@ -375,14 +375,14 @@ bool HTTPClient::Do()
 			Send(outbuffer,(int)strlen(outbuffer));
 		}
 		else
-			Fail(402,"Ce nom est d�j� utilis�");
+			Fail(402,"Ce nom est déjà utilisé");
 	}
 	else 
 	if (strcmp(filename,"b")==0)
 	{
 		if (!Champ.Existe("nom")||!Champ.Existe("mdp"))
 		{
-			Fail(402,"Param�tres manquants");
+			Fail(402,"Paramètres manquants");
 			return false; 
 		}
 
@@ -390,7 +390,7 @@ bool HTTPClient::Do()
 		
 		if (u==NOTHING)
 		{
-			Fail(401,"Impossible de cr�er le client");
+			Fail(401,"Impossible de créer le client");
 			return false;
 		}
 		strcpy(outbuffer,"HTTP/1.1 200 OK\r\n"
@@ -517,7 +517,7 @@ bool HTTPClient::Param_MultiPart(const char * NomVariable,
 	HTML_Message("NOT Multipart:");
 #endif
 	if (!boundary || !*boundary)
-		return false;//HTML_Erreur("Le d�limiteur des donn�es du formulaire n'est pas d�fini.");
+		return false;//HTML_Erreur("Le délimiteur des données du formulaire n'est pas défini.");
 
 #ifdef DEBUG_PARAM
 	HTML_Message("NOT Boudary :");
@@ -531,9 +531,9 @@ bool HTTPClient::Param_MultiPart(const char * NomVariable,
 		NomFichier=NULL;
 
 		Depart=contenu;
-		//On saute le boundary pr�c�d� de deux -
+		//On saute le boundary précédé de deux -
 		contenu+=2+strlen(boundary);
-		//Si le boundary est suivi d'un tiret on met fin � la boucle
+		//Si le boundary est suivi d'un tiret on met fin à la boucle
 		if (*contenu=='-')
 			break;
 		SauterL(contenu);
@@ -559,13 +559,13 @@ bool HTTPClient::Param_MultiPart(const char * NomVariable,
 				{
 					contentType=metaVal;
 #ifdef DEBUG_PARAM
-					HTML_Message("NOT Content-type d�fini");
+					HTML_Message("NOT Content-type défini");
 #endif
 				}
 				else if (strcmp(metaNom,"content-disposition")==0)
 				{
 #ifdef DEBUG_PARAM
-					HTML_Message("NOT Content-disposition d�fini");
+					HTML_Message("NOT Content-disposition défini");
 #endif
 					while (*metaVal)
 					{
@@ -661,7 +661,7 @@ inline void PlusesToSpaces(char *Str)
 }
 
 inline int HexVal(char c)
-// Renvoie la valeur d'un caract�re correspondant � un chiffre hexad�cimal
+// Renvoie la valeur d'un caractère correspondant à un chiffre hexadécimal
 {
 	if ((c>='0') && (c<='9')) return (c-'0');
 	if ((c>='a') && (c<='f')) return (c-'a'+10);
@@ -670,7 +670,7 @@ inline int HexVal(char c)
 }
 
 inline void TranslateEscapes(char *Str)
-// Convertis les %XX en caract�res dont le XX est la valeur ASCII
+// Convertis les %XX en caractères dont le XX est la valeur ASCII
 {
 	char *NextEscape;
 	int AsciiValue;
@@ -686,9 +686,9 @@ inline void TranslateEscapes(char *Str)
 }
 
 bool HTTPClient::Param_URL(char * Input)
-//D�codage des param�tres cod�s URL
+//Décodage des paramètres codés URL
 {
-	// les variables sont s�par�es par le caract�re "&" 
+	// les variables sont séparées par le caractère "&" 
 
 	char *pToken;
 	char *NomVar,*ValVar;
