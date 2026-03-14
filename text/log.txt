@@ -2866,3 +2866,9 @@ Guest connected from [163.80.10.8]
 [09/25] 18:12:54 = [Tilkal] Loading text files.
 [09/25] 18:12:54 = [Tilkal] Initializing.
 [09/25] 18:12:54 = [Tilkal] Initiating skills.
+[02/14] 14:49:18 = [Tilkal] Server shut down.
+[02/14] 14:45:35 = [Tilkal] Starting main loop.
+[02/14] 14:45:35 = [Tilkal] Starting thread.
+[02/14] 14:45:35 = [Tilkal] Loading text files.
+[02/14] 14:45:35 = [Tilkal] Initializing.
+[02/14] 14:45:35 = [Tilkal] Initiating skills.

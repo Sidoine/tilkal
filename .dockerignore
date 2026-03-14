@@ -1,6 +1,7 @@
 .git
 Dockerfile
-README.md
-makefile
-makefile.dbg
-makefile.rls
+README
+build
+build-release
+CMakeFiles
+CMakeCache.txt

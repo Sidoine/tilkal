@@ -22,10 +22,6 @@ namespace Tilkal
 	};
 }
 
-#ifdef _DEFINITIONS
-Tilkal::CBans Ban;
-#else
 extern Tilkal::CBans Ban;
-#endif
 
 #endif

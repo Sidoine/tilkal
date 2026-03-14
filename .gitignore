@@ -1,10 +1,11 @@
 *.cache
 acces
 core
-Debug
+build/
+build-release/
+CMakeFiles/
+CMakeCache.txt
+CMakeUserPresets.json
 distr.tar.gz
 distr
 ipch
-makefile
-makefile.dbg
-makefile.rls

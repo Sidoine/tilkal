@@ -80,7 +80,9 @@ namespace TilTools
 			if (strlen(Nom)+strlen(de->d_name)>510)
 				throw "nom de fichier trop long";
 
-			sprintf(Temp,"%s/%s",Nom,de->d_name);
+			int path_length = snprintf(Temp,sizeof(Temp),"%s/%s",Nom,de->d_name);
+			if (path_length < 0 || size_t(path_length) >= sizeof(Temp))
+				throw "nom de fichier trop long";
 			if (stat(Temp,&Stat))
 				throw "le fichier qu'on voulait examiner a disparu";
 			StatLue=true;

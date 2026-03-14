@@ -1,14 +1,47 @@
 Tilkal is a MUD source code. It is dedicated to everybody who wants to
 put up a MUD without pain.
 
+# Build:
 
-Authors:
-========
+The project now uses CMake instead of the legacy Perl script that generated
+makefiles.
 
-* Code:
--------
+The default build stays on a broadly compatible C++11 profile. A first
+single-partition C++20 module preview exists for the bans subsystem, but it is
+kept experimental because the current WSL toolchain in this workspace is GCC
+9.4 and cannot build standard modules.
+
+Requirements:
+
+    cmake
+    g++
+
+Configure:
+
+    cmake -S . -B build -DCMAKE_BUILD_TYPE=Debug
+
+Build:
+
+    cmake --build build
+
+Release build:
+
+    cmake -S . -B build-release -DCMAKE_BUILD_TYPE=Release
+    cmake --build build-release
+
+Experimental modules build on a recent toolchain only:
+
+    cmake -S . -B build-modules -DTILKAL_ENABLE_EXPERIMENTAL_MODULES=ON
+    cmake --build build-modules
+
+Docker image build:
+
+    docker build -t tilkal .
+
+# Authors:
+
+- Code:
+
+---
 
 A. Beraud, S. De Wispelaere
-
-
-

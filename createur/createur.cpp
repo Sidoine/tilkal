@@ -338,13 +338,13 @@ void CCreateur::Percole(int i)
 
 /*
 
-	Crée une zone
+	Crï¿½e une zone
 	
 */
 
 bool CCreateur::CreerZone()
 {
-	printf("Salle.l=%d\nPorte.l=%d\n",Salle.l,Porte.l);
+	printf("Salle.l=%zu\nPorte.l=%zu\n",Salle.l,Porte.l);
 	pSalle=(int)Salle.l;
 	
 	Salle.Redim(nSalles);
@@ -361,7 +361,7 @@ bool CCreateur::CreerZone()
 		{
 			Salle[i].X=rand()%nMailles;
 			Salle[i].Y=rand()%nMailles;
-			//On vérifie que le Salle n'existe pas déjà
+			//On vï¿½rifie que le Salle n'existe pas dï¿½jï¿½
 			ok=true;
 			for (int j=pSalle;j<i; j++)
 			{
@@ -384,7 +384,7 @@ bool CCreateur::CreerZone()
 	Salle.l+=nSalles;
 	
 	int Eminence[4];
-	//On crée des éminences
+	//On crï¿½e des ï¿½minences
 	for (int e=0; e<3; e++)
 	{
 		int i=Eminence[e]=rand()%nSalles+pSalle;
@@ -455,7 +455,7 @@ bool CCreateur::CreerZone()
 				continue;
 			}
 
-			//On vérifie qu'aucun Salle n'appartient à la Porte
+			//On vï¿½rifie qu'aucun Salle n'appartient ï¿½ la Porte
 			SPoint orig=Salle[Porte[i].a];
 			SPoint fin=Salle[Porte[i].b];
 			if (fabsf(orig.x-fin.x)<0.00001)
@@ -506,7 +506,7 @@ bool CCreateur::CreerZone()
 			if (!ok)
 				continue;
 				
-			//ON vérifie qu'on croise pas une autre Porte			
+			//ON vï¿½rifie qu'on croise pas une autre Porte			
 			for (int j=pPorte; j<i; j++)
 			{
 				float ab=Porte[j].Direction*Porte[i].Direction;
@@ -517,7 +517,7 @@ bool CCreateur::CreerZone()
 				float div=ab*ab-1;
 				if (fabsf(div)<0.0001)
 				{
-					//Colinéaires
+					//Colinï¿½aires
 					if ((Porte[j].a==Porte[i].a
 						&& Porte[i].b==Porte[j].b)
 						||(Porte[j].b==Porte[i].a
@@ -548,7 +548,7 @@ bool CCreateur::CreerZone()
 			Porte[i].Existe=true;
 			Porte[i].Type=rand();
 			AjouterPorteDansSalles(i,Porte[i].a,Porte[i].b);
-			//On regarde si ça percole
+			//On regarde si ï¿½a percole
 			if (NombrePerc)
 			{
 				Percole(i);
@@ -562,7 +562,7 @@ bool CCreateur::CreerZone()
 	printf("\n");
 	if (nEssais==NMAXESSAIS)
 	{
-		printf("Raté\n");
+		printf("Ratï¿½\n");
 		return false;
 	}
 	SauverM();
@@ -602,7 +602,7 @@ void Createur::CreerUnivers(int Debut)
 {
 	//Auberge : rat mort
 	//Ville : canard borgne
-	//Plaine : castor à trois pattes
+	//Plaine : castor ï¿½ trois pattes
 	
 	CCreateur Createur;
 	if (!Createur.CreerZone())
@@ -659,7 +659,7 @@ void Createur::CreerUnivers(int Debut)
 		Door[id].add_to_rooms(Salle[Porte[p].a].Id,Salle[Porte[p].b].Id);
 		
 	}
-	int id=Door.New("entrée","sortie");
+	int id=Door.New("entrï¿½e","sortie");
 	Door[id].add_to_rooms(Debut,premiere);
 	Salle.Detruire();
 	Porte.Detruire();

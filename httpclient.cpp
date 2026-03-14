@@ -161,15 +161,15 @@ void HTTPClient::Fail(size_t Error,const char * msg)
 	int l;
 	if (msg)
 	{
-		l=sprintf(outbuffer,"HTTP/1.1 %d Z\r\n\r\n"
-			"<html><head><title>Error %d</title></head>"
+		l=sprintf(outbuffer,"HTTP/1.1 %zu Z\r\n\r\n"
+			"<html><head><title>Error %zu</title></head>"
 			"<body>%s</body></html>",Error,Error,msg);
 	}
 	else
 	{
-		l=sprintf(outbuffer,"HTTP/1.1 %d Z\r\n\r\n"
-			"<html><head><title>Error %d</title></head>"
-			"<body>Error %d</body></html>",Error,Error,Error);
+		l=sprintf(outbuffer,"HTTP/1.1 %zu Z\r\n\r\n"
+			"<html><head><title>Error %zu</title></head>"
+			"<body>Error %zu</body></html>",Error,Error,Error);
 	}
 	Send(outbuffer,l);
 }

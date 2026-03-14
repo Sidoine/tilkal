@@ -3,18 +3,18 @@
 
 using namespace Tilkal;
 
+CBans Ban;
+
 bool CBans::SaveAll(const char * filename)
 {
-  FILE *fichier;
+  FILE *fichier=fopen(filename,"w");
 
-  fichier=fopen(filename,"w");
-
-  if (fichier == NULL)
+	if (fichier == NULL)
   	return false;
   
   for (int i=0;i<Length;i++)
-    if (t[i].Id==i)
-      fprintf(fichier,"%s\n",t[i].IP);
+	if (t[i].Id==i)
+	  fprintf(fichier,"%s\n",t[i].IP);
   fclose(fichier);
   return true;
 }
@@ -22,27 +22,25 @@ bool CBans::SaveAll(const char * filename)
 bool CBans::LoadAll(const char * filename)
 {
 	char tmp[50];
-	FILE *fichier;
+	FILE *fichier=fopen(filename,"r");
 
-	if ((fichier=fopen(filename,"r"))!=NULL)
-	{
-		while (fgets(tmp,BUFSIZ,fichier))
-		{
-			tmp[strlen(tmp)-1]='\0';
-			New(tmp);	
-		}
-		fclose(fichier);
-		printf("[Tilkal] Loaded baned IPs.\r\n");
-	}
-	else 
+	if (fichier == NULL)
 		return false;
+
+	while (fgets(tmp,sizeof(tmp),fichier))
+	{
+		tmp[strcspn(tmp,"\r\n")]='\0';
+		New(tmp);	
+	}
+	fclose(fichier);
+	printf("[Tilkal] Loaded banned IPs.\r\n");
 	return true;
 }
 
 int CBans::Find(const char *ip)
 {
 	for (int i=0; i<Length; i++)
-		if (Ban.IsActive(i) && strcmp(Ban[i].IP,ip)==0)
+		if (IsActive(i) && strcmp(t[i].IP,ip)==0)
 			return (int)i;
 	return NOTHING;
 }
